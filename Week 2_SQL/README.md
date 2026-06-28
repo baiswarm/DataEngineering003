@@ -9,13 +9,13 @@ Sample Superstore Dataset-
 Records: Approximately 9,994 rows
 
 Tasks Performed:
-Explored the dataset structure and records
-Applied WHERE filters on region, category, sales, and dates
-Used GROUP BY for aggregations
-Performed sorting and limiting to identify top products and categories
-Analyzed top customers
-Checked for duplicate records
-Validated dataset quality and row counts
+1.Explored the dataset structure and records
+2.Applied WHERE filters on region, category, sales, and dates
+3.Used GROUP BY for aggregations
+4.Performed sorting and limiting to identify top products and categories
+5.Analyzed top customers
+6.Checked for duplicate records
+7.alidated dataset quality and row counts
 
 TASK 2:
 Objective: Design and implement an E-Commerce Sales Database using SQL and perform database operations including table creation, constraints, filtering, aggregation, joins, indexing, transactions, and data analysis.
@@ -23,17 +23,17 @@ Objective: Design and implement an E-Commerce Sales Database using SQL and perfo
 Database Name: ecommerce_db
 
 Tasks Performed:
-Created database and tables using SQL
-Defined Primary Keys, Foreign Keys, and Constraints
-Inserted sample records into all tables
-Performed data retrieval using SELECT statements
-Applied filtering using WHERE conditions
-Used aggregate functions such as COUNT, SUM, AVG, MAX, and MIN
-Performed GROUP BY and HAVING operations
-Executed JOIN queries across multiple tables
-Demonstrated the use of indexes and query optimization concepts
-Applied CASE statements for data categorization
-Explained ACID properties and transactions
-Implemented transaction management using COMMIT and ROLLBACK
+1. Created database and tables using SQL
+2. Defined Primary Keys, Foreign Keys, and Constraints
+3. Inserted sample records into all tables
+4. Performed data retrieval using SELECT statements
+5. Applied filtering using WHERE conditions
+6. Used aggregate functions such as COUNT, SUM, AVG, MAX, and MIN
+7. Performed GROUP BY and HAVING operations
+8. Executed JOIN queries across multiple tables
+9. Demonstrated the use of indexes and query optimization concepts
+10. Applied CASE statements for data categorization
+11. Explained ACID properties and transactions
+12. Implemented transaction management using COMMIT and ROLLBACK
 
 PLATFORM USED: MySQL WorkBench
