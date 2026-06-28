@@ -9,13 +9,13 @@ Sample Superstore Dataset-
 Records: Approximately 9,994 rows
 
 Tasks Performed:
-1.Explored the dataset structure and records
-2.Applied WHERE filters on region, category, sales, and dates
-3.Used GROUP BY for aggregations
-4.Performed sorting and limiting to identify top products and categories
-5.Analyzed top customers
-6.Checked for duplicate records
-7.alidated dataset quality and row counts
+1. Explored the dataset structure and records
+2. Applied WHERE filters on region, category, sales, and dates
+3. Used GROUP BY for aggregations
+4. Performed sorting and limiting to identify top products and categories
+5. Analyzed top customers
+6. Checked for duplicate records
+7. validated dataset quality and row counts
 
 TASK 2:
 Objective: Design and implement an E-Commerce Sales Database using SQL and perform database operations including table creation, constraints, filtering, aggregation, joins, indexing, transactions, and data analysis.
