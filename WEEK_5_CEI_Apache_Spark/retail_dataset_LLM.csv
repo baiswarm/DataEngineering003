@@ -1,0 +1,1001 @@
+transaction_id,user_id,username,email,age,subscription,city,region,store_id,transaction_date,raw_timestamp,product_category,sale_amount,price,status
+TXN000522,USER0091,shawgary,@nodomain.com,68,Premium,Patna,East,STORE004,2025-02-14,2025-02-14 03:47:03,Beauty,11694.9,,Returned
+TXN000738,USER0204,sheryl79,sheryl79@outlook.com,18,Premium,  Patna  ,EAST,STORE004,2025-05-27,,Electronics,9777.38,77396.99,Returned
+TXN000741,USER0064,vbrock,,22,Basic,Chandigarh,North,STORE001,2026-10-14,2026-10-14 05:05:18,Beauty,23554.53,48570.92,Completed
+TXN000661,USER0209,trussell,,48,Premium,Pune,WEST,STORE004,04-28-2025,2025-04-28 08:03:20,Sports,23450.67,88626.97,Cancelled
+TXN000412,USER0069,nwarren,nwarren@outlook.com,20,Basic,Mumbai,West,STORE004,17/07/2025,2025-07-17 00:44:24,Beauty,29541.99,69734.07,
+TXN000679,USER0196,ugill,ugill@hotmail.com,24,Free,Mumbai,West,STORE004,2026-11-25,2026-11-25 01:35:03,,86471.82,78768.73,Completed
+TXN000627,USER0213,jenniferburns,jenniferburns@hotmail.com,65,Free,Chennai,south,STORE005,2025-01-09,2025-01-09 03:40:54,Sports,55475.02,29148.38,Returned
+TXN000514,USER0255,coleerin,coleerin@rediffmail.com,69,Free,Chandigarh,North,STORE002,2026-08-29,2026-08-29 02:52:52,Electronics,80464.91,42678.53,Returned
+TXN000860,USER0212,hatfieldsarah,hatfieldsarah@gmail.com,49,Free,Kolkata,East,STORE001,2025-08-01,2025-08-01 12:06:31,Grocery,68764.91,37587.91,Cancelled
+TXN000137,USER0082,,pwilliams@gmail.com,27,Free,Mumbai,WEST,STORE004,18/03/2025,2025-03-18 21:40:25,Electronics,12710.38,,Cancelled
+TXN000812,USER0064,candice25,candice25@gmail.com,70,Premium,Chennai,South,STORE001,08/06/2025,2025-06-08 07:03:34,Beauty,29744.18,51203.09,Returned
+TXN000077,USER0204,richarddavid,richarddavid@gmail.com,39,Free,Mumbai,West,STORE005,2025-03-18,2025-03-18 15:50:16,Furniture,95418.55,,Returned
+TXN000637,USER0126,ybrooks,ybrooks@hotmail.com,39,Basic,Hyderabad,South,STORE005,2025-07-26,2025-07-26 14:26:49,Grocery,8614.86,37306.39,Returned
+TXN000256,USER0104,sandraromero,sandraromero@yahoo.com,67,Free,Chandigarh,NORTH,STORE001,2025-11-22,,Grocery,10655.21,45011.72,Cancelled
+TXN000939,USER0136,deborahporter,,46,Basic,Mumbai,West,STORE001,2025-05-08,2025-05-08 09:36:42,Furniture,986.18,3796.68,Cancelled
+TXN000900,USER0224,edwardrandolph,edwardrandolph@gmail.com,26,Free,Lucknow,North,STORE004,2026-08-04,2026-08-04 20:29:34,Sports,31394.72,93494.49,Cancelled
+TXN000281,USER0135,michael62,michael62@yahoo.com,35,Free,Mumbai,West,STORE001,11/07/2025,2025-07-11 14:02:16,Grocery,75248.29,66780.1,Completed
+TXN000884,USER0253,perezwilliam,perezwilliam@rediffmail.com,45,Premium,Ahmedabad,West,STORE001,2026-02-17,2026-02-17 05:38:17,Sports,24969.53,11197.17,Completed
+TXN000762,USER0196,grodriguez,grodriguez@outlook.com,58,Free,Hyderabad,South,STORE004,2026-12-10,2026-12-10 21:42:05,Clothing,1259.08,11751.1,
+TXN000320,USER0222,,rgilbert@yahoo.com,48,Basic,Bangalore,South,STORE004,16/06/2026,2026-06-16 16:44:44,Grocery,83919.4,55878.59,Completed
+TXN000550,USER0071,wgordon,wgordon@yahoo.com,29,Basic,Ahmedabad,West,STORE003,2025-06-29,2025-06-29 17:29:45,Beauty,49109.5,82297.64,Cancelled
+TXN000175,USER0227,tsanders,tsanders@gmail.com,61,Premium,Mumbai,West,STORE005,10/08/2026,2026-08-10 17:09:10,Furniture,9185.07,51086.5,Completed
+TXN000372,USER0204,craigjoseph,craigjoseph@yahoo.com,60,Premium,Hyderabad,South,STORE002,2025-09-17,2025-09-17 09:36:22,Furniture,78332.62,94929.59,Completed
+TXN000528,USER0077,dawn47,dawn47@rediffmail.com,18,Basic,Jaipur,North,STORE001,2025-09-11,2025-09-11 10:27:37,Electronics,-99128.22,73374.28,Completed
+TXN000211,USER0215,ewilson,ewilson@rediffmail.com,20,Basic,Patna,East,STORE005,2026-08-20,2026-08-20 12:34:32,Beauty,63854.22,8589.7,
+TXN000236,USER0197,lmoon,lmoon@gmail.com,64,Premium,Chandigarh,North,STORE001,2026-03-09,2026-03-09 22:08:30,Clothing,36819.41,29995.61,Returned
+TXN000102,USER0189,kimberly69,kimberly69@gmail.com,66,Basic,Chandigarh,North,STORE005,2026-11-04,2026-11-04 15:14:54,Grocery,80741.41,84531.0,Completed
+TXN000074,USER0077,hshaw,hshaw@hotmail.com,52,Basic,Pune,West,STORE003,02/11/2025,2025-11-02 18:37:42,Clothing,55236.55,54388.66,Returned
+TXN000903,USER0055,,usweeney@outlook.com,56,Premium,  Kolkata,east,STORE003,25/02/2025,2025-02-25 02:03:17,Beauty,48198.64,33197.63,
+TXN000948,USER0186,katie32,katie32@yahoo.com,47,Basic,Hyderabad,South,STORE001,07/09/2025,2025-09-07 10:15:51,Sports,24180.54,73306.55,Returned
+TXN000347,USER0081,mcguiredanny,,32,Premium,Delhi,North,STORE004,2026-01-26,2026-01-26 12:52:42,Books,79768.71,54617.87,Pending
+TXN000140,USER0252,jrivas,jrivas@yahoo.com,25,Premium,Patna,east,STORE001,2025-08-08,2025-08-08 19:18:44,Furniture,17348.37,,completed
+TXN000622,USER0133,foxallison,foxallison@gmail.com,45,Free,Chandigarh,North,STORE001,2025-12-16,2025-12-16 05:13:11,Electronics,39553.89,1429.13,RETURNED
+TXN000500,USER0093,nlewis,nlewis@outlook.com,53,Premium,Pune,West,STORE001,2026-11-20,2026-11-20 18:49:12,Books,6888.4,41183.75,Completed
+TXN000371,USER0204,wareeric,wareeric@yahoo.com,44,Free,Bangalore,South,STORE005,07-03-2026,2026-07-03 13:36:23,Furniture,17954.09,55953.47,Returned
+TXN000199,USER0204,jbarajas,jbarajas@gmail.com,37,Premium,Hyderabad,South,STORE005,2025-01-17,2025-01-17 06:37:09,Grocery,-56712.92,,Cancelled
+TXN000688,USER0135,sabrinaweaver,sabrinaweaver@yahoo.com,39,Free,Lucknow,North,STORE002,01-31-2025,2025-01-31 06:12:18,Grocery,19679.16,17690.13,Cancelled
+TXN000585,USER0105,stephanie24,stephanie24@hotmail.com,35,Basic,Patna,East,STORE002,2026-02-25,,Clothing,68716.8,23689.37,Pending
+TXN000902,USER0151,tapiaaaron,tapiaaaron@gmail.com,66,Basic,Chandigarh,North,STORE002,2025-09-06,2025-09-06 18:32:23,Furniture,67040.92,46334.5,Returned
+TXN000060,USER0034,brownjessica,brownjessica@hotmail.com,49,Premium,Chandigarh,North,STORE005,2025-02-22,2025-02-22 08:55:30,Sports,68676.46,,Cancelled
+TXN000329,USER0165,brendali,brendali@rediffmail.com,42,Basic,Bangalore  ,South,STORE005,2025-04-17,2025-04-17 12:42:38,Sports,76261.23,27432.23,Cancelled
+TXN000097,USER0042,landryhannah,landryhannah@outlook.com,56,Premium,Chandigarh,north,STORE001,18/05/2026,2026-05-18 22:58:28,Grocery,27574.1,63344.36,Cancelled
+TXN000313,USER0002,tblankenship,tblankenship@gmail.com,60,Premium,Mumbai,West,STORE001,01/08/2025,2025-08-01 22:59:30,Books,57457.86,49460.99,COMPLETED
+TXN000447,USER0219,gbrown,gbrown@hotmail.com,67,Premium,Patna,East,STORE005,2026-12-06,2026-12-06 10:55:29,Sports,82450.42,72048.07,Returned
+TXN000300,USER0093,jessica14,jessica14@outlook.com,24,Basic,Kolkata,East,STORE002,19/11/2026,2026-11-19 11:32:19,Sports,-25939.32,80853.55,Pending
+TXN000278,USER0136,hodgesjane,hodgesjane@outlook.com,37,Premium,Chennai,South,STORE001,2025-07-14,2025-07-14 13:44:35,Electronics,39350.93,55011.3,Returned
+TXN000925,USER0255,,jbond@rediffmail.com,1,Free,Chandigarh,North,STORE003,2025-05-13,2025-05-13 08:46:02,Furniture,47811.5,78176.03,PENDING
+TXN000602,USER0106,hebertmatthew,hebertmatthew@rediffmail.com,31,Basic,Chandigarh,North,STORE002,2025-10-22,2025-10-22 23:31:24,Furniture,18118.95,,Completed
+TXN000440,USER0202,moniquewilliams,moniquewilliams@yahoo.com,23,Free,Mumbai,West,STORE004,2026-07-23,2026-07-23 08:14:09,Beauty,96064.51,61283.59,Pending
+TXN000838,USER0005,smiththomas,smiththomas@yahoo.com,24,Basic,Hyderabad,South,STORE004,2026-09-28,2026-09-28 20:03:47,Grocery,57056.36,85397.54,Pending
+TXN000571,USER0028,shernandez,shernandez@gmail.com,49,Free,Delhi,North,STORE001,2026-05-25,2026-05-25 07:40:08,Grocery,38325.03,,Pending
+TXN000880,USER0259,jennifer91,jennifer91@gmail.com,26,Premium,Lucknow,North,STORE003,11-16-2025,2025-11-16 22:29:41,Furniture,97508.96,86799.09,PENDING
+TXN000262,USER0182,ugibson,ugibson@yahoo.com,29,Basic,Mumbai,West,STORE003,2026-05-24,2026-05-24 00:24:43,Furniture,88354.04,3561.48,Pending
+TXN000579,USER0166,plee,plee@rediffmail.com,24,Basic,Ahmedabad,West,STORE001,2026-08-26,2026-08-26 00:20:24,Sports,67543.62,33663.15,CANCELLED
+TXN000024,USER0179,richard13,richard13@gmail.com,33,Basic,Jaipur,North,STORE003,2025-03-17,2025-03-17 17:13:32,Grocery,43874.64,,Cancelled
+TXN000031,USER0117,,hernandezernest@yahoo.com,19,Free,Kolkata,East,STORE002,2025-07-24,2025-07-24 14:22:19,Furniture,32893.37,,CANCELLED
+TXN000618,USER0080,christina32,christina32@hotmail.com,51,Free,Jaipur,North,STORE005,2026-06-10,2026-06-10 10:29:43,Electronics,29141.23,43791.82,RETURNED
+TXN000011,USER0153,cassandra07,cassandra07@rediffmail.com,56,Premium,Chandigarh,North,STORE002,2026-05-28,2026-05-28 05:32:58,Clothing,76274.83,53983.97,Completed
+TXN000222,USER0162,moorericky,moorericky@hotmail.com,57,Premium,Lucknow,North,STORE003,23/07/2026,2026-07-23 05:31:18,Electronics,48512.43,19593.34,Returned
+TXN000821,USER0216,powellkara,powellkara@yahoo.com,31,Premium,Kolkata,East,STORE001,2025-10-29,2025-10-29 14:09:53,Sports,13866.35,96208.99,Pending
+TXN000297,USER0056,jeffery39,,22,Basic,Mumbai,West,STORE003,2026-07-29,2026-07-29 20:38:38,Sports,32581.19,27760.8,Cancelled
+TXN000055,USER0209,ilewis,ilewis@hotmail.com,53,Premium,Chandigarh,North,STORE004,24/07/2026,2026-07-24 00:33:12,Sports,71213.06,44872.64,completed
+TXN000543,USER0235,nlevy,nlevy@outlook.com,27,Premium,  Hyderabad  ,SOUTH,STORE005,2025-01-26,2025-01-26 12:59:31,Beauty,33194.94,70574.59,Returned
+TXN000210,USER0124,tammyking,tammyking@outlook.com,60,Premium,Bangalore,South,STORE004,2026-02-23,2026-02-23 21:31:08,Books,37761.38,,Returned
+TXN000605,USER0024,znelson,znelson@gmail.com,34,Free,Bhubaneswar,East,STORE005,2026-04-28,2026-04-28 11:38:42,Furniture,30320.48,39530.21,
+TXN000693,USER0192,williambrooks,williambrooks@rediffmail.com,62,Basic,Mumbai,West,STORE004,2026-05-26,2026-05-26 16:29:11,Furniture,26906.71,40154.51,Completed
+TXN000663,USER0217,oallen,oallen@rediffmail.com,46,Premium,Jaipur,North,STORE001,2026-01-18,2026-01-18 17:10:50,Books,46518.74,82954.24,Cancelled
+TXN000867,USER0181,fmiles,fmiles@hotmail.com,19,Premium,Kolkata,EAST,STORE002,24/08/2026,2026-08-24 13:18:38,Books,32335.85,79110.55,Cancelled
+TXN000071,USER0160,smoore,smoore@rediffmail.com,18,Free,  Chennai,South,STORE004,2026-10-08,2026-10-08 19:51:15,Electronics,22547.6,,
+TXN000544,USER0227,brandon47,,62,Premium,Kolkata,East,STORE004,24/10/2025,2025-10-24 18:42:09,Electronics,14028.39,55140.9,Cancelled
+TXN000108,USER0257,garrisonjeffrey,garrisonjeffrey@rediffmail.com,60,Basic,Chennai,SOUTH,STORE001,2025-06-29,2025-06-29 04:24:34,Furniture,86190.26,,Completed
+TXN000494,USER0008,erikarush,erikarush@gmail.com,56,Premium,Kolkata,east,STORE005,2025-05-16,2025-05-16 19:17:17,Sports,15198.45,44720.65,PENDING
+TXN000591,USER0058,danawilliams,danawilliams@outlook.com,52,Basic,Ahmedabad,WEST,STORE004,2025-09-18,2025-09-18 18:03:31,Sports,24710.03,27845.6,Pending
+TXN000742,USER0022,,pcook@gmail.com,31,Free,Bhubaneswar,East,STORE001,01-10-2025,,Furniture,60338.19,98690.99,
+TXN000293,USER0243,victoria40,victoria40@rediffmail.com,53,Basic,Mumbai,West,STORE003,2025-09-05,2025-09-05 11:31:38,Grocery,83781.61,25940.13,Completed
+TXN000290,USER0046,mbruce,user@.com,46,Premium,Bangalore,South,STORE004,2025-11-25,2025-11-25 08:46:26,Sports,48497.59,51698.49,Cancelled
+TXN000653,USER0068,taylorvictoria,taylorvictoria@yahoo.com,50,Free,Chennai,South,STORE004,2025-12-12,2025-12-12 12:30:53,Books,45047.95,44962.57,
+TXN000040,USER0234,georgetracy,georgetracy@yahoo.com,69,Basic,Kolkata,east,STORE005,2025-02-21,2025-02-21 17:15:58,Beauty,59585.69,,Returned
+TXN000590,USER0121,johnsantiago,johnsantiago@hotmail.com,31,Premium,Hyderabad,south,STORE001,2025-11-17,2025-11-17 10:53:37,Grocery,21489.45,27527.28,Returned
+TXN000308,USER0207,christopher60,christopher60@gmail.com,32,Premium,Lucknow,North,STORE002,2025-12-17,2025-12-17 15:22:48,Grocery,73434.25,59010.31,Pending
+TXN000680,USER0052,nathangutierrez,nathangutierrez@outlook.com,59,Free,Mumbai,West,STORE001,2026-04-10,2026-04-10 12:29:50,Furniture,51769.57,58822.55,Completed
+TXN000067,USER0090,michellebarrera,michellebarrera@hotmail.com,51,Free,Hyderabad,South,STORE004,2026-11-20,2026-11-20 08:36:02,Clothing,18230.77,,Returned
+TXN000276,USER0038,williamsonjimmy,williamsonjimmy@outlook.com,28,Basic,Bhubaneswar,East,STORE002,29/10/2025,2025-10-29 00:20:16,Sports,7592.74,94189.23,
+TXN000068,USER0054,nicholasgalloway,,39,Basic,Mumbai,West,STORE004,04-04-2025,2025-04-04 15:22:26,Clothing,66292.1,,Completed
+TXN000319,USER0007,nicolepena,,67,Free,Bangalore,South,STORE005,28/03/2026,2026-03-28 01:04:16,Sports,56544.72,97791.77,Cancelled
+TXN000549,USER0172,michaelroberts,michaelroberts@gmail.com,55,Basic,Bhubaneswar,EAST,STORE001,2025-05-28,2025-05-28 06:19:30,Electronics,41005.12,,Returned
+TXN000381,USER0176,ythompson,ythompson@gmail.com,53,Premium,Chennai,South,STORE004,12/09/2025,2025-09-12 09:05:25,Clothing,35418.44,89442.19,Cancelled
+TXN000715,USER0091,irhodes,irhodes@outlook.com,25,Free,Bangalore,south,STORE004,2025-06-15,2025-06-15 05:53:01,Grocery,7850.77,,Cancelled
+TXN000754,USER0075,john26,john26@outlook.com,32,Basic,Pune,West,STORE004,09/02/2026,,Grocery,60186.39,14672.48,Completed
+TXN000328,USER0222,,kristinharris@rediffmail.com,48,Free,  Delhi,North,STORE002,2026-05-26,2026-05-26 00:33:47,Sports,57897.58,,Pending
+TXN000383,USER0041,charles06,charles06@hotmail.com,57,Premium,Chandigarh,north,STORE005,2026-09-26,2026-09-26 11:09:49,Electronics,84816.26,37182.53,
+TXN000452,USER0186,awest,awest@gmail.com,51,Free,  Mumbai,west,STORE004,07/05/2025,2025-05-07 02:07:45,Sports,79127.55,51215.48,Pending
+TXN000523,USER0167,georgeweber,georgeweber@yahoo.com,67,Premium,Lucknow,north,STORE003,30/08/2026,2026-08-30 18:20:26,Grocery,9896.61,73801.01,Pending
+TXN000219,USER0199,lynchjody,not-an-email,43,Free,Mumbai,West,STORE001,2026-11-18,2026-11-18 15:33:40,Clothing,35263.29,45840.27,Pending
+TXN000788,USER0066,whiteheather,whiteheather@outlook.com,66,Basic,Kolkata,east,STORE005,2026-03-08,2026-03-08 15:35:31,Sports,92363.77,84321.99,Returned
+TXN000437,USER0119,xhammond,,50,Free,Bangalore,south,STORE001,2025-01-20,2025-01-20 09:55:56,Clothing,48517.75,,Completed
+TXN000765,USER0033,,michaeljohnson@rediffmail.com,55,Free,Ahmedabad,West,STORE001,07-24-2026,2026-07-24 17:50:51,Books,75323.52,96571.54,Completed
+TXN000089,USER0210,darrell18,darrell18@gmail.com,26,Premium,Mumbai,West,STORE001,2026-10-13,2026-10-13 14:58:44,Clothing,99593.14,,Pending
+TXN000064,USER0102,williamsyvette,williamsyvette@hotmail.com,25,Free,Hyderabad,South,STORE002,2026-12-05,2026-12-05 07:59:16,Sports,14984.04,,pending
+TXN000827,USER0208,sadams,,28,Premium,Bangalore,SOUTH,STORE003,12-11-2026,2026-12-11 14:30:20,Sports,42479.77,27064.96,completed
+TXN000717,USER0003,brian63,brian63@gmail.com,67,Basic,Delhi,North,STORE002,2026-02-04,2026-02-04 22:19:28,Grocery,37527.01,23930.18,Completed
+TXN000352,USER0157,gloriawells,gloriawells@rediffmail.com,27,Free,Bangalore,South,STORE005,2025-11-22,2025-11-22 15:28:21,Clothing,80789.21,95870.03,Pending
+TXN000937,USER0134,joshuagriffin,joshuagriffin@yahoo.com,42,Basic,Chennai,South,STORE002,2026-07-02,2026-07-02 14:27:36,Grocery,90780.49,28141.94,cancelled
+TXN000257,USER0107,michellehill,michellehill@hotmail.com,37,Basic,Bhubaneswar,East,STORE003,21/02/2026,2026-02-21 03:34:22,Books,12079.36,15845.78,cancelled
+TXN000636,USER0260,kaylacannon,kaylacannon@hotmail.com,64,Premium,Mumbai,West,STORE002,2025-06-10,2025-06-10 23:18:45,Sports,36437.32,81934.16,Completed
+TXN000645,USER0174,opatel,opatel@yahoo.com,69,Free,Delhi,north,STORE005,2026-04-05,2026-04-05 09:36:47,Beauty,71493.25,93760.19,pending
+TXN000555,USER0040,cporter,cporter@rediffmail.com,30,Free,Bangalore,South,STORE002,2025-02-19,2025-02-19 09:18:33,Books,9541.41,75287.59,Cancelled
+TXN000960,USER0057,samantharichard,samantharichard@gmail.com,46,Basic,Pune,West,STORE004,2026-04-01,2026-04-01 16:08:53,Clothing,8777.7,13768.12,
+TXN000169,USER0235,howelljohn,howelljohn@outlook.com,63,Premium,Mumbai,West,STORE001,2025-10-07,2025-10-07 06:51:07,Sports,33777.51,,Pending
+TXN000918,USER0018,tami37,tami37@yahoo.com,18,Basic,Chandigarh,North,STORE004,2026-08-20,2026-08-20 00:40:42,Beauty,54703.43,7289.32,PENDING
+TXN000529,USER0051,lindacohen,lindacohen@hotmail.com,49,Premium,Kolkata,EAST,STORE001,2026-03-12,2026-03-12 16:25:30,Beauty,75332.56,69346.67,Returned
+TXN000824,USER0007,simonstephen,simonstephen@outlook.com,25,Premium,Mumbai,West,STORE001,2026-04-27,2026-04-27 13:46:21,Sports,3308.7,75138.18,Pending
+TXN000187,USER0097,marcus31,marcus31@rediffmail.com,64,Free,Patna,East,STORE005,2026-11-21,2026-11-21 19:38:02,Grocery,47991.48,86960.44,Cancelled
+TXN000817,USER0245,jenniferpoole,jenniferpoole@gmail.com,25,Free,Mumbai,West,STORE004,2026-11-03,2026-11-03 04:20:09,Sports,27919.77,9135.66,Pending
+TXN000087,USER0188,cheryl80,cheryl80@gmail.com,68,Basic,Bhubaneswar,east,STORE001,2025-08-20,2025-08-20 21:46:43,Clothing,53703.57,,Cancelled
+TXN000433,USER0192,karen73,karen73@yahoo.com,66,Free,Jaipur,north,STORE001,2026-03-28,,Electronics,73984.2,24380.53,Pending
+TXN000185,USER0154,christina87,christina87@yahoo.com,69,Basic,Kolkata,east,STORE001,2025-07-08,,Beauty,41326.48,41709.14,Pending
+TXN000280,USER0251,williamslaura,williamslaura@outlook.com,23,Free,Mumbai,West,STORE005,30/04/2026,2026-04-30 03:19:50,Furniture,18569.63,88560.72,Cancelled
+TXN000535,USER0217,floressteven,floressteven@outlook.com,21,Premium,Jaipur,North,STORE003,08-19-2025,2025-08-19 10:22:57,Clothing,45295.82,50194.86,Completed
+TXN000295,USER0005,lozanojulie,lozanojulie@yahoo.com,34,Free,Bangalore,South,STORE003,2026-05-01,,Sports,96705.74,64309.76,returned
+TXN000893,USER0231,jeffreyblack,jeffreyblack@rediffmail.com,29,Basic,Bangalore,South,STORE003,2026-10-17,,Clothing,39163.52,41787.7,Cancelled
+TXN000426,USER0049,chrisrichard,chrisrichard@rediffmail.com,59,Basic,Kolkata,East,STORE001,2025-11-29,2025-11-29 15:11:31,Sports,80853.28,38216.46,COMPLETED
+TXN000714,USER0035,anneknight,,53,Free,  Pune  ,West,STORE002,2025-12-01,2025-12-01 21:47:29,Sports,95006.84,14111.55,Cancelled
+TXN000261,USER0170,jreed,jreed@gmail.com,20,Basic, Kolkata,East,STORE001,2025-05-12,2025-05-12 02:57:54,Grocery,92420.76,43372.32,returned
+TXN000238,USER0045,harrisonricky,harrisonricky@gmail.com,26,Premium,Kolkata,East,STORE005,02-26-2026,2026-02-26 19:43:28,Sports,38464.79,96328.55,Cancelled
+TXN000560,USER0040,brittney88,brittney88@gmail.com,67,Basic,Hyderabad,South,STORE004,22/03/2025,2025-03-22 13:44:48,Electronics,19715.46,3375.99,Completed
+TXN000584,USER0187,zhuang,zhuang@hotmail.com,27,Premium,Ahmedabad,West,STORE002,2026-08-03,2026-08-03 23:40:03,Sports,68562.13,30097.54,RETURNED
+TXN000446,USER0114,bwilkerson,bwilkerson@yahoo.com,66,Premium,Bhubaneswar,East,STORE001,23/02/2026,2026-02-23 00:59:17,Grocery,92717.61,98564.2,RETURNED
+TXN000868,USER0075,joshuacollins,joshuacollins@outlook.com,25,Premium,Mumbai,West,STORE003,09/09/2025,2025-09-09 02:13:42,Sports,1189.01,32954.05,Returned
+TXN000801,USER0200,hdunn,hdunn@hotmail.com,56,Basic,Mumbai  ,west,STORE002,2025-06-19,2025-06-19 14:48:32,Grocery,459.69,,Completed
+TXN000600,USER0026,lfrench,lfrench@hotmail.com,57,Basic,Kolkata,EAST,STORE005,2026-04-19,2026-04-19 06:16:44,Clothing,15010.19,95807.48,PENDING
+TXN000850,USER0045,fheath,fheath@gmail.com,23,Free,Kolkata,East,STORE001,2026-12-20,2026-12-20 19:59:57,Beauty,93256.43,10457.16,Completed
+TXN000266,USER0029,zthornton,zthornton@yahoo.com,54,Basic,Jaipur,North,STORE003,2025-04-13,2025-04-13 07:42:15,Books,99155.04,17453.83,Pending
+TXN000689,USER0057,warrenmary,warrenmary@outlook.com,31,Basic,Lucknow,North,STORE004,2025-04-14,,Grocery,37027.1,37297.79,Pending
+TXN000530,USER0047,shawn02,shawn02@gmail.com,48,Free,  Jaipur,North,STORE003,2025-08-12,2025-08-12 04:22:18,Grocery,70360.12,,Completed
+TXN000056,USER0157,esanchez,esanchez@rediffmail.com,41,Basic,Chennai,South,STORE005,2025-04-06,2025-04-06 09:14:25,Beauty,34441.36,99663.48,Cancelled
+TXN000121,USER0020,elizabeth56,elizabeth56@outlook.com,67,Free,Patna,east,STORE002,04/06/2026,2026-06-04 17:53:47,Beauty,37734.32,16308.5,PENDING
+TXN000216,USER0125,kimberlyjames,kimberlyjames@rediffmail.com,29,Free,Lucknow,NORTH,STORE002,10-26-2026,2026-10-26 03:43:51,Clothing,56028.91,95850.42,Pending
+TXN000026,USER0136,ithomas,ithomas@rediffmail.com,49,Basic,Lucknow,North,STORE001,12/09/2026,2026-09-12 06:45:21,Electronics,63465.02,82951.87,Completed
+TXN000073,USER0070,adkinsbrian,adkinsbrian@gmail.com,35,Basic,Patna,East,STORE003,2026-07-19,2026-07-19 04:24:12,Books,50822.99,82072.89,cancelled
+TXN000045,USER0113,davidalvarez,davidalvarez@hotmail.com,32,Basic,Kolkata,east,STORE004,2026-07-06,2026-07-06 23:47:34,Furniture,2999.58,33679.34,Returned
+TXN000248,USER0060,samuel71,samuel71@yahoo.com,65,Free,  Patna,east,STORE001,06-11-2025,2025-06-11 08:49:06,Electronics,85883.03,1327.58,Completed
+TXN000722,USER0163,rreynolds,rreynolds@hotmail.com,22,Basic,Lucknow,North,STORE001,2026-11-26,2026-11-26 22:08:21,Beauty,91219.12,44946.27,Pending
+TXN000282,USER0117,amandaknight,amandaknight@rediffmail.com,21,Basic,Mumbai,West,STORE005,2026-11-16,2026-11-16 11:51:34,Furniture,96566.21,68738.09,Returned
+TXN000894,USER0176,finleycasey,finleycasey@rediffmail.com,25,Basic,Pune,WEST,STORE004,2025-11-13,2025-11-13 06:02:37,Beauty,96818.49,79254.82,Cancelled
+TXN000915,USER0216,hardingderek,hardingderek@gmail.com,21,Free,Mumbai,West,STORE003,18/04/2025,2025-04-18 05:46:57,Electronics,3838.09,75018.5,
+TXN000811,USER0044,lindahudson,lindahudson@yahoo.com,26,Basic,Mumbai,WEST,STORE005,04-19-2025,2025-04-19 17:47:52,Furniture,81564.95,30807.76,Returned
+TXN000245,USER0090,hbrown,hbrown@gmail.com,18,Free,Mumbai,West,STORE002,10/04/2026,2026-04-10 19:38:03,Sports,1233.93,,Cancelled
+TXN000823,USER0040,meltonmelanie,meltonmelanie@gmail.com,54,Basic,Chandigarh,North,STORE002,2025-01-31,2025-01-31 04:23:09,Books,18324.21,74381.44,CANCELLED
+TXN000322,USER0121,xsampson,xsampson@gmail.com,47,Basic,Mumbai,West,STORE005,2026-06-04,2026-06-04 07:35:41,Furniture,8893.18,49895.77,
+TXN000644,USER0057,inunez,inunez@gmail.com,41,Basic,Bhubaneswar,east,STORE005,2025-09-05,2025-09-05 09:46:27,Clothing,12468.92,75680.34,Completed
+TXN000159,USER0105,qvargas,qvargas@hotmail.com,50,Free,Lucknow,North,STORE004,2025-01-20,2025-01-20 14:20:26,Books,84852.86,72767.47,Pending
+TXN000283,USER0018,georgemiller,georgemiller@rediffmail.com,54,Free,Chandigarh,North,STORE005,2026-08-10,2026-08-10 07:30:19,Sports,98277.2,-14830.02,Returned
+TXN000430,USER0223,mariewise,mariewise@yahoo.com,66,Premium,Mumbai,west,STORE004,2026-07-16,2026-07-16 12:16:05,Beauty,19891.04,39592.35,
+TXN000942,USER0032,crystalpham,crystalpham@outlook.com,34,Premium,Chennai,south,STORE003,17/08/2026,2026-08-17 10:02:35,Beauty,71860.1,60097.83,cancelled
+TXN000463,USER0109,myerstheodore,myerstheodore@gmail.com,101,Premium,Ahmedabad,West,STORE003,2026-02-28,,Clothing,79040.53,30846.48,Cancelled
+TXN000310,USER0228,brenda51,brenda51@hotmail.com,25,Free,Chandigarh,North,STORE003,2026-11-01,2026-11-01 00:03:44,Furniture,70216.63,20628.94,Completed
+TXN000698,USER0141,hullalice,hullalice@yahoo.com,63,Free,Mumbai,West,STORE002,07-21-2025,2025-07-21 21:21:16,Books,75263.1,74008.12,Cancelled
+TXN000061,USER0116,wrightjames,wrightjames@rediffmail.com,42,Basic,Hyderabad,South,STORE004,2025-03-29,2025-03-29 07:07:35,Clothing,86030.65,99004.12,Cancelled
+TXN000885,USER0052,trevinoalexander,trevinoalexander@outlook.com,32,Free,Jaipur,North,STORE004,2025-02-24,,Furniture,39349.25,22066.84,Cancelled
+TXN000596,USER0168,manuel01,manuel01@hotmail.com,62,Premium,Bangalore,South,STORE001,2026-06-03,2026-06-03 02:22:26,Sports,64195.09,63052.62,pending
+TXN000768,USER0161,michaelcooper,michaelcooper@rediffmail.com,40,Free,Ahmedabad,west,STORE005,2026-11-06,2026-11-06 17:28:08,Beauty,21062.97,9991.01,Completed
+TXN000650,USER0210,griffinemily,griffinemily@gmail.com,25,Basic,Bhubaneswar,EAST,STORE005,2025-06-10,2025-06-10 17:23:58,Clothing,4124.19,15415.12,Cancelled
+TXN000651,USER0074,sanchezbradley,,68,Free,Pune,West,STORE004,11-09-2025,2025-11-09 11:19:18,Electronics,93688.38,30585.88,Cancelled
+TXN000866,USER0103,courtney86,courtney86@rediffmail.com,40,Basic,Mumbai,west,STORE001,2025-11-23,,Furniture,-16808.18,3472.63,cancelled
+TXN000669,USER0005,adamsemily,adamsemily@gmail.com,47,Basic,Kolkata,East,STORE002,08/09/2026,2026-09-08 11:24:11,Furniture,1035.39,74340.13,Cancelled
+TXN000299,USER0019,parkerscott,parkerscott@rediffmail.com,63,Free,Mumbai,West,STORE002,2025-10-30,2025-10-30 08:58:26,Clothing,72682.33,22314.08,Returned
+TXN000690,USER0034,landryelizabeth,landryelizabeth@gmail.com,27,Premium,Patna,East,STORE002,2026-06-24,2026-06-24 19:56:27,Grocery,53302.22,69465.95,Cancelled
+TXN000315,USER0060,torrestravis,,66,Premium,Mumbai,West,STORE001,2025-10-25,2025-10-25 11:51:43,Books,13925.6,64755.14,Cancelled
+TXN000311,USER0139,thomasharvey,thomasharvey@rediffmail.com,56,Free,Chennai,South,STORE002,05/11/2025,2025-11-05 13:42:06,Furniture,83082.21,,Completed
+TXN000362,USER0061,farmeraudrey,farmeraudrey@yahoo.com,44,Basic,Mumbai,West,STORE001,2025-08-05,2025-08-05 04:11:10,Furniture,67555.42,47954.21,
+TXN000480,USER0121,sandra84,,60,Free,Ahmedabad,West,STORE001,03-22-2026,2026-03-22 18:50:21,Sports,93093.24,57461.41,
+TXN000111,USER0059,emurphy,emurphy@rediffmail.com,50,Premium,Chandigarh,North,STORE003,2025-08-15,2025-08-15 10:49:10,Clothing,72765.17,81912.97,PENDING
+TXN000025,USER0154,jason76,jason76@gmail.com,26,Basic,Chennai,SOUTH,STORE001,2026-09-19,2026-09-19 20:33:00,Electronics,74267.43,-15629.25,Cancelled
+TXN000487,USER0213,yhill,,68,Free,Chandigarh,North,STORE005,2026-05-14,2026-05-14 21:27:08,Furniture,62362.52,45494.0,Returned
+TXN000364,USER0146,lynchdiane,lynchdiane@gmail.com,31,Basic,,South,STORE005,06-14-2026,2026-06-14 12:38:36,Furniture,86743.51,17139.62,Returned
+TXN000255,USER0067,stephenthomas,stephenthomas@yahoo.com,36,Basic,Mumbai,West,STORE003,18/03/2025,2025-03-18 18:36:03,Books,39355.97,83206.79,Cancelled
+TXN000260,USER0044,cgrimes,cgrimes@rediffmail.com,55,Basic,Mumbai,West,STORE001,2025-05-14,2025-05-14 06:52:25,Electronics,99716.43,,Returned
+TXN000803,USER0143,amber07,,35,Premium,Bhubaneswar,East,STORE002,2025-10-26,2025-10-26 01:40:09,Books,21076.24,11706.87,Cancelled
+TXN000678,USER0066,zowens,zowens@gmail.com,69,Basic,Chennai,South,STORE001,22/01/2026,2026-01-22 10:56:54,Clothing,61112.79,43240.72,Completed
+TXN000495,USER0017,scott19,scott19@outlook.com,23,Premium,Lucknow,North,STORE005,2025-09-25,2025-09-25 22:15:31,Books,15499.61,,Returned
+TXN000671,USER0143,timothybooth,timothybooth@rediffmail.com,50,Basic,Mumbai,West,STORE002,2025-01-08,2025-01-08 06:52:40,Beauty,19457.65,73907.6,Pending
+TXN000378,USER0055,smithkevin,smithkevin@rediffmail.com,22,Free,Mumbai,West,STORE003,08-12-2026,2026-08-12 00:16:11,Clothing,94706.84,80313.93,Cancelled
+TXN000527,USER0111,jimenezcourtney,jimenezcourtney@rediffmail.com,48,Basic,Pune,West,STORE003,2025-03-30,2025-03-30 13:54:33,Electronics,73028.77,73644.27,PENDING
+TXN000846,USER0065,darlenebyrd,darlenebyrd@hotmail.com,58,Free,Bhubaneswar,East,STORE001,2025-09-27,,Electronics,21940.41,97905.3,returned
+TXN000138,USER0231,bryantlaurie,bryantlaurie@outlook.com,41,Basic,Bangalore,South,STORE001,2026-01-06,2026-01-06 12:36:02,Beauty,13855.74,36758.3,
+TXN000356,USER0149,elizabeth65,elizabeth65@yahoo.com,103,Free,Jaipur,North,STORE005,2026-11-01,2026-11-01 04:23:25,Electronics,39738.84,50266.51,Pending
+TXN000366,USER0068,michael22,michael22@gmail.com,19,Premium,Mumbai,West,STORE005,03/09/2026,2026-09-03 18:04:14,Books,90942.99,68468.35,Pending
+TXN000943,USER0040,mayokimberly,mayokimberly@yahoo.com,31,Basic,Chandigarh,North,STORE005,04-22-2025,2025-04-22 02:32:28,Clothing,82930.87,68133.52,Completed
+TXN000750,USER0252,bentonsteven,,68,Free,Bangalore,south,STORE003,2026-11-13,2026-11-13 04:59:34,Books,22458.24,57639.61,Completed
+TXN000949,USER0186,wrightjohn,wrightjohn@hotmail.com,56,Premium,Pune,West,STORE004,2026-01-06,2026-01-06 02:22:35,Books,41943.14,56977.29,Pending
+TXN000830,USER0183,williamsconnie,williamsconnie@outlook.com,43,Free,Delhi,North,STORE002,2025-02-19,2025-02-19 10:05:19,Clothing,75209.04,72596.24,Pending
+TXN000657,USER0024,dturner,dturner@hotmail.com,19,Basic,Mumbai,West,STORE004,2025-03-28,2025-03-28 17:38:20,Grocery,41552.15,,Cancelled
+TXN000200,USER0041,michael74,michael74@rediffmail.com,65,Basic,Bhubaneswar,East,STORE001,2026-01-29,2026-01-29 23:08:50,Electronics,43765.12,83883.6,Cancelled
+TXN000214,USER0044,christopher31,christopher31@gmail.com,64,Premium, Mumbai,West,STORE003,20/12/2025,2025-12-20 00:30:06,Clothing,34372.36,78448.57,Returned
+TXN000409,USER0058,susanhayes,susanhayes@yahoo.com,58,Basic,Jaipur,North,STORE003,2026-01-05,2026-01-05 01:55:42,Electronics,16819.3,27682.39,completed
+TXN000333,USER0147,guerreroanthony,guerreroanthony@outlook.com,27,Premium,Lucknow,North,STORE003,2025-07-24,2025-07-24 08:48:50,Grocery,75384.04,3327.41,Returned
+TXN000209,USER0093,vmendoza,vmendoza@rediffmail.com,19,Free,Bhubaneswar,East,STORE004,2025-04-27,,Sports,21043.87,79788.78,Completed
+TXN000614,USER0145,greenmichael,greenmichael@outlook.com,69,Premium,Delhi,North,STORE001,08-06-2026,2026-08-06 04:13:55,Beauty,95194.83,38200.95,Returned
+TXN000079,USER0024,barnesbrandy,barnesbrandy@outlook.com,68,Premium,Patna  ,East,STORE003,2026-03-31,2026-03-31 05:44:19,Clothing,37546.62,-14642.42,Returned
+TXN000030,USER0211,ddavis,ddavis@yahoo.com,35,Premium,Patna,East,STORE001,27/02/2026,2026-02-27 00:11:47,Furniture,87229.46,85873.47,Pending
+TXN000536,USER0150,shannon21,shannon21@hotmail.com,57,Basic,Kolkata,East,STORE001,2026-04-27,2026-04-27 22:34:43,Grocery,89201.13,,Completed
+TXN000696,USER0255,morenojoshua,morenojoshua@outlook.com,35,Basic,Mumbai,West,STORE001,03-13-2026,2026-03-13 14:29:27,Grocery,44224.68,26635.93,Completed
+TXN000558,USER0068,markaustin,markaustin@gmail.com,48,Basic,Chandigarh,North,STORE003,2026-03-04,2026-03-04 14:58:04,Sports,36320.6,81722.17,Cancelled
+TXN000837,USER0161,rubendavis,rubendavis@outlook.com,23,Free, Bangalore,South,STORE004,2026-03-28,2026-03-28 11:32:54,Beauty,45064.22,87753.12,COMPLETED
+TXN000597,USER0043,amandasharp,amandasharp@gmail.com,28,Premium,Mumbai,West,STORE005,2025-01-04,2025-01-04 12:12:40,Sports,96969.49,83079.08,PENDING
+TXN000166,USER0165,cookemichael,cookemichael@outlook.com,59,Premium,Bhubaneswar,East,STORE001,2026-05-04,,Sports,57455.92,53561.71,Completed
+TXN000919,USER0255,steven11,steven11@yahoo.com,31,Free,,South,STORE004,2026-11-30,2026-11-30 23:58:46,Beauty,35275.39,61886.04,Pending
+TXN000496,USER0086,alyssasanders,alyssasanders@yahoo.com,54,Free,Chennai,South,STORE003,2026-01-28,2026-01-28 07:42:28,Electronics,64261.88,,Completed
+TXN000825,USER0233,melissa86,melissa86@rediffmail.com,63,Basic,Chennai,South,STORE005,12/01/2025,,Beauty,30672.79,22808.75,Pending
+TXN000066,USER0166,gabrieltucker,gabrieltucker@rediffmail.com,34,Premium,Patna,East,STORE001,2026-03-25,2026-03-25 02:38:02,Grocery,96194.92,83612.27,Completed
+TXN000142,USER0189,wcole,,69,Free,Delhi,North,STORE002,23/05/2025,2025-05-23 07:50:31,Beauty,88436.22,6668.24,RETURNED
+TXN000926,USER0101,codygarcia,codygarcia@rediffmail.com,56,Basic,Hyderabad,South,STORE001,01-22-2025,2025-01-22 01:01:49,Beauty,48269.12,38773.77,RETURNED
+TXN000828,USER0015,amy29,amy29@yahoo.com,36,Premium,Kolkata,EAST,STORE005,2025-03-21,2025-03-21 11:38:49,Electronics,6625.38,59751.36,Cancelled
+TXN000656,USER0010,nancy83,,60,Free,Pune,West,STORE002,2026-08-07,2026-08-07 16:12:48,Electronics,27568.76,20659.92,Returned
+TXN000332,USER0147,amberlindsey,amberlindsey@hotmail.com,69,Premium,Mumbai,West,STORE005,2026-08-20,2026-08-20 18:42:45,Electronics,2624.69,14618.14,completed
+TXN000665,USER0154,harttammy,harttammy@gmail.com,111,Free,Ahmedabad,west,STORE001,2025-02-16,2025-02-16 05:47:34,Books,14051.06,55692.26,Cancelled
+TXN000250,USER0027,jennifercollins,,32,Free,Chandigarh,North,STORE001,10-05-2025,2025-10-05 02:36:23,Furniture,6985.75,46562.91,Cancelled
+TXN000908,USER0244,stephen19,stephen19@hotmail.com,36,Basic,Ahmedabad,WEST,STORE001,2025-06-24,2025-06-24 16:47:44,Beauty,49347.12,66803.2,Returned
+TXN000709,USER0234,enelson,enelson@outlook.com,62,Free,Chandigarh,North,STORE003,2026-04-19,2026-04-19 18:02:47,Furniture,61341.45,81017.48,Pending
+TXN000306,USER0128,karenperez,karenperez@yahoo.com,62,Basic,Delhi,North,STORE003,2026-06-28,2026-06-28 06:01:43,Grocery,10360.55,50383.31,
+TXN000735,USER0234,joseph21,joseph21@yahoo.com,34,Premium,Jaipur,North,STORE005,2026-12-16,2026-12-16 21:41:09,Beauty,95182.65,84167.44,COMPLETED
+TXN000924,USER0019,lori20,lori20@outlook.com,22,Basic,Bhubaneswar,East,STORE005,30/08/2025,2025-08-30 15:04:51,Sports,61282.02,8151.29,Returned
+TXN000050,USER0160,wrightcaleb,wrightcaleb@rediffmail.com,61,Basic,Delhi,North,STORE004,17/06/2025,2025-06-17 09:06:37,Sports,19913.14,59250.58,pending
+TXN000897,USER0258,woodkelly,woodkelly@rediffmail.com,27,Premium,Patna,East,STORE003,2025-02-21,2025-02-21 08:08:22,Grocery,99591.83,19753.07,Completed
+TXN000003,USER0173,garzaanthony,garzaanthony@gmail.com,23,Basic,Lucknow,North,STORE001,2026-12-16,2026-12-16 13:21:17,Clothing,84764.69,60412.23,Completed
+TXN000545,USER0183,amitchell,amitchell@gmail.com,38,Premium,Jaipur,North,STORE005,26/01/2025,2025-01-26 12:39:53,Sports,19595.46,52690.74,
+TXN000351,USER0183,ronald45,ronald45@yahoo.com,60,Free,  Bhubaneswar,East,STORE002,2025-07-22,2025-07-22 23:37:31,Electronics,28585.2,,PENDING
+TXN000905,USER0004,dvasquez,dvasquez@hotmail.com,57,Free,Bhubaneswar,East,STORE002,2025-11-05,2025-11-05 20:19:46,Electronics,6807.49,15386.91,Completed
+TXN000537,USER0142,robertspatrick,robertspatrick@gmail.com,62,Premium,Chandigarh,North,STORE004,02-05-2026,2026-02-05 05:18:04,Grocery,87511.81,52116.7,Completed
+TXN000345,USER0231,oscar98,oscar98@hotmail.com,45,Basic,Mumbai,West,STORE001,2026-08-12,,Furniture,67362.54,,Completed
+TXN000729,USER0247,fgarcia,fgarcia@gmail.com,41,Basic,Jaipur,North,STORE004,14/08/2026,2026-08-14 14:40:12,Grocery,47124.28,42327.46,Returned
+TXN000482,USER0112,amymorris,amymorris@yahoo.com,55,Free,Delhi,North,STORE001,2025-12-02,2025-12-02 15:41:42,Books,14757.86,15006.72,Cancelled
+TXN000576,USER0188,ledwards,ledwards@outlook.com,69,Free,Delhi,North,STORE005,2025-11-25,2025-11-25 01:01:37,Electronics,76542.88,,Returned
+TXN000034,USER0101,tasha01,tasha01@outlook.com,45,Premium,Ahmedabad,west,STORE003,2025-01-02,2025-01-02 16:59:51,Beauty,31460.17,84816.73,Cancelled
+TXN000032,USER0170,ycarlson,ycarlson@gmail.com,25,Basic,Chennai,SOUTH,STORE002,2025-12-26,2025-12-26 20:32:25,Beauty,96257.18,26620.09,Completed
+TXN000232,USER0249,prestonjessica,prestonjessica@outlook.com,61,Premium,Ahmedabad,WEST,STORE001,12/12/2025,2025-12-12 17:36:08,Electronics,62655.33,,Completed
+TXN000964,USER0110,rogersmarcus,rogersmarcus@gmail.com,45,Premium,Patna,east,STORE004,2025-10-17,2025-10-17 04:12:40,Beauty,61160.6,71028.05,Completed
+TXN000193,USER0119,jenniferfreeman,jenniferfreeman@gmail.com,63,Premium,Mumbai,WEST,STORE001,2026-11-16,2026-11-16 01:48:00,Grocery,50622.72,37382.75,RETURNED
+TXN000334,USER0115,howardkristina,howardkristina@rediffmail.com,42,Premium,Hyderabad,South,STORE005,2025-04-15,2025-04-15 19:55:43,Books,79703.68,69643.24,Completed
+TXN000004,USER0151,robinsonwilliam,robinsonwilliam@rediffmail.com,41,Free,Mumbai,West,STORE002,2026-04-16,2026-04-16 17:07:59,Sports,7048.56,66160.21,Cancelled
+TXN000205,USER0072,michaelturner,,37,Basic,Mumbai,West,STORE004,2026-08-09,,Grocery,6420.39,43524.16,Returned
+TXN000515,USER0165,david89,david89@yahoo.com,66,Premium,Ahmedabad,West,STORE005,2025-11-29,,Grocery,33616.82,12162.47,Pending
+TXN000800,USER0149,kimberlycunningham,kimberlycunningham@gmail.com,54,Premium,Bhubaneswar,East,STORE002,06-20-2025,2025-06-20 19:17:44,Sports,-81471.9,49553.09,Completed
+TXN000307,USER0149,zcoffey,,64,Free,Mumbai,West,STORE005,2025-06-21,2025-06-21 02:52:02,Beauty,33849.73,88808.61,
+TXN000110,USER0125,jeffreykeller,jeffreykeller@hotmail.com,55,Basic, Kolkata,East,STORE005,2026-12-08,2026-12-08 11:05:27,Electronics,39637.09,31096.43,cancelled
+TXN000431,USER0037,jenniferwilliams,jenniferwilliams@outlook.com,67,Basic,Jaipur,North,STORE003,2026-07-29,2026-07-29 19:47:33,Sports,92421.39,9050.51,Returned
+TXN000078,USER0148,bethwilliams,bethwilliams@yahoo.com,65,Premium,Jaipur,North,STORE004,2026-07-09,2026-07-09 01:39:04,Electronics,76060.93,70418.69,Completed
+TXN000085,USER0068,david51,david51@gmail.com,36,Basic,Mumbai,West,STORE004,2025-11-13,,Grocery,20159.4,78672.63,Cancelled
+TXN000287,USER0177,elizabeth74,elizabeth74@hotmail.com,34,Basic,Hyderabad,South,STORE004,19/04/2025,2025-04-19 18:49:06,Beauty,60935.32,,Cancelled
+TXN000083,USER0141,khowell,khowell@gmail.com,54,Free,Bangalore,South,STORE001,2026-12-18,2026-12-18 09:01:53,Beauty,74542.7,83300.61,
+TXN000268,USER0029,tylerjohnson,tylerjohnson@yahoo.com,56,Premium,Delhi,North,STORE001,2026-07-10,2026-07-10 09:11:31,Beauty,47851.1,33240.23,PENDING
+TXN000790,USER0220,fhenderson,fhenderson@yahoo.com,57,Premium,Pune,West,STORE005,21/03/2026,2026-03-21 15:18:18,Grocery,25021.73,76696.09,Cancelled
+TXN000895,USER0239,xcline,xcline@yahoo.com,51,Basic,Chennai,South,STORE005,2025-04-23,2025-04-23 00:31:59,Beauty,66465.6,,cancelled
+TXN000399,USER0178,kmaldonado,kmaldonado@hotmail.com,52,Premium,Mumbai,West,STORE001,2026-06-21,2026-06-21 20:40:34,Furniture,30856.03,41279.16,Pending
+TXN000324,USER0175,bruce43,bruce43@outlook.com,70,Premium,Chennai,South,STORE002,05/06/2026,2026-06-05 17:13:41,Books,45500.55,56059.07,RETURNED
+TXN000520,USER0260,kingcynthia,kingcynthia@yahoo.com,47,Free,Bhubaneswar,East,STORE002,09-26-2026,2026-09-26 11:55:48,Clothing,5401.6,11356.64,
+TXN000917,USER0116,hedwards,hedwards@yahoo.com,65,Premium,Chennai,South,STORE004,20/07/2025,2025-07-20 08:31:28,Books,52900.09,79021.42,Completed
+TXN000923,USER0134,randy04,randy04@yahoo.com,39,Premium,Mumbai,West,STORE002,27/09/2025,2025-09-27 20:01:02,Grocery,54754.03,73413.88,Completed
+TXN000006,USER0084,lrobinson,,42,Basic,Hyderabad,South,STORE005,09-16-2026,,Grocery,68492.96,84300.91,completed
+TXN000732,USER0213,fhughes,fhughes@hotmail.com,65,Basic,Pune,WEST,STORE004,2026-05-28,2026-05-28 23:46:23,Furniture,30850.3,98753.45,Completed
+TXN000466,USER0170,jessicafuller,jessicafuller@outlook.com,22,Premium,Ahmedabad,west,STORE003,2026-07-23,2026-07-23 17:01:13,Books,3214.2,98363.52,Pending
+TXN000098,USER0221,amydavenport,amydavenport@gmail.com,68,Free,Pune,west,STORE001,2026-01-26,2026-01-26 19:33:18,Books,65505.82,87782.85,Pending
+TXN000267,USER0015,qhughes,qhughes@outlook.com,54,Free,Chennai,South,STORE002,2026-08-30,2026-08-30 10:51:47,Beauty,94842.01,83686.01,RETURNED
+TXN000358,USER0033,schmittcaroline,schmittcaroline@outlook.com,41,Premium,Pune,WEST,STORE001,03/01/2026,2026-01-03 01:14:48,Sports,20756.73,90781.84,Cancelled
+TXN000869,USER0198,terrimoore,terrimoore@outlook.com,56,Premium,  Ahmedabad  ,West,STORE005,2026-08-05,2026-08-05 10:57:14,Grocery,10381.73,27877.04,Completed
+TXN000799,USER0061,hillamanda,hillamanda@hotmail.com,22,Basic,  Mumbai,West,STORE004,2026-07-28,,Beauty,93140.1,50436.56,Completed
+TXN000381,USER0176,ythompson,ythompson@gmail.com,53,Premium,Chennai,South,STORE004,12/09/2025,2025-09-12 09:05:25,Clothing,35418.44,89442.19,Cancelled
+TXN000632,USER0213,reesebeth,reesebeth@hotmail.com,37,Premium,Pune,West,STORE002,2025-06-27,2025-06-27 06:10:38,Beauty,4800.23,1911.25,Cancelled
+TXN000382,USER0256,vincentwhitaker,vincentwhitaker@yahoo.com,33,Free,Patna,East,STORE002,2025-07-07,2025-07-07 23:43:59,Books,26614.0,22997.83,Pending
+TXN000491,USER0028,ejohnson,ejohnson@outlook.com,52,Premium,Ahmedabad,West,STORE004,2026-12-02,2026-12-02 20:34:51,Furniture,51315.04,-46976.32,Cancelled
+TXN000119,USER0193,michaeljones,michaeljones@outlook.com,70,Premium,Mumbai,West,STORE005,2025-05-13,2025-05-13 19:45:05,Electronics,64637.88,42398.3,Cancelled
+TXN000901,USER0211,hallmichael,hallmichael@hotmail.com,19,Free,Mumbai,West,STORE001,2026-04-25,2026-04-25 11:27:29,Books,42149.77,75610.06,Cancelled
+TXN000251,USER0189,tranchristopher,tranchristopher@yahoo.com,36,,Pune,WEST,STORE003,2025-11-15,2025-11-15 10:05:35,Sports,62309.48,46446.28,Returned
+TXN000524,USER0028,megan90,megan90@hotmail.com,27,Premium,Ahmedabad,West,STORE005,20/01/2026,2026-01-20 07:04:30,Furniture,17888.27,37411.16,Returned
+TXN000010,USER0137,jamesmichael,jamesmichael@outlook.com,25,Basic,Chandigarh,North,STORE004,2026-07-21,2026-07-21 00:43:46,Grocery,45427.0,95386.21,Cancelled
+TXN000197,USER0256,kevinperkins,kevinperkins@hotmail.com,59,Basic,Lucknow,NORTH,STORE005,2025-02-27,,Books,97386.59,89489.64,completed
+TXN000604,USER0217,ismall,,34,Premium,Chennai,South,STORE001,12-11-2026,2026-12-11 12:43:13,Beauty,5969.36,33352.97,Pending
+TXN000082,USER0155,stephen10,stephen10@yahoo.com,42,Basic,Pune,West,STORE001,2026-10-17,2026-10-17 13:44:16,Grocery,38198.29,35960.02,Cancelled
+TXN000784,USER0096,baileymegan,baileymegan@hotmail.com,40,Premium,Patna,East,STORE001,12-29-2025,2025-12-29 03:00:22,Furniture,49255.41,8565.9,Pending
+TXN000588,USER0209,jamesryan,jamesryan@outlook.com,60,Free,Delhi,NORTH,STORE001,2025-11-18,2025-11-18 19:19:55,Furniture,94321.9,72451.02,Pending
+TXN000798,USER0104,flynnjeffrey,flynnjeffrey@rediffmail.com,64,Premium,Chennai,south,STORE001,14/07/2026,2026-07-14 19:21:19,Grocery,19251.5,55094.52,Cancelled
+TXN000240,USER0123,ssteele,ssteele@hotmail.com,42,Premium,Patna,East,STORE002,2025-10-30,2025-10-30 20:03:50,Furniture,63844.42,7194.1,
+TXN000291,USER0260,gcastaneda,gcastaneda@hotmail.com,26,Free,Delhi,North,STORE005,27/02/2025,2025-02-27 16:50:10,Electronics,17456.36,,Pending
+TXN000212,USER0023,kvasquez,kvasquez@rediffmail.com,59,Free,Bangalore,south,STORE004,2026-11-05,,Books,33226.51,79643.48,Completed
+TXN000718,USER0099,petersonkayla,petersonkayla@gmail.com,32,Premium,Mumbai,West,STORE002,17/01/2025,2025-01-17 13:01:00,Sports,16788.02,41626.43,Completed
+TXN000360,USER0194,dianewalker,dianewalker@outlook.com,55,Free,Mumbai,west,STORE001,2026-08-16,2026-08-16 17:36:11,Beauty,25233.48,97270.14,Pending
+TXN000450,USER0028,lacey20,lacey20@rediffmail.com,27,Basic,Mumbai,West,STORE004,2025-10-20,2025-10-20 14:10:27,Electronics,72292.41,11405.84,Pending
+TXN000228,USER0049,brownlaura,brownlaura@yahoo.com,66,Basic,Pune,West,STORE001,24/10/2025,2025-10-24 18:17:54,Clothing,86718.05,12776.13,Pending
+TXN000951,USER0093,lkelly,lkelly@hotmail.com,18,Premium,Hyderabad,South,STORE001,2026-08-13,2026-08-13 15:40:56,Furniture,26411.27,55502.42,Returned
+TXN000947,USER0027,stokesthomas,stokesthomas@rediffmail.com,48,Free,Patna,East,STORE005,2026-07-06,2026-07-06 23:07:54,Beauty,44157.64,26991.35,CANCELLED
+TXN000797,USER0062,kjackson,kjackson@gmail.com,55,Free,Chandigarh,north,STORE002,2026-08-22,2026-08-22 12:05:56,Grocery,70495.54,92557.51,Completed
+TXN000502,USER0045,taylorcharles,taylorcharles@rediffmail.com,26,Basic,Bhubaneswar,East,STORE005,06/09/2026,2026-09-06 20:07:45,Books,96719.83,89610.56,Pending
+TXN000465,USER0172,kellycarlos,,68,Basic,Bangalore,South,STORE001,10-24-2026,2026-10-24 04:30:09,Books,52155.22,56537.77,Cancelled
+TXN000363,USER0083,xbruce,xbruce@yahoo.com,58,Free,Delhi,North,STORE001,2026-10-25,2026-10-25 13:01:15,Beauty,14771.82,16717.5,Pending
+TXN000469,USER0159,zwelch,zwelch@outlook.com,27,Premium,Patna,East,STORE005,2026-05-28,2026-05-28 04:12:21,Sports,99272.76,20598.19,COMPLETED
+TXN000936,USER0219,nthompson,,69,Premium,Mumbai,West,STORE005,2025-12-16,2025-12-16 23:53:39,Furniture,95252.11,93254.02,Cancelled
+TXN000429,USER0222,carlamoore,carlamoore@outlook.com,68,Basic,Chandigarh,north,STORE002,02/04/2026,2026-04-02 19:36:32,Grocery,33683.2,47637.88,Completed
+TXN000008,USER0135,jpeterson,jpeterson@rediffmail.com,45,Free,Hyderabad,South,STORE004,2025-05-27,2025-05-27 08:08:15,Clothing,22010.14,99754.01,Returned
+TXN000156,USER0154,vjohnson,vjohnson@rediffmail.com,39,Free,Mumbai,West,STORE005,2025-12-02,2025-12-02 19:20:10,Beauty,49035.68,56336.13,Returned
+TXN000542,USER0163,davisphillip,davisphillip@outlook.com,27,Basic,  Delhi  ,North,STORE004,2025-07-08,2025-07-08 06:35:45,Beauty,97549.02,53410.93,
+TXN000441,USER0160,jsawyer,jsawyer@rediffmail.com,39,Basic,Mumbai,West,STORE005,2026-03-04,2026-03-04 07:36:09,Grocery,20755.05,13943.8,Pending
+TXN000483,USER0163,murphykenneth,murphykenneth@outlook.com,54,Free,Lucknow,North,STORE003,2026-02-04,2026-02-04 19:36:28,Furniture,71807.34,91520.28,completed
+TXN000423,USER0230,bromero,bromero@hotmail.com,18,Free,Bhubaneswar,East,STORE001,2026-07-18,,Clothing,59616.71,,Cancelled
+TXN000779,USER0253,bushjamie,bushjamie@gmail.com,45,Free,Mumbai,West,STORE005,2026-08-13,2026-08-13 01:05:47,Sports,13729.2,49830.74,Completed
+TXN000950,USER0071,gallagherstacie,gallagherstacie@rediffmail.com,34,Basic,Mumbai,west,STORE003,2026-07-05,,,11884.61,40909.43,Pending
+TXN000335,USER0161,alfred40,alfred40@rediffmail.com,21,Premium,Bhubaneswar,East,STORE003,2026-01-26,,Grocery,62094.11,78114.4,Returned
+TXN000577,USER0029,vbarr,vbarr@yahoo.com,33,Premium,Mumbai,West,STORE003,2025-04-10,2025-04-10 13:22:22,Beauty,8585.68,68830.33,Cancelled
+TXN000935,USER0179,ycrawford,ycrawford@gmail.com,56,Basic,Delhi,North,STORE003,2026-06-30,2026-06-30 01:42:19,Books,75356.5,21732.76,Completed
+TXN000568,USER0062,rhernandez,rhernandez@yahoo.com,110,Basic,Chennai,South,STORE005,2026-02-10,2026-02-10 14:33:42,Electronics,74169.07,89253.52,Pending
+TXN000595,USER0242,mwoods,mwoods@hotmail.com,39,Free,Bhubaneswar,EAST,STORE004,2025-10-08,2025-10-08 02:52:49,Books,10129.52,16118.3,Cancelled
+TXN000531,USER0208,dperry,dperry@yahoo.com,68,Basic,  Patna,East,STORE004,04-11-2026,2026-04-11 14:49:08,Sports,63376.89,,Completed
+TXN000582,USER0154,ybailey,ybailey@hotmail.com,60,Free,Mumbai,West,STORE003,2025-12-22,2025-12-22 02:41:52,Grocery,41489.99,,RETURNED
+TXN000708,USER0205,hallrachel,hallrachel@rediffmail.com,69,Premium,Mumbai,West,STORE005,2025-10-10,,Clothing,91039.22,87936.02,Returned
+TXN000449,USER0199,anthonygalvan,anthonygalvan@rediffmail.com,66,Free,Delhi,North,STORE001,2026-06-16,2026-06-16 17:25:47,Grocery,29188.82,39864.19,Cancelled
+TXN000454,USER0229,anaacosta,anaacosta@outlook.com,58,Premium,Hyderabad,south,STORE001,2026-03-06,2026-03-06 09:19:46,Grocery,96047.34,,Cancelled
+TXN000229,USER0202,scott74,scott74@hotmail.com,27,Free,Kolkata,East,STORE003,13/09/2025,2025-09-13 04:45:20,Sports,41481.09,45253.97,Completed
+TXN000353,USER0224,deckerchristopher,deckerchristopher@outlook.com,41,Premium,Jaipur,North,STORE003,05/01/2025,2025-01-05 10:15:50,Furniture,46338.55,35938.29,Cancelled
+TXN000729,USER0247,fgarcia,fgarcia@gmail.com,41,Basic,Jaipur,North,STORE004,14/08/2026,2026-08-14 14:40:12,Grocery,47124.28,42327.46,Returned
+TXN000213,USER0114,hernandezlisa,hernandezlisa@hotmail.com,41,Basic,Pune,West,STORE004,01-11-2025,2025-01-11 03:16:14,Books,67987.59,69074.69,pending
+TXN000080,USER0041,sarah35,sarah35@rediffmail.com,42,Free,Lucknow,NORTH,STORE002,08-03-2026,,Furniture,91291.62,14397.46,Returned
+TXN000149,USER0164,drivera,drivera@outlook.com,43,Premium,Kolkata,East,STORE003,2025-12-15,2025-12-15 19:09:20,Beauty,56208.96,31979.68,Returned
+TXN000303,USER0235,,alyssa42@yahoo.com,38,Free,Mumbai,West,STORE002,2025-02-25,2025-02-25 04:08:12,Books,8173.07,33329.68,
+TXN000629,USER0254,williambryant,williambryant@rediffmail.com,59,Basic,Pune,West,STORE004,2025-10-02,2025-10-02 20:26:56,Sports,43679.38,,PENDING
+TXN000778,USER0209,shannonjordan,shannonjordan@outlook.com,23,Free,Bhubaneswar,EAST,STORE001,2025-11-09,2025-11-09 20:54:05,Electronics,73022.31,94492.21,Pending
+TXN000507,USER0207,william13,william13@gmail.com,52,Premium,Pune,West,STORE001,2026-06-12,2026-06-12 22:49:31,Furniture,95420.12,,Returned
+TXN000343,USER0110,lammarc,lammarc@hotmail.com,24,Premium,Bangalore,South,STORE005,2026-10-04,2026-10-04 02:13:42,Books,70304.01,97624.77,Returned
+TXN000486,USER0185,acostarhonda,acostarhonda@hotmail.com,27,Basic,Mumbai,West,STORE002,05-02-2026,2026-05-02 04:12:35,Grocery,1259.11,,Pending
+TXN000712,USER0167,brendagoodwin,brendagoodwin@hotmail.com,46,Premium,Pune,West,STORE003,13/01/2026,2026-01-13 02:48:06,Grocery,50655.85,46270.53,Completed
+TXN000134,USER0205,psanchez,psanchez@hotmail.com,42,Basic,Mumbai,WEST,STORE002,2025-10-07,2025-10-07 03:51:23,Furniture,69237.64,36797.96,Cancelled
+TXN000704,USER0244,davisnicholas,davisnicholas@gmail.com,39,Free,Mumbai,WEST,STORE004,2025-07-29,2025-07-29 12:04:34,Sports,89484.91,9414.83,Completed
+TXN000312,USER0103,rose31,rose31@outlook.com,51,Premium,Pune,West,STORE003,2025-10-17,2025-10-17 03:50:06,Sports,41034.65,16121.32,Returned
+TXN000723,USER0064,nmiller,nmiller@outlook.com,33,Free,Jaipur,NORTH,STORE004,31/05/2026,2026-05-31 18:45:00,Books,24430.22,8031.03,Pending
+TXN000630,USER0174,hansenemily,hansenemily@rediffmail.com,63,Free,Pune,West,STORE004,26/04/2026,2026-04-26 11:28:14,Grocery,88329.02,72327.2,returned
+TXN000001,USER0115,johnsonjoshua,johnsonjoshua@yahoo.com,65,Premium,Mumbai,West,STORE005,2026-10-17,2026-10-17 03:01:47,Electronics,59090.2,3275.09,Completed
+TXN000317,USER0086,qchavez,qchavez@gmail.com,26,Free,Kolkata,East,STORE001,30/01/2026,2026-01-30 22:54:30,Books,16023.6,41661.17,Returned
+TXN000707,USER0222,ariel18,ariel18@hotmail.com,28,Free,Jaipur,NORTH,STORE005,2026-02-03,2026-02-03 06:08:55,Clothing,58790.45,50297.25,Returned
+TXN000548,USER0213,jwilliams,jwilliams@hotmail.com,36,Premium,Patna,East,STORE004,2026-07-29,2026-07-29 02:13:46,Sports,89653.24,14042.81,Completed
+TXN000873,USER0041,chavezchelsea,chavezchelsea@rediffmail.com,67,Basic,Mumbai,West,STORE004,2025-11-05,2025-11-05 08:20:48,Beauty,4802.57,29914.54,Returned
+TXN000533,USER0187,jessica56,jessica56@gmail.com,25,Basic,Delhi,North,STORE003,28/09/2026,2026-09-28 10:47:59,Furniture,61951.43,36620.56,Pending
+TXN000478,USER0053,ypaul,ypaul@hotmail.com,70,Free,Chandigarh,North,STORE001,2025-10-17,2025-10-17 11:38:36,Clothing,-55659.37,7185.31,Cancelled
+TXN000405,USER0008,chase19,chase19@hotmail.com,31,Basic,Chandigarh,North,STORE004,2026-03-25,2026-03-25 23:00:14,Clothing,78593.96,,Cancelled
+TXN000173,USER0245,tamirodriguez,tamirodriguez@yahoo.com,47,Free,Bhubaneswar,East,STORE005,01-12-2026,2026-01-12 19:14:14,Clothing,41642.98,54968.53,Returned
+TXN000126,USER0164,steven73,steven73@gmail.com,63,Free, Jaipur,North,STORE003,2025-08-30,2025-08-30 12:05:23,Books,14690.33,3926.49,Returned
+TXN000395,USER0108,thomasjames,thomasjames@yahoo.com,43,Premium,  Hyderabad,South,STORE001,2026-11-09,2026-11-09 08:47:44,Electronics,93685.69,47371.26,completed
+TXN000421,USER0054,collinsnicholas,collinsnicholas@yahoo.com,68,Premium,Mumbai,West,STORE005,2026-11-22,2026-11-22 14:44:42,Furniture,50518.81,65787.43,Returned
+TXN000553,USER0224,laura58,laura58@outlook.com,58,Free,Pune,West,STORE004,2026-09-06,2026-09-06 23:23:37,Sports,81846.25,37382.9,Completed
+TXN000904,USER0028,dalton83,,51,Premium,Pune,West,STORE005,05/05/2025,2025-05-05 23:37:43,Sports,96731.12,13726.63,Pending
+TXN000091,USER0228,james48,james48@yahoo.com,41,Premium,  Jaipur,North,STORE003,2025-10-14,2025-10-14 01:44:23,Beauty,90179.45,64518.2,
+TXN000940,USER0030,rbrown,rbrown@rediffmail.com,23,Basic,Jaipur,North,STORE005,05-07-2026,2026-05-07 20:54:35,Beauty,31471.25,6497.94,
+TXN000182,USER0112,oyu,,26,Free,Mumbai,West,STORE003,2025-09-08,2025-09-08 23:02:25,Grocery,81597.05,73178.6,Cancelled
+TXN000275,USER0193,courtney78,,48,Free,Mumbai,West,STORE002,2026-02-28,2026-02-28 15:56:24,Grocery,45183.61,79939.54,Completed
+TXN000896,USER0145,mark87,,25,Premium,Delhi,North,STORE004,2025-03-08,2025-03-08 09:00:29,Clothing,608.52,35290.33,Completed
+TXN000070,USER0105,uhorton,uhorton@outlook.com,53,Premium,  Hyderabad  ,South,STORE003,2026-09-30,2026-09-30 15:40:28,Furniture,88096.58,48522.71,
+TXN000292,USER0185,patrickhoward,patrickhoward@yahoo.com,35,Basic,Delhi,North,STORE004,2025-03-01,2025-03-01 07:02:29,Beauty,39754.53,92315.05,Completed
+TXN000132,USER0070,gibsonolivia,gibsonolivia@gmail.com,63,Basic,Bangalore,South,STORE001,2026-12-03,2026-12-03 14:44:30,Clothing,20238.94,79131.81,Completed
+TXN000301,USER0115,julie23,julie23@outlook.com,44,Basic,Jaipur,north,STORE003,2026-11-28,2026-11-28 10:41:05,Clothing,58598.51,46429.69,Completed
+TXN000425,USER0128,ilee,ilee@yahoo.com,34,Basic,Jaipur,north,STORE001,17/04/2026,2026-04-17 11:09:08,Beauty,40039.85,91796.39,Completed
+TXN000327,USER0213,williamsmatthew,williamsmatthew@gmail.com,58,Free,Chandigarh,North,STORE005,14/04/2026,2026-04-14 06:45:21,Electronics,77237.3,45105.41,Pending
+TXN000145,USER0041,sjones,sjones@outlook.com,30,Free,Patna,East,STORE005,2026-12-28,2026-12-28 07:22:33,Clothing,12604.51,30352.18,Completed
+TXN000424,USER0012,kyle35,kyle35@outlook.com,53,Free,Kolkata,east,STORE005,2025-01-07,2025-01-07 09:14:13,Beauty,92599.65,15556.01,COMPLETED
+TXN000581,USER0049,janet75,janet75@rediffmail.com,39,Basic,Chennai,South,STORE001,20/08/2025,2025-08-20 19:47:05,Beauty,80138.45,47579.31,Pending
+TXN000136,USER0180,osbornejeffery,osbornejeffery@hotmail.com,20,Free,Chennai,South,STORE003,2026-09-10,2026-09-10 22:27:10,Beauty,99815.24,27528.08,Completed
+TXN000451,USER0233,samantha72,,63,Premium,Delhi  ,North,STORE004,2026-02-07,2026-02-07 13:20:28,Electronics,25083.22,69202.57,Pending
+TXN000165,USER0242,ismith,ismith@gmail.com,61,Premium,Mumbai,West,STORE001,2026-10-16,2026-10-16 07:03:06,Beauty,97793.28,15878.31,Returned
+TXN000029,USER0182,jeffrey28,jeffrey28@rediffmail.com,44,Free,Chennai,south,STORE002,2026-01-02,,Grocery,86474.11,97622.98,Pending
+TXN000774,USER0251,andrearivera,andrearivera@gmail.com,51,Basic,Mumbai,West,STORE005,2025-06-29,2025-06-29 16:46:56,Books,28271.47,27178.29,Completed
+TXN000194,USER0211,hannahbrewer,hannahbrewer@gmail.com,19,Free,Ahmedabad,West,STORE003,2026-11-07,2026-11-07 15:01:00,Beauty,97750.19,1812.55,Returned
+TXN000389,USER0250,kimdaniel,kimdaniel@outlook.com,34,Free,Chennai,South,STORE005,2025-05-18,2025-05-18 20:33:34,Electronics,39900.35,,Completed
+TXN000853,USER0213,kylie34,kylie34@gmail.com,18,Premium,Patna,East,STORE002,01/03/2026,2026-03-01 21:15:00,Books,37503.13,81689.03,Cancelled
+TXN000170,USER0219,kcaldwell,kcaldwell@rediffmail.com,38,Premium,Patna,EAST,STORE004,29/06/2025,2025-06-29 19:54:40,Sports,9628.97,98170.35,Returned
+TXN000706,USER0168,christopherbruce,christopherbruce@hotmail.com,43,Premium,Delhi,North,STORE001,04-11-2026,2026-04-11 01:23:33,Grocery,53691.66,,COMPLETED
+TXN000141,USER0149,vmerritt,vmerritt@outlook.com,28,Free,Chennai,South,STORE002,2026-11-30,2026-11-30 10:42:22,Books,36213.07,22501.74,Pending
+TXN000174,USER0042,hickmanbarbara,user name@gmail.com,46,Free,Hyderabad,south,STORE003,05/07/2026,2026-07-05 21:52:13,Electronics,91732.75,11309.66,pending
+TXN000007,USER0034,lisa02,lisa02@yahoo.com,54,Free,Mumbai,west,STORE003,2025-08-23,2025-08-23 01:51:20,Grocery,65578.32,39623.63,Returned
+TXN000746,USER0167,yfaulkner,yfaulkner@hotmail.com,32,Free,Delhi,North,STORE004,2025-01-18,2025-01-18 20:23:55,Furniture,-73946.54,79416.64,Cancelled
+TXN000479,USER0125,terri77,,28,Basic,Mumbai,West,STORE004,30/06/2026,2026-06-30 14:25:37,Electronics,34137.34,81410.18,returned
+TXN000074,USER0077,hshaw,hshaw@hotmail.com,52,Basic,Pune,West,STORE003,02/11/2025,2025-11-02 18:37:42,Clothing,55236.55,54388.66,Returned
+TXN000911,USER0179,grahamtamara,grahamtamara@rediffmail.com,42,Free,Pune,West,STORE001,2026-01-02,2026-01-02 16:54:55,Grocery,65626.33,35251.51,Cancelled
+TXN000814,USER0145,taylorkaren,taylorkaren@outlook.com,22,Free,Chandigarh,North,STORE003,19/05/2026,2026-05-19 05:07:14,Electronics,36113.3,92477.75,Completed
+TXN000239,USER0146,elizabeth25,elizabeth25@gmail.com,60,Basic,Chandigarh,North,STORE002,2025-05-24,2025-05-24 07:17:41,Beauty,60731.99,18945.79,Returned
+TXN000146,USER0079,josephflores,josephflores@yahoo.com,60,Free,Bhubaneswar,East,STORE005,2026-05-30,2026-05-30 20:10:37,Clothing,84268.75,56405.44,Completed
+TXN000793,USER0114,glennstephanie,glennstephanie@outlook.com,45,Basic,Bhubaneswar,East,STORE001,22/06/2026,2026-06-22 09:44:40,Beauty,42764.58,5260.38,Completed
+TXN000235,USER0068,barbara27,barbara27@rediffmail.com,32,Free,Pune,West,STORE004,2026-12-22,2026-12-22 03:00:13,Electronics,905.45,-34423.06,Completed
+TXN000221,USER0197,mooreglenn,mooreglenn@hotmail.com,29,Basic,Lucknow,North,STORE005,08/06/2026,2026-06-08 12:26:38,Sports,91924.18,93076.42,
+TXN000924,USER0019,lori20,lori20@outlook.com,22,Basic,Bhubaneswar,East,STORE005,30/08/2025,2025-08-30 15:04:51,Sports,61282.02,8151.29,Returned
+TXN000501,USER0129,heather73,heather73@yahoo.com,20,Premium,Chennai,South,STORE005,2026-12-03,2026-12-03 14:22:14,Electronics,5782.5,59454.44,Pending
+TXN000133,USER0243,jennifercruz,jennifercruz@outlook.com,20,Free,Bhubaneswar,East,STORE002,2025-11-20,2025-11-20 09:32:25,Clothing,35761.72,78106.07,Cancelled
+TXN000681,USER0100,joycesmith,joycesmith@rediffmail.com,26,Free,Delhi,North,STORE005,16/04/2025,2025-04-16 00:38:45,Clothing,35603.58,48191.79,Returned
+TXN000775,USER0177,omullen,omullen@rediffmail.com,53,Free,Mumbai,West,STORE004,2025-02-19,2025-02-19 05:20:48,Furniture,59271.78,25980.2,Pending
+TXN000186,USER0041,ugraham,ugraham@hotmail.com,108,Premium,Mumbai,West,STORE005,2026-02-02,2026-02-02 07:16:13,Sports,82957.69,5248.51,Returned
+TXN000042,USER0040,john39,john39@outlook.com,33,Basic,Mumbai,West,STORE003,2026-06-18,2026-06-18 15:40:15,Clothing,89313.38,8149.71,Pending
+TXN000697,USER0041,andre62,andre62@outlook.com,32,Premium,Pune,West,STORE001,03/01/2026,2026-01-03 02:18:53,Electronics,36087.67,54648.0,Cancelled
+TXN000109,USER0208,ybailey,ybailey@hotmail.com,36,Premium,Ahmedabad,West,STORE004,2026-04-16,2026-04-16 02:55:20,Electronics,96623.35,17270.13,Returned
+TXN000589,USER0062,derrick99,derrick99@rediffmail.com,60,Free,Pune,West,STORE005,2025-08-30,2025-08-30 03:36:47,Clothing,49695.47,,Completed
+TXN000057,USER0119,glee,glee@gmail.com,64,Premium,Mumbai,West,STORE003,27/12/2025,2025-12-27 22:29:17,Electronics,74313.82,95092.67,
+TXN000406,USER0075,jford,jford@gmail.com,35,Basic,Mumbai,west,STORE001,2026-04-20,2026-04-20 22:50:02,Beauty,47067.66,19300.01,Cancelled
+TXN000443,USER0016,mitchellkathryn,,44,Basic,Lucknow,North,STORE003,2025-07-08,2025-07-08 10:53:56,Furniture,74586.41,82187.68,Cancelled
+TXN000758,USER0028,jacqueline89,jacqueline89@outlook.com,47,Free,Chandigarh,North,STORE002,19/12/2026,2026-12-19 17:25:06,Beauty,13842.34,69625.96,Cancelled
+TXN000165,USER0242,ismith,ismith@gmail.com,61,Premium,Mumbai,West,STORE001,2026-10-16,2026-10-16 07:03:06,Beauty,97793.28,15878.31,Returned
+TXN000025,USER0154,jason76,jason76@gmail.com,26,Basic,Chennai,SOUTH,STORE001,2026-09-19,2026-09-19 20:33:00,Electronics,74267.43,-15629.25,Cancelled
+TXN000468,USER0058,lisa27,lisa27@outlook.com,68,Premium,Mumbai,WEST,STORE002,2026-04-08,2026-04-08 09:13:33,Electronics,44433.03,2590.98,
+TXN000540,USER0191,tyronerobertson,tyronerobertson@outlook.com,67,Premium,Jaipur,North,STORE002,2025-11-10,2025-11-10 05:50:16,Clothing,28509.77,95625.76,Pending
+TXN000532,USER0219,matthewthomas,matthewthomas@outlook.com,62,Free,Delhi,North,STORE005,2026-01-30,2026-01-30 22:21:33,Beauty,79468.43,78790.42,Completed
+TXN000619,USER0128,vhernandez,vhernandez@rediffmail.com,45,Basic,Patna,East,STORE005,2025-11-04,2025-11-04 04:08:43,Electronics,55144.33,91738.47,
+TXN000695,USER0152,patelrobert,patelrobert@hotmail.com,51,Basic,Hyderabad,South,STORE002,2025-09-18,2025-09-18 17:05:08,Beauty,4210.18,,
+TXN000927,USER0071,davidbrown,davidbrown@gmail.com,46,Premium,Mumbai,West,STORE005,2026-12-14,2026-12-14 04:27:44,Clothing,35243.73,,Completed
+TXN000339,USER0213,acostaregina,acostaregina@rediffmail.com,52,Basic,Pune,West,STORE001,2025-07-08,2025-07-08 16:04:50,Clothing,22197.69,21414.05,Cancelled
+TXN000052,USER0186,adrianzimmerman,adrianzimmerman@hotmail.com,63,Premium,Chandigarh,North,STORE004,2025-01-13,2025-01-13 13:52:31,Grocery,73406.15,96550.83,Cancelled
+TXN000508,USER0171,joelsnyder,joelsnyder@outlook.com,43,Premium,Bhubaneswar,East,STORE001,2025-05-05,2025-05-05 18:34:59,Clothing,53509.17,96096.46,Completed
+TXN000517,USER0004,guerraapril,guerraapril@yahoo.com,23,Free,Chandigarh,North,STORE005,2025-06-11,2025-06-11 00:56:31,Clothing,41680.6,80760.44,returned
+TXN000921,USER0149,lewismelissa,lewismelissa@outlook.com,42,Free,,North,STORE003,09-08-2026,2026-09-08 17:21:01,Electronics,87257.01,15870.52,Cancelled
+TXN000782,USER0128,bakermichelle,,67,Premium, Mumbai,WEST,STORE003,24/01/2026,2026-01-24 05:23:07,Clothing,48364.16,26548.6,
+TXN000265,USER0144,vwilliams,,69,Basic,Delhi,North,STORE005,27/01/2025,2025-01-27 10:38:14,Clothing,76707.53,99960.61,pending
+TXN000818,USER0247,kburns,kburns@hotmail.com,56,Free,Pune,WEST,STORE003,2025-07-06,2025-07-06 12:22:20,Grocery,80233.88,65430.03,Pending
+TXN000711,USER0150,sarahedwards,sarahedwards@gmail.com,62,Free,Bangalore,South,STORE002,09-03-2025,2025-09-03 05:17:56,Furniture,41186.69,76209.89,Completed
+TXN000683,USER0189,jerry93,jerry93@gmail.com,51,Free,Mumbai,west,STORE002,2025-05-31,2025-05-31 15:19:38,Electronics,23815.0,81936.46,completed
+TXN000833,USER0221,wendyblankenship,wendyblankenship@gmail.com,63,Free,Mumbai,West,STORE004,2026-04-04,2026-04-04 04:21:18,Grocery,20961.18,61077.68,
+TXN000519,USER0179,stacey84,,18,Free,Hyderabad,South,STORE002,2026-09-19,2026-09-19 02:40:52,Grocery,11839.03,53066.88,Completed
+TXN000448,USER0020,joe15,joe15@rediffmail.com,24,Basic,Ahmedabad,West,STORE004,09-19-2026,2026-09-19 23:36:38,Books,87788.92,,Pending
+TXN000019,USER0031,jacqueline19,jacqueline19@yahoo.com,42,Premium,Patna,East,STORE004,02-21-2026,2026-02-21 15:30:13,Clothing,92659.16,78534.42,Cancelled
+TXN000716,USER0018,patrick21,patrick21@rediffmail.com,31,Basic,Jaipur,North,STORE001,07/06/2025,2025-06-07 14:22:11,Books,63515.56,52335.16,Completed
+TXN000484,USER0066,bmorrison,bmorrison@outlook.com,21,Basic,Mumbai,West,STORE005,2026-08-20,2026-08-20 00:39:32,Electronics,184.25,56047.02,
+TXN000569,USER0207,anthonyvaughan,anthonyvaughan@gmail.com,32,Basic,Lucknow,North,STORE004,2025-03-08,2025-03-08 11:12:21,Clothing,76505.22,76620.62,Cancelled
+TXN000434,USER0157,kylestokes,kylestokes@hotmail.com,48,Premium,Kolkata,East,STORE003,22/10/2025,2025-10-22 00:21:44,Grocery,74027.3,21266.34,Cancelled
+TXN000368,USER0023,davisalyssa,davisalyssa@rediffmail.com,45,Premium,Mumbai,West,STORE004,2026-11-26,2026-11-26 20:27:33,Books,76890.3,35116.73,completed
+TXN000084,USER0098,jonesjason,jonesjason@rediffmail.com,34,Free,Jaipur,North,STORE002,2025-08-24,2025-08-24 19:51:22,Sports,9806.68,62783.06,Completed
+TXN000062,USER0051,ltaylor,ltaylor@yahoo.com,58,Premium,Bhubaneswar,East,STORE003,2026-08-06,2026-08-06 19:03:39,Sports,8210.63,24062.53,Completed
+TXN000639,USER0036,qmiller,qmiller@gmail.com,39,Basic,Delhi,North,STORE004,2025-01-31,2025-01-31 14:09:49,Books,16516.04,6240.69,completed
+TXN000273,USER0170,cindy61,user@domain..com,33,Basic,Pune,West,STORE003,2026-10-17,2026-10-17 18:06:59,Grocery,63655.06,96311.65,CANCELLED
+TXN000286,USER0058,stevenking,stevenking@hotmail.com,27,Premium,Hyderabad,South,STORE005,2026-12-19,2026-12-19 19:37:33,Beauty,58309.44,96486.68,Completed
+TXN000361,USER0250,bellangela,bellangela@hotmail.com,56,Premium,Patna,East,STORE005,2026-06-13,2026-06-13 12:22:52,Grocery,44045.88,23076.08,Cancelled
+TXN000355,USER0208,angelawillis,angelawillis@rediffmail.com,31,Premium,Bangalore,South,STORE005,2025-03-19,2025-03-19 00:54:32,Clothing,54392.59,99872.94,
+TXN000457,USER0153,nfowler,nfowler@outlook.com,23,Premium,Chennai,South,STORE001,07/02/2025,2025-02-07 04:54:02,Furniture,99374.14,16217.39,Cancelled
+TXN000279,USER0151,wallaceheather,wallaceheather@rediffmail.com,48,Premium,Mumbai,West,STORE001,06-07-2025,2025-06-07 01:23:00,Electronics,20774.6,63855.25,Completed
+TXN000013,USER0244,maria95,maria95@rediffmail.com,28,Basic,Chandigarh,North,STORE005,2025-03-12,2025-03-12 17:49:08,Books,60698.73,96439.85,Pending
+TXN000183,USER0122,bzimmerman,bzimmerman@outlook.com,27,Free,  Kolkata,East,STORE005,2026-08-15,2026-08-15 19:49:43,Grocery,41414.66,27587.88,Pending
+TXN000369,USER0043,vbarnes,,56,Free,  Hyderabad,South,STORE004,2026-03-12,2026-03-12 04:16:30,Clothing,18983.2,70943.97,Completed
+TXN000882,USER0232,porterashley,porterashley@outlook.com,34,Premium,Delhi,North,STORE005,17/01/2025,2025-01-17 14:11:17,Electronics,35507.24,21285.4,Returned
+TXN000616,USER0159,erik84,erik84@rediffmail.com,26,Basic,Mumbai,West,STORE001,05-04-2025,2025-05-04 09:31:51,Books,36808.94,20067.14,Returned
+TXN000224,USER0087,jasmine71,"user@domain,com",54,Free,Ahmedabad,West,STORE004,2025-10-27,2025-10-27 01:17:14,Beauty,51129.52,57314.13,Cancelled
+TXN000573,USER0231,vsalas,vsalas@outlook.com,42,Basic,Chandigarh,North,STORE004,02-02-2025,2025-02-02 13:56:58,Electronics,3382.69,55710.99,cancelled
+TXN000552,USER0092,andersoncolin,andersoncolin@hotmail.com,62,Free,Mumbai,West,STORE002,08/05/2025,2025-05-08 20:42:57,Electronics,12023.53,27793.98,completed
+TXN000654,USER0120,lisadennis,lisadennis@hotmail.com,39,Free,Mumbai,West,STORE001,2025-04-02,2025-04-02 19:42:39,Sports,89015.31,73617.69,Completed
+TXN000546,USER0045,jordannicole,jordannicole@rediffmail.com,43,Premium,Kolkata,East,STORE004,2025-07-20,2025-07-20 00:05:34,Clothing,60356.87,51204.43,Completed
+TXN000583,USER0096,keith98,keith98@rediffmail.com,49,Premium,Delhi,North,STORE004,2026-11-19,2026-11-19 17:11:56,Clothing,93722.58,,Returned
+TXN000634,USER0024,michaelcesar,michaelcesar@rediffmail.com,4,Premium,Mumbai,West,STORE005,14/05/2026,2026-05-14 08:21:50,Beauty,66981.64,70669.85,Returned
+TXN000177,USER0033,curtisbarton,curtisbarton@rediffmail.com,21,Premium,Mumbai,West,STORE004,2025-08-12,,Electronics,28780.36,18080.13,Pending
+TXN000666,USER0163,paulscott,paulscott@outlook.com,58,Basic,Bhubaneswar,East,STORE004,2026-03-19,2026-03-19 06:39:32,Clothing,24668.24,98303.89,Cancelled
+TXN000674,USER0115,srocha,srocha@gmail.com,35,Basic,Patna,East,STORE005,2026-01-06,2026-01-06 16:48:02,Furniture,31692.57,39246.7,Cancelled
+TXN000586,USER0159,robertsjennifer,robertsjennifer@hotmail.com,49,Free,Jaipur,North,STORE004,04-27-2025,2025-04-27 04:12:01,Furniture,64727.51,3796.67,PENDING
+TXN000874,USER0053,elizabeth21,elizabeth21@gmail.com,32,Premium,Kolkata,EAST,STORE001,21/05/2026,2026-05-21 20:58:07,Grocery,10603.06,-32353.62,Returned
+TXN000394,USER0186,michael23,michael23@rediffmail.com,51,Basic,Patna,East,STORE004,2026-09-12,2026-09-12 20:25:17,Grocery,18470.23,2407.8,PENDING
+TXN000164,USER0140,fking,fking@yahoo.com,24,Free,Ahmedabad,West,STORE005,2025-07-26,2025-07-26 17:17:59,Grocery,24321.56,67016.41,pending
+TXN000249,USER0019,dudleychelsea,,69,Free,Lucknow,North,STORE004,2026-04-29,2026-04-29 11:24:58,Grocery,32248.02,41684.03,Cancelled
+TXN000635,USER0053,ajohnson,ajohnson@rediffmail.com,20,Free,Bangalore,South,STORE001,2026-04-14,2026-04-14 03:06:50,Grocery,63029.62,87099.86,Cancelled
+TXN000886,USER0148,ruizpatrick,ruizpatrick@rediffmail.com,36,Free,Lucknow,North,STORE001,2026-05-23,2026-05-23 06:10:50,Electronics,18589.37,90787.47,Returned
+TXN000670,USER0156,russojacob,russojacob@yahoo.com,32,Basic,Chandigarh,North,STORE003,11-28-2026,2026-11-28 22:22:12,Electronics,28147.56,90460.31,Pending
+TXN000376,USER0045,trose,trose@outlook.com,67,Basic,Bhubaneswar,East,STORE003,04/01/2026,2026-01-04 07:41:00,Sports,39574.8,58649.41,Completed
+TXN000413,USER0240,michaelhardin,michaelhardin@outlook.com,56,Free,Mumbai,west,STORE002,2026-08-04,2026-08-04 05:34:22,Electronics,53160.63,44993.48,Cancelled
+TXN000075,USER0120,brianromero,brianromero@hotmail.com,20,Basic,Ahmedabad,West,STORE004,2025-11-26,2025-11-26 06:44:15,Sports,91351.67,38184.99,Pending
+TXN000114,USER0237,beverlyterrell,beverlyterrell@hotmail.com,20,Premium,  Chandigarh,North,STORE003,2026-08-29,2026-08-29 01:22:32,Books,28779.0,64502.18,Completed
+TXN000599,USER0194,sarahjohnson,,32,Premium,Lucknow,NORTH,STORE001,07-23-2025,2025-07-23 02:26:23,Beauty,64745.96,62700.07,COMPLETED
+TXN000962,USER0222,kimmathis,kimmathis@gmail.com,63,Free,Patna,East,STORE003,2026-12-25,2026-12-25 22:20:57,Grocery,84158.96,66146.93,Completed
+TXN000391,USER0102,fosterkyle,fosterkyle@rediffmail.com,54,Free,Patna,EAST,STORE005,2025-01-21,2025-01-21 13:07:22,Grocery,97939.38,28532.41,CANCELLED
+TXN000105,USER0081,vjohnson,vjohnson@rediffmail.com,21,Free,Delhi,North,STORE001,08-05-2026,2026-08-05 19:05:56,Clothing,44366.99,42459.08,Returned
+TXN000115,USER0022,rodriguezryan,,69,Free,Pune,West,STORE002,2026-09-22,2026-09-22 19:32:24,Clothing,60540.08,50186.59,Completed
+TXN000418,USER0240,mathewaguilar,mathewaguilar@gmail.com,41,Free,Kolkata,East,STORE004,03/11/2026,2026-11-03 15:59:56,Books,36969.96,70872.54,Cancelled
+TXN000526,USER0152,debra96,debra96@rediffmail.com,28,Free,Jaipur,NORTH,STORE005,2026-03-05,,Grocery,57854.33,55320.29,Pending
+TXN000458,USER0091,fbrown,fbrown@hotmail.com,109,Free,Bangalore,South,STORE003,18/09/2026,2026-09-18 21:44:44,Electronics,9403.32,,Cancelled
+TXN000410,USER0244,toni18,,27,Basic,Ahmedabad,West,STORE001,10/02/2026,2026-02-10 07:00:02,Grocery,15854.08,9231.02,cancelled
+TXN000093,USER0107,waltersmaria,waltersmaria@rediffmail.com,31,Premium,Hyderabad,South,STORE003,2026-08-02,2026-08-02 06:04:53,Books,14840.66,90063.05,Completed
+TXN000931,USER0137,gonzalezdebbie,gonzalezdebbie@outlook.com,62,Free,Jaipur,North,STORE005,2026-07-19,,Electronics,5494.35,90052.5,Returned
+TXN000090,USER0215,josephjacobs,josephjacobs@rediffmail.com,65,Free,Mumbai,West,STORE002,05/07/2026,2026-07-05 04:24:29,Furniture,65526.7,83385.94,Returned
+TXN000337,USER0067,alvarezkimberly,alvarezkimberly@yahoo.com,55,Basic,Ahmedabad,West,STORE001,2026-01-22,,Clothing,46686.5,93755.7,Completed
+TXN000801,USER0200,hdunn,hdunn@hotmail.com,56,Basic,Mumbai  ,west,STORE002,2025-06-19,2025-06-19 14:48:32,Grocery,459.69,,Completed
+TXN000922,USER0257,christopherwright,christopherwright@outlook.com,43,Free,Kolkata,east,STORE001,2025-03-18,2025-03-18 17:36:15,Beauty,69782.04,11176.36,Returned
+TXN000934,USER0010,sandrahamilton,sandrahamilton@hotmail.com,42,Basic,Mumbai,West,STORE001,2025-03-03,,Grocery,20652.44,18524.24,Returned
+TXN000606,USER0087,riverajessica,riverajessica@rediffmail.com,49,Basic,Lucknow,North,STORE004,2025-05-16,2025-05-16 17:02:37,Grocery,9055.83,71054.53,Returned
+TXN000594,USER0153,richarddonovan,richarddonovan@yahoo.com,28,Basic,Hyderabad,South,STORE003,2025-11-05,2025-11-05 02:59:52,Books,76697.42,40688.25,completed
+TXN000612,USER0063,greenjoe,greenjoe@hotmail.com,41,Free,Delhi,North,STORE001,2026-11-25,2026-11-25 03:56:21,Books,32421.48,2984.56,
+TXN000095,USER0216,evan78,evan78@rediffmail.com,25,Free,Chandigarh,north,STORE001,01-17-2025,,Furniture,44882.69,36267.69,Completed
+TXN000012,USER0186,dudleynicholas,dudleynicholas@outlook.com,33,Premium,Chandigarh,NORTH,STORE002,2026-09-06,2026-09-06 10:31:01,Beauty,94700.25,8656.78,Returned
+TXN000397,USER0068,stephanieburton,stephanieburton@rediffmail.com,28,Premium,Bangalore,SOUTH,STORE001,2025-09-11,2025-09-11 23:18:28,Sports,35748.44,91535.71,returned
+TXN000534,USER0105,kathleenrobertson,kathleenrobertson@yahoo.com,39,Premium,Ahmedabad,West,STORE005,2026-10-26,2026-10-26 17:45:04,Electronics,64938.94,,Pending
+TXN000044,USER0195,spenceamanda,spenceamanda@hotmail.com,18,Basic,Kolkata,East,STORE003,2026-02-03,2026-02-03 18:44:01,Books,39059.67,89174.99,Returned
+TXN000043,USER0033,millertodd,millertodd@hotmail.com,44,Basic,Chennai,South,STORE005,2025-08-25,,Furniture,41635.85,20762.76,
+TXN000330,USER0154,markhernandez,markhernandez@rediffmail.com,38,Free,Lucknow,North,STORE005,2025-10-29,2025-10-29 14:51:08,Sports,21812.52,21050.3,Cancelled
+TXN000168,USER0172,herringjames,herringjames@outlook.com,47,Free,Chandigarh,North,STORE005,2025-01-10,2025-01-10 09:36:38,Beauty,49441.85,93862.19,RETURNED
+TXN000498,USER0162,victorhughes,victorhughes@rediffmail.com,61,Premium,Mumbai,West,STORE001,2025-01-13,2025-01-13 09:59:51,Beauty,63778.67,95622.75,Returned
+TXN000877,USER0124,gary24,gary24@rediffmail.com,48,Free,Chennai,South,STORE004,2026-08-22,2026-08-22 13:40:28,Clothing,32258.95,73113.37,Pending
+TXN000598,USER0232,gentrygregory,gentrygregory@hotmail.com,65,Premium,Bhubaneswar,East,STORE003,01/09/2026,2026-09-01 21:26:50,Grocery,68777.94,82694.18,Cancelled
+TXN000757,USER0243,ystephens,ystephens@outlook.com,66,Basic,Mumbai,West,STORE004,2025-01-23,,Electronics,52831.66,28375.68,pending
+TXN000101,USER0217,evelynestrada,evelynestrada@gmail.com,36,Free,Patna,East,STORE003,2026-11-18,2026-11-18 03:26:22,Clothing,10449.7,50790.51,Pending
+TXN000427,USER0062,romeroamber,romeroamber@yahoo.com,65,Free,Mumbai,WEST,STORE005,2025-12-09,2025-12-09 11:56:52,Electronics,63425.32,63256.14,
+TXN000179,USER0202,reedross,reedross@rediffmail.com,26,Free,Bhubaneswar,East,STORE002,01/11/2026,2026-11-01 11:07:11,Books,446.98,2371.26,Cancelled
+TXN000445,USER0241,odavis,odavis@outlook.com,29,Basic,Chandigarh,North,STORE004,2025-03-23,2025-03-23 22:49:30,Furniture,13837.52,19406.66,Completed
+TXN000417,USER0132,umitchell,umitchell@gmail.com,41,Premium,Bangalore,South,STORE005,08/08/2026,2026-08-08 20:53:24,Sports,7180.31,93028.08,Pending
+TXN000871,USER0168,pblair,pblair@rediffmail.com,42,Premium,Lucknow,North,STORE005,2026-03-08,2026-03-08 03:07:28,Electronics,28575.19,64402.29,Completed
+TXN000883,USER0140,eric19,eric19@outlook.com,24,Premium,Delhi,North,STORE004,2026-05-30,2026-05-30 13:32:21,Sports,92809.19,19473.77,PENDING
+TXN000681,USER0100,joycesmith,joycesmith@rediffmail.com,26,Free,Delhi,North,STORE005,16/04/2025,2025-04-16 00:38:45,Clothing,35603.58,48191.79,Returned
+TXN000178,USER0196,hoganashlee,hoganashlee@hotmail.com,42,Basic,Mumbai,West,STORE001,2026-10-19,2026-10-19 23:41:26,Sports,96418.02,87467.92,PENDING
+TXN000396,USER0054,kathleenrios,kathleenrios@outlook.com,57,Premium,Bhubaneswar,East,STORE001,2025-01-27,2025-01-27 12:33:48,Sports,93165.8,39045.64,pending
+TXN000912,USER0156,kellyrosales,kellyrosales@hotmail.com,22,Free,Lucknow,North,STORE004,2026-04-16,2026-04-16 22:54:50,Furniture,96259.25,60623.6,PENDING
+TXN000794,USER0127,ytaylor,ytaylor@outlook.com,21,Premium,Chennai,South,STORE001,2025-10-03,2025-10-03 11:17:22,Electronics,5307.85,74500.99,Pending
+TXN000961,USER0114,brian29,brian29@gmail.com,38,Premium,Chandigarh,North,STORE005,2026-11-16,2026-11-16 03:22:51,Clothing,27683.19,63099.33,Completed
+TXN000685,USER0169,jonathan77,jonathan77@yahoo.com,24,Basic,Mumbai,west,STORE001,16/08/2026,2026-08-16 18:21:39,Furniture,22018.65,469.34,pending
+TXN000384,USER0144,stevenschristian,stevenschristian@hotmail.com,32,Free, Pune,West,STORE002,05-20-2026,2026-05-20 18:55:17,Electronics,52620.97,42375.27,COMPLETED
+TXN000957,USER0161,carolynsmith,carolynsmith@gmail.com,40,Basic,Patna,EAST,STORE002,2026-03-17,2026-03-17 16:17:36,Electronics,28855.53,,Pending
+TXN000752,USER0060,fuenteslaura,fuenteslaura@rediffmail.com,41,Premium,Lucknow,North,STORE003,2025-12-15,2025-12-15 23:37:59,Furniture,57733.99,,Completed
+TXN000258,USER0168,ymorgan,ymorgan@yahoo.com,23,Free,Jaipur,North,STORE002,2026-12-23,2026-12-23 22:38:02,Clothing,39684.82,4990.17,Cancelled
+TXN000539,USER0168,sarah53,sarah53@hotmail.com,55,Free,Ahmedabad,West,STORE005,2026-06-17,2026-06-17 20:21:26,Books,54892.02,,Pending
+TXN000336,USER0101,judyfox,judyfox@yahoo.com,36,Basic,Bangalore,South,STORE002,2025-08-19,,Sports,7539.45,96251.28,Completed
+TXN000016,USER0209,michellejames,,24,Premium,  Hyderabad  ,South,STORE004,2026-08-08,2026-08-08 18:30:15,Clothing,42415.5,46755.76,completed
+TXN000325,USER0114,,rushmadison@gmail.com,39,Basic,Chandigarh,North,STORE003,04/11/2026,2026-11-04 11:45:28,Beauty,52246.31,70239.4,Completed
+TXN000759,USER0005,rodriguezjohn,,64,Free,Hyderabad,South,STORE001,2025-05-29,2025-05-29 06:13:51,Sports,78571.38,85857.23,Returned
+TXN000223,USER0252,ocarter,ocarter@hotmail.com,63,Basic,Mumbai,West,STORE004,30/07/2026,2026-07-30 16:41:31,Grocery,8358.8,3182.98,Pending
+TXN000180,USER0195,casey50,casey50@yahoo.com,33,Basic,Mumbai,West,STORE003,2026-04-20,2026-04-20 21:46:34,Grocery,27637.41,93747.3,Completed
+TXN000438,USER0012,ashaw,ashaw@gmail.com,33,Free,Ahmedabad,West,STORE003,2025-07-10,2025-07-10 06:32:29,Clothing,49044.29,74464.63,completed
+TXN000023,USER0068,perezantonio,perezantonio@outlook.com,47,Basic,Jaipur,North,STORE001,2026-11-17,2026-11-17 22:20:15,Electronics,45882.72,99845.6,Completed
+TXN000357,USER0229,uparrish,uparrish@yahoo.com,29,Free,Pune,west,STORE005,2026-09-21,2026-09-21 21:10:48,Sports,87232.3,14705.29,
+TXN000667,USER0069,deborah75,deborah75@gmail.com,56,Basic, Delhi,North,STORE001,08-04-2025,2025-08-04 14:38:21,Electronics,67303.37,41374.99,Returned
+TXN000862,USER0131,rdiaz,rdiaz@gmail.com,30,Free,Delhi,North,STORE001,2026-05-11,2026-05-11 19:38:34,Beauty,2401.51,51223.3,pending
+TXN000341,USER0059,bboone,bboone@hotmail.com,34,Free,Mumbai,West,STORE003,2025-02-10,2025-02-10 21:56:20,Electronics,91142.46,82228.7,cancelled
+TXN000432,USER0013,erica37,erica37@outlook.com,28,Basic,Mumbai,West,STORE005,10/03/2026,2026-03-10 11:22:12,Books,99016.9,44276.79,pending
+TXN000552,USER0092,andersoncolin,andersoncolin@hotmail.com,62,Free,Mumbai,West,STORE002,08/05/2025,2025-05-08 20:42:57,Electronics,12023.53,27793.98,completed
+TXN000834,USER0008,erik41,erik41@yahoo.com,67,Basic,,NORTH,STORE005,2025-06-06,2025-06-06 18:40:31,Books,-96897.82,78166.41,Completed
+TXN000204,USER0167,tina34,tina34@hotmail.com,18,Basic,Ahmedabad,West,STORE004,04-16-2025,2025-04-16 00:05:22,Furniture,77938.99,72511.9,Pending
+TXN000631,USER0242,jennifer64,jennifer64@yahoo.com,57,Premium,Mumbai,West,STORE003,03/03/2026,2026-03-03 21:41:47,Sports,74950.5,66738.94,pending
+TXN000094,USER0090,smithkellie,smithkellie@gmail.com,60,Premium,Jaipur,North,STORE002,10-11-2025,2025-10-11 04:08:34,Electronics,35888.4,78864.31,
+TXN000559,USER0061,phillipjensen,phillipjensen@yahoo.com,26,Free,Hyderabad,South,STORE002,26/06/2025,2025-06-26 22:19:01,Sports,22734.79,12621.88,Pending
+TXN000069,USER0207,sara74,sara74@rediffmail.com,70,Premium,Mumbai,WEST,STORE005,2026-04-11,2026-04-11 02:20:16,Furniture,41383.43,18839.5,CANCELLED
+TXN000623,USER0250,christian91,christian91@outlook.com,57,Free,Bangalore,South,STORE003,17/04/2026,,Sports,67412.93,69060.31,Returned
+TXN000285,USER0199,jdurham,jdurham@rediffmail.com,43,Free,Delhi,North,STORE003,24/11/2025,2025-11-24 23:58:51,Books,27692.46,45869.9,COMPLETED
+TXN000845,USER0166,wayala,wayala@outlook.com,18,Premium,Bangalore,South,STORE004,03-21-2025,2025-03-21 23:42:37,Grocery,49994.62,31709.14,RETURNED
+TXN000435,USER0010,mmckee,mmckee@hotmail.com,2,Free,Bhubaneswar,EAST,STORE005,07-16-2026,2026-07-16 15:39:46,Electronics,25620.09,6104.99,pending
+TXN000154,USER0061,karen68,karen68@yahoo.com,24,Basic,Ahmedabad,West,STORE003,2026-01-31,2026-01-31 16:28:48,Books,98680.09,55827.4,Cancelled
+TXN000076,USER0170,caseyjones,caseyjones@gmail.com,46,Premium,Bhubaneswar,East,STORE005,2026-05-23,2026-05-23 01:08:32,Furniture,1633.23,14501.13,Pending
+TXN000731,USER0247,michelle04,michelle04@gmail.com,39,Premium,Ahmedabad,West,STORE004,2025-11-10,2025-11-10 14:18:24,Grocery,15556.97,19043.62,Completed
+TXN000447,USER0219,gbrown,gbrown@hotmail.com,67,Premium,Patna,East,STORE005,2026-12-06,2026-12-06 10:55:29,Sports,82450.42,72048.07,Returned
+TXN000189,USER0158,frogers,frogers@outlook.com,41,Free,Bangalore,South,STORE004,2025-10-17,2025-10-17 12:29:34,Furniture,9950.96,98133.71,Returned
+TXN000272,USER0201,harrisontanya,harrisontanya@rediffmail.com,20,Premium,Bhubaneswar,East,STORE005,2025-07-01,2025-07-01 23:00:44,Clothing,92111.72,96756.42,PENDING
+TXN000237,USER0005,fwalters,fwalters@rediffmail.com,59,Premium,Chandigarh  ,North,STORE004,2025-05-17,,Clothing,72270.96,62845.2,Pending
+TXN000488,USER0218,jonesdana,jonesdana@rediffmail.com,18,Free,Jaipur  ,NORTH,STORE004,2026-07-20,2026-07-20 14:24:22,Books,73118.25,71241.79,Cancelled
+TXN000118,USER0077,bradley60,bradley60@outlook.com,23,Free,Bangalore,South,STORE002,10-18-2025,2025-10-18 08:46:54,Clothing,31092.15,65639.87,Returned
+TXN000944,USER0168,timothy75,timothy75@rediffmail.com,68,Basic,Lucknow,North,STORE003,20/10/2026,2026-10-20 13:56:18,Furniture,89749.48,37534.09,Cancelled
+TXN000513,USER0008,martinezlogan,martinezlogan@yahoo.com,58,Premium,Bangalore,South,STORE003,2026-09-26,2026-09-26 01:15:44,Books,79390.34,45672.84,Pending
+TXN000826,USER0065,tammysummers,tammysummers@yahoo.com,43,Free,Bhubaneswar,EAST,STORE001,06/10/2025,2025-10-06 02:33:24,Grocery,39289.87,,completed
+TXN000592,USER0011,erivera,erivera@rediffmail.com,20,Free,Kolkata,East,STORE001,07/01/2026,2026-01-07 15:45:23,Sports,91753.98,67192.7,Cancelled
+TXN000127,USER0003,yleon,,19,Basic,Pune,WEST,STORE002,2026-12-14,2026-12-14 04:48:45,Books,15037.01,94028.57,Returned
+TXN000117,USER0174,mlam,mlam@rediffmail.com,21,Free,  Mumbai,west,STORE003,2026-01-08,2026-01-08 11:58:18,Electronics,33036.11,55840.52,Returned
+TXN000474,USER0045,wking,wking@hotmail.com,43,Premium,Mumbai,West,STORE005,2026-04-28,2026-04-28 21:03:06,Beauty,62984.12,69043.48,Returned
+TXN000694,USER0121,bhopkins,bhopkins@hotmail.com,31,Basic,Mumbai,West,STORE004,2025-08-01,,Furniture,57179.9,93556.34,Cancelled
+TXN000058,USER0145,agomez,agomez@gmail.com,30,Basic,Mumbai,West,STORE002,07-16-2025,2025-07-16 06:47:30,Clothing,18026.21,1513.42,Pending
+TXN000864,USER0254,smithcarlos,smithcarlos@hotmail.com,50,Basic,Mumbai,West,STORE002,2025-12-23,2025-12-23 22:35:41,Clothing,17378.66,68737.04,Cancelled
+TXN000913,USER0133,vhaynes,user.gmail.com,62,Basic,Hyderabad,South,STORE005,2026-08-13,2026-08-13 22:59:32,Beauty,34874.71,61785.75,Returned
+TXN000370,USER0106,mitchellgriffith,mitchellgriffith@outlook.com,44,Basic,Delhi,North,STORE001,15/08/2026,2026-08-15 16:07:33,Grocery,42664.55,58578.48,Cancelled
+TXN000269,USER0166,molly71,molly71@gmail.com,19,Premium,Patna,East,STORE005,2025-05-14,2025-05-14 10:45:11,Sports,91730.69,77459.21,Cancelled
+TXN000047,USER0233,ibrandt,ibrandt@outlook.com,39,Basic,Mumbai,West,STORE003,2025-07-06,2025-07-06 01:16:24,Books,95125.29,42214.33,Completed
+TXN000350,USER0028,gperry,gperry@rediffmail.com,47,Free,Kolkata,East,STORE005,2025-07-18,2025-07-18 03:11:42,Electronics,29136.2,6829.54,
+TXN000196,USER0116,phillipsrichard,phillipsrichard@outlook.com,61,Premium,Jaipur,North,STORE001,2026-01-18,2026-01-18 12:29:36,Electronics,40587.3,37779.24,Returned
+TXN000762,USER0196,grodriguez,grodriguez@outlook.com,58,Free,Hyderabad,South,STORE004,2026-12-10,2026-12-10 21:42:05,Clothing,1259.08,11751.1,
+TXN000835,USER0152,john52,john52@yahoo.com,22,Basic,Lucknow,North,STORE005,2026-05-26,,Clothing,35401.51,7206.28,Returned
+TXN000737,USER0158,xpatton,xpatton@hotmail.com,113,Free,Mumbai,west,STORE001,28/05/2026,2026-05-28 17:42:56,Electronics,63654.41,77691.44,Cancelled
+TXN000264,USER0184,xhall,xhall@hotmail.com,52,Basic,  Bhubaneswar,East,STORE003,08/10/2026,2026-10-08 17:50:01,Beauty,50289.09,38899.29,PENDING
+TXN000444,USER0137,shannon82,shannon82@rediffmail.com,54,Free,Lucknow,North,STORE002,2025-06-05,2025-06-05 06:06:08,Beauty,23295.04,68769.05,Cancelled
+TXN000676,USER0172,kimberly67,kimberly67@outlook.com,15,Premium,Delhi,North,STORE004,2025-01-29,2025-01-29 15:27:51,Grocery,95884.39,83268.5,Cancelled
+TXN000305,USER0197,linda71,linda71@gmail.com,20,Free,Bhubaneswar,EAST,STORE002,2026-10-11,2026-10-11 13:25:27,Sports,37372.83,1506.3,Cancelled
+TXN000342,USER0099,henryrenee,henryrenee@outlook.com,50,Premium,Delhi,NORTH,STORE001,11/06/2026,2026-06-11 16:28:31,Grocery,97165.71,77354.52,completed
+TXN000967,USER0238,jeffrey92,jeffrey92@outlook.com,60,Premium,Chandigarh,North,STORE003,2025-11-30,2025-11-30 07:42:27,Sports,39869.12,12892.98,Returned
+TXN000150,USER0026,abrown,abrown@outlook.com,42,Free,Lucknow,north,STORE004,06/05/2025,2025-05-06 08:28:15,Grocery,96272.32,90240.85,
+TXN000125,USER0224,jason99,jason99@gmail.com,32,Basic,Lucknow,North,STORE003,2025-10-07,2025-10-07 14:57:32,Electronics,41548.2,39705.75,Cancelled
+TXN000787,USER0170,lawrenceallen,lawrenceallen@gmail.com,28,Free,Mumbai,West,STORE002,2025-07-14,2025-07-14 09:02:08,Furniture,95973.92,98294.58,Completed
+TXN000051,USER0062,chapmanjerry,chapmanjerry@rediffmail.com,68,Premium,Kolkata,East,STORE003,2025-04-15,2025-04-15 22:49:19,Beauty,42894.96,37120.03,cancelled
+TXN000354,USER0042,garnernathan,garnernathan@outlook.com,70,Premium,Bangalore,South,STORE005,2026-05-14,2026-05-14 17:06:11,Grocery,26397.14,88644.95,Completed
+TXN000928,USER0212,davidcolon,,102,Premium,Delhi,North,STORE001,01/09/2025,2025-09-01 07:05:37,Books,72010.7,,
+TXN000143,USER0038,maryramirez,maryramirez@yahoo.com,38,Free,Mumbai,West,STORE001,06/05/2026,2026-05-06 16:26:49,Furniture,46636.74,51784.27,Pending
+TXN000471,USER0012,mjohnson,mjohnson@rediffmail.com,66,Basic,Hyderabad,South,STORE002,2025-04-16,2025-04-16 16:49:42,Clothing,20135.5,28728.08,Cancelled
+TXN000400,USER0070,michelle52,michelle52@outlook.com,36,Basic,Kolkata,East,STORE005,2025-11-07,2025-11-07 00:00:33,Electronics,68808.22,49243.97,Returned
+TXN000626,USER0231,melissa71,melissa71@rediffmail.com,33,Premium,Delhi,NORTH,STORE003,12-21-2026,2026-12-21 14:31:30,Beauty,82962.13,39234.17,CANCELLED
+TXN000321,USER0241,vaughnjeff,vaughnjeff@hotmail.com,4,Premium,Pune,West,STORE004,2025-01-12,2025-01-12 20:59:10,Clothing,24165.09,97017.49,completed
+TXN000020,USER0250,amandasanchez,amandasanchez@yahoo.com,30,Basic,Ahmedabad,West,STORE002,2026-03-10,2026-03-10 22:46:50,Electronics,57960.11,54265.3,Cancelled
+TXN000810,USER0023,christinaglover,christinaglover@yahoo.com,33,Premium,Kolkata,East,STORE003,01-22-2026,2026-01-22 12:01:07,Grocery,93865.98,60003.75,Completed
+TXN000791,USER0243,angelaburns,angelaburns@gmail.com,62,Free,Mumbai,WEST,STORE005,2026-12-19,2026-12-19 07:42:52,Beauty,18200.71,99255.91,pending
+TXN000809,USER0207,michelle96,,64,Free,Pune,West,STORE002,2025-05-27,2025-05-27 02:27:15,Sports,75069.38,1277.67,Completed
+TXN000408,USER0082,marcalvarez,marcalvarez@gmail.com,65,Free,Bhubaneswar,East,STORE005,04-30-2026,2026-04-30 12:43:19,Electronics,25405.94,63888.15,Pending
+TXN000538,USER0243,kwright,kwright@outlook.com,44,Basic,Bhubaneswar,East,STORE001,28/10/2025,2025-10-28 13:43:34,Clothing,18987.16,2301.46,Pending
+TXN000621,USER0214,kathleenbecker,kathleenbecker@outlook.com,38,Free,Delhi,North,STORE004,2025-07-03,2025-07-03 05:53:25,Books,67058.96,62418.66,Cancelled
+TXN000039,USER0003,ericfarmer,ericfarmer@gmail.com,67,Basic,Jaipur,north,STORE002,15/12/2026,2026-12-15 12:31:25,Grocery,80430.57,69621.59,RETURNED
+TXN000176,USER0030,charlesvaughn,,47,Free,Pune,West,STORE003,10/04/2026,2026-04-10 04:32:26,Sports,2274.87,25520.28,Completed
+TXN000246,USER0086,cindy77,cindy77@outlook.com,26,Free,Chennai,South,STORE003,06-20-2026,2026-06-20 16:50:52,Sports,88652.83,77165.89,Completed
+TXN000829,USER0124,rkramer,rkramer@outlook.com,23,Free,Patna,East,STORE005,2025-07-12,2025-07-12 17:12:40,Electronics,56417.56,79043.55,
+TXN000668,USER0040,nicholsmaria,nicholsmaria@rediffmail.com,19,Free,Patna,East,STORE004,2026-02-07,2026-02-07 17:05:50,Sports,12429.22,,
+TXN000755,USER0064,mjones,mjones@outlook.com,63,Free,Bhubaneswar,East,STORE004,2026-09-06,2026-09-06 10:19:32,Sports,82885.86,49553.05,Returned
+TXN000859,USER0063,elittle,elittle@gmail.com,27,Basic,Chandigarh,North,STORE003,2026-10-16,2026-10-16 18:55:06,Grocery,9368.44,49475.08,Cancelled
+TXN000155,USER0021,tracynelson,tracynelson@gmail.com,20,Premium,Mumbai,West,STORE003,28/05/2025,2025-05-28 06:38:32,Books,47427.04,45753.16,PENDING
+TXN000288,USER0206,charleslandry,charleslandry@gmail.com,43,Basic,Chennai,South,STORE002,2026-02-17,2026-02-17 04:39:38,Electronics,74600.41,92091.41,Cancelled
+TXN000603,USER0128,ihays,ihays@outlook.com,55,Free,Mumbai,West,STORE004,2025-10-25,2025-10-25 08:15:39,Electronics,1130.99,13407.17,Cancelled
+TXN000570,USER0208,leescott,leescott@hotmail.com,50,Basic,Chennai,South,STORE002,2026-10-22,2026-10-22 12:22:30,Books,45518.01,12306.79,
+TXN000744,USER0052,timothythompson,timothythompson@gmail.com,47,Free,Patna,EAST,STORE004,2026-01-23,2026-01-23 19:03:22,Sports,83558.57,92511.21,Completed
+TXN000018,USER0051,mitchellclark,mitchellclark@gmail.com,59,Free,Chandigarh,north,STORE001,2026-04-19,2026-04-19 07:55:59,Electronics,92644.06,84884.7,Pending
+TXN000128,USER0123,donnacampbell,donnacampbell@hotmail.com,58,Free,Chandigarh,North,STORE004,2025-04-24,2025-04-24 09:15:19,Electronics,11174.7,90524.17,Completed
+TXN000323,USER0207,pollardmichael,pollardmichael@hotmail.com,20,Free,Delhi,North,STORE005,2025-05-02,2025-05-02 15:47:41,Electronics,82608.28,79199.15,Cancelled
+TXN000256,USER0104,sandraromero,sandraromero@yahoo.com,67,Free,Chandigarh,NORTH,STORE001,2025-11-22,,Grocery,10655.21,45011.72,Cancelled
+TXN000658,USER0087,conniesimmons,conniesimmons@outlook.com,27,Premium,Bhubaneswar,EAST,STORE003,01-27-2026,,Books,9053.89,,Returned
+TXN000965,USER0121,jessicakim,jessicakim@outlook.com,48,Free,Mumbai,WEST,STORE002,03-05-2026,2026-03-05 22:16:39,Clothing,84085.12,87516.4,RETURNED
+TXN000191,USER0126,matthew94,matthew94@hotmail.com,53,Free,Ahmedabad,West,STORE003,07-20-2025,2025-07-20 10:14:24,Clothing,76359.73,48913.25,Returned
+TXN000116,USER0044,samuel81,samuel81@rediffmail.com,59,Premium,Kolkata,east,STORE001,2026-04-07,2026-04-07 03:51:57,Grocery,70791.41,99099.5,Pending
+TXN000617,USER0047,fowlershelia,fowlershelia@hotmail.com,69,Basic,Bangalore,South,STORE005,2026-02-02,2026-02-02 15:17:36,Grocery,43467.18,42659.11,Completed
+TXN000607,USER0066,jennifer05,jennifer05@hotmail.com,35,Free,Delhi,North,STORE003,2025-05-26,,Furniture,28364.26,87705.94,Cancelled
+TXN000181,USER0009,gshort,gshort@yahoo.com,31,Premium,Hyderabad,SOUTH,STORE001,2025-02-02,2025-02-02 21:26:39,Beauty,3454.27,59818.71,Completed
+TXN000302,USER0037,kristinwalter,kristinwalter@hotmail.com,30,Free,Ahmedabad,WEST,STORE001,2026-04-27,2026-04-27 01:55:40,Books,68101.71,53030.87,Returned
+TXN000760,USER0050,gabriel90,,11,Premium,Patna,East,STORE001,2026-03-14,2026-03-14 21:53:10,Electronics,98029.65,65044.77,
+TXN000713,USER0176,thickman,thickman@hotmail.com,30,Basic,Pune,West,STORE001,2026-10-17,2026-10-17 22:43:47,Electronics,25135.51,70939.05,Pending
+TXN000724,USER0105,lauren11,lauren11@gmail.com,33,,  Lucknow,NORTH,STORE005,2026-01-19,2026-01-19 15:18:12,Furniture,73951.64,32936.12,Cancelled
+TXN000686,USER0247,yjackson,yjackson@outlook.com,69,Free,Jaipur,NORTH,STORE004,2026-12-11,2026-12-11 07:29:39,Grocery,40091.23,82625.82,Completed
+TXN000159,USER0105,qvargas,qvargas@hotmail.com,50,Free,Lucknow,North,STORE004,2025-01-20,2025-01-20 14:20:26,Books,84852.86,72767.47,Pending
+TXN000518,USER0231,fred53,fred53@hotmail.com,33,Premium,Bangalore,South,STORE005,2026-12-10,2026-12-10 04:13:09,Sports,3858.36,18082.05,Returned
+TXN000826,USER0065,tammysummers,tammysummers@yahoo.com,43,Free,Bhubaneswar,EAST,STORE001,06/10/2025,2025-10-06 02:33:24,Grocery,39289.87,,completed
+TXN000046,USER0014,josephbrennan,josephbrennan@hotmail.com,55,Free,Bhubaneswar,East,STORE001,2025-06-19,2025-06-19 14:58:08,Electronics,64310.69,13656.38,Returned
+TXN000910,USER0228,kjones,kjones@gmail.com,40,Premium,Bangalore,SOUTH,STORE004,2025-02-04,2025-02-04 20:41:57,Sports,45889.18,,Pending
+TXN000158,USER0195,tinaferguson,tinaferguson@yahoo.com,70,Free,Ahmedabad,West,STORE002,2025-02-22,2025-02-22 18:30:10,Electronics,57299.77,70082.04,Pending
+TXN000852,USER0203,bbell,bbell@gmail.com,41,Premium,Pune,West,STORE005,2025-05-08,2025-05-08 11:50:58,Clothing,26834.15,,cancelled
+TXN000172,USER0158,gary91,gary91@yahoo.com,43,Free,Chandigarh,North,STORE005,12-11-2026,2026-12-11 07:03:42,Sports,77007.12,69060.01,CANCELLED
+TXN000017,USER0174,xreid,xreid@gmail.com,33,Premium,Delhi,North,STORE002,2026-11-21,2026-11-21 20:41:06,Beauty,44916.49,42245.98,Cancelled
+TXN000512,USER0077,khammond,,32,Premium,Pune,West,STORE001,05/08/2025,2025-08-05 20:42:33,Sports,14244.89,65417.77,Returned
+TXN000049,USER0059,samuel87,samuel87@rediffmail.com,31,Basic,Pune,West,STORE003,29/09/2026,2026-09-29 04:15:08,Books,36952.63,60628.68,Completed
+TXN000492,USER0019,kimberlydiaz,kimberlydiaz@rediffmail.com,65,Basic,Mumbai,West,STORE005,2026-03-08,2026-03-08 11:51:18,Clothing,6235.63,47368.74,Pending
+TXN000941,USER0117,mtaylor,mtaylor@yahoo.com,27,,Pune,West,STORE001,2025-09-22,2025-09-22 08:16:55,Grocery,11533.21,3946.33,Returned
+TXN000516,USER0225,katrinaanderson,katrinaanderson@yahoo.com,55,Premium,Ahmedabad,West,STORE002,02/03/2026,2026-03-02 05:44:23,Electronics,79126.12,63256.24,
+TXN000953,USER0151,robin05,robin05@gmail.com,39,Basic,Ahmedabad,West,STORE005,2025-12-29,2025-12-29 04:25:44,Beauty,61701.3,99414.0,Completed
+TXN000481,USER0050,acostachristian,acostachristian@hotmail.com,29,Basic,Mumbai,west,STORE004,2025-04-28,,Electronics,59866.09,68582.32,Returned
+TXN000284,USER0022,pharvey,pharvey@hotmail.com,23,Free,Lucknow,NORTH,STORE004,2025-06-27,2025-06-27 05:13:51,Grocery,99727.2,62759.9,Cancelled
+TXN000719,USER0107,,unovak@rediffmail.com,43,Basic,Lucknow,North,STORE001,2025-12-01,2025-12-01 10:35:40,Grocery,21456.62,35721.97,Pending
+TXN000878,USER0181,wiseanthony,wiseanthony@rediffmail.com,33,Free,Chennai,south,STORE002,2025-04-05,2025-04-05 08:49:18,Sports,7893.87,97179.34,Completed
+TXN000226,USER0045,ronaldstephens,ronaldstephens@hotmail.com,25,Premium,Kolkata,east,STORE002,03/02/2025,2025-02-03 14:16:22,Books,73787.54,68944.45,Returned
+TXN000027,USER0135,julieryan,,65,Basic,Bangalore,South,STORE005,01-04-2025,2025-01-04 10:49:08,Sports,42825.92,1066.0,Completed
+TXN000955,USER0190,lweaver,lweaver@hotmail.com,42,Basic,Patna,East,STORE004,2026-08-27,2026-08-27 16:05:09,Grocery,50915.85,58849.28,Completed
+TXN000438,USER0012,ashaw,ashaw@gmail.com,33,Free,Ahmedabad,West,STORE003,2025-07-10,2025-07-10 06:32:29,Clothing,49044.29,74464.63,completed
+TXN000952,USER0013,joelstewart,joelstewart@yahoo.com,22,Premium,Kolkata,east,STORE005,14/04/2025,2025-04-14 04:55:02,Books,52978.04,38872.6,Returned
+TXN000365,USER0094,,anthony44@rediffmail.com,60,Free,Kolkata,East,STORE003,08/09/2026,2026-09-08 04:50:37,Grocery,72446.26,34332.86,Returned
+TXN000230,USER0189,gbender,gbender@hotmail.com,49,Basic,Chennai,South,STORE005,2026-02-17,2026-02-17 16:47:17,Electronics,86903.89,84732.02,COMPLETED
+TXN000038,USER0013,harrellkenneth,harrellkenneth@gmail.com,33,Basic,Lucknow,North,STORE005,2026-11-20,2026-11-20 09:14:51,Books,76872.08,45596.08,Pending
+TXN000966,USER0247,lbanks,lbanks@outlook.com,24,Premium,Mumbai,West,STORE001,2026-05-17,2026-05-17 20:25:38,Books,76417.27,,Returned
+TXN000375,USER0147,reeddaniel,reeddaniel@yahoo.com,20,Free,Lucknow,North,STORE005,10-18-2026,2026-10-18 15:28:00,Beauty,69875.13,61557.48,Completed
+TXN000470,USER0003,bryanparsons,bryanparsons@outlook.com,20,Free,Ahmedabad,West,STORE005,2026-04-16,2026-04-16 12:45:55,Books,8798.88,46740.9,completed
+TXN000968,USER0149,sparker,sparker@outlook.com,50,Premium,Jaipur,north,STORE004,2026-05-16,2026-05-16 19:26:43,Electronics,56269.51,32386.88,Cancelled
+TXN000851,USER0149,taylordavid,taylordavid@hotmail.com,31,Premium,Kolkata,East,STORE004,2026-10-11,2026-10-11 14:32:37,Beauty,38169.88,19636.47,Returned
+TXN000705,USER0251,abrown,abrown@gmail.com,29,Premium,Kolkata  ,East,STORE001,2026-11-23,,Furniture,28453.38,23380.64,COMPLETED
+TXN000842,USER0217,yjones,yjones@outlook.com,34,Free,Delhi,North,STORE002,2025-08-07,2025-08-07 01:13:55,Electronics,14259.62,27463.14,Completed
+TXN000195,USER0124,bwest,bwest@yahoo.com,57,Free,Ahmedabad,WEST,STORE003,03/07/2025,2025-07-03 03:58:06,Books,35508.67,79514.14,Completed
+TXN000855,USER0163,kimberly04,kimberly04@rediffmail.com,28,Basic,Lucknow,North,STORE002,2025-05-12,2025-05-12 20:24:46,Electronics,71031.48,12720.4,Completed
+TXN000865,USER0160,jason06,,68,Premium,Hyderabad,South,STORE004,07/02/2026,2026-02-07 03:37:50,Furniture,88297.45,,Cancelled
+TXN000504,USER0136,cochrantammy,cochrantammy@yahoo.com,46,Premium,Jaipur,North,STORE004,2026-01-27,2026-01-27 12:21:03,Grocery,61069.16,17926.37,RETURNED
+TXN000970,USER0106,xrosales,xrosales@gmail.com,57,Free,Lucknow,North,STORE003,2026-02-24,2026-02-24 07:36:56,Grocery,60535.62,2090.0,Completed
+TXN000831,USER0258,ksmith,ksmith@gmail.com,50,Premium,Mumbai,West,STORE001,2026-12-21,2026-12-21 21:06:21,Beauty,79627.32,47747.61,Completed
+TXN000580,USER0104,angela34,angela34@hotmail.com,58,Premium,Bhubaneswar,East,STORE005,20/06/2025,2025-06-20 19:19:23,Grocery,28806.82,4848.38,returned
+TXN000969,USER0134,,david09@gmail.com,35,Basic,Mumbai,West,STORE002,02-26-2026,2026-02-26 12:51:28,Clothing,63662.99,4658.29,Returned
+TXN000163,USER0022,matthew64,matthew64@outlook.com,63,Premium,Lucknow,North,STORE003,2026-02-09,2026-02-09 11:49:51,Furniture,65631.61,74759.12,PENDING
+TXN000909,USER0218,wagnerdana,wagnerdana@yahoo.com,19,Basic,Pune,West,STORE004,2026-01-31,2026-01-31 22:51:06,Electronics,56464.49,1200.86,CANCELLED
+TXN000153,USER0188,wwoods,wwoods@gmail.com,43,Premium,Hyderabad,South,STORE005,18/05/2025,2025-05-18 08:46:23,Beauty,19546.06,55366.97,Completed
+TXN000802,USER0133,adamsamy,adamsamy@outlook.com,32,Basic,Chennai,South,STORE003,2026-06-10,2026-06-10 14:32:45,Beauty,11998.43,-22470.55,
+TXN000284,USER0022,pharvey,pharvey@hotmail.com,23,Free,Lucknow,NORTH,STORE004,2025-06-27,2025-06-27 05:13:51,Grocery,99727.2,62759.9,Cancelled
+TXN000756,USER0116,iaguilar,iaguilar@gmail.com,67,Premium,Chennai,SOUTH,STORE004,2025-03-02,2025-03-02 10:09:52,Sports,39241.61,98440.52,Pending
+TXN000112,USER0079,michael86,michael86@gmail.com,29,Free,Lucknow,North,STORE004,2025-08-30,2025-08-30 03:09:16,Furniture,75469.14,76011.73,Returned
+TXN000227,USER0106,rebekahserrano,rebekahserrano@gmail.com,54,Basic,Jaipur,north,STORE005,2025-06-19,2025-06-19 19:08:50,Clothing,59726.08,16920.9,Cancelled
+TXN000689,USER0057,warrenmary,warrenmary@outlook.com,31,Basic,Lucknow,North,STORE004,2025-04-14,,Grocery,37027.1,37297.79,Pending
+TXN000104,USER0047,theresacochran,theresacochran@rediffmail.com,31,Basic,Bhubaneswar,East,STORE004,2025-03-13,2025-03-13 04:47:40,Furniture,34155.51,37068.3,Cancelled
+TXN000422,USER0212,lisa81,lisa81@hotmail.com,70,Free,Kolkata,East,STORE003,2025-12-27,2025-12-27 10:35:20,Beauty,24148.18,54608.06,Returned
+TXN000420,USER0092,tanderson,tanderson@rediffmail.com,65,Free,Bangalore,South,STORE004,23/06/2026,2026-06-23 21:15:36,Sports,10640.87,63898.57,CANCELLED
+TXN000751,USER0196,samuelcarter,samuelcarter@rediffmail.com,45,Premium,Chennai,south,STORE002,2026-10-22,2026-10-22 10:24:58,Clothing,11657.43,8859.27,completed
+TXN000587,USER0143,sandra47,,29,Free,Hyderabad,South,STORE001,2025-10-07,2025-10-07 04:01:16,Sports,48635.61,2088.88,Completed
+TXN000781,USER0116,michaelgonzalez,michaelgonzalez@yahoo.com,22,Basic,Patna,east,STORE002,2026-09-14,2026-09-14 14:10:43,,35393.82,5185.57,Returned
+TXN000673,USER0219,suzannewilson,suzannewilson@gmail.com,38,Basic,Delhi,North,STORE004,2026-11-29,2026-11-29 17:56:29,Clothing,12259.6,51877.7,Returned
+TXN000120,USER0175,cindy14,cindy14@hotmail.com,30,Premium,Bhubaneswar,East,STORE002,19/01/2025,2025-01-19 11:19:11,Grocery,7808.79,84458.4,COMPLETED
+TXN000054,USER0250,chad34,chad34@yahoo.com,40,Basic,Mumbai,West,STORE003,2025-12-11,2025-12-11 00:31:54,Clothing,88043.97,70148.26,Cancelled
+TXN000152,USER0145,gateskathy,gateskathy@hotmail.com,56,Free,Delhi,North,STORE004,2025-09-04,2025-09-04 06:37:22,Clothing,53715.41,84732.52,Returned
+TXN000404,USER0010,xjohnson,,21,Free,Lucknow  ,North,STORE001,2025-10-06,2025-10-06 22:39:31,Grocery,97236.03,28283.24,Pending
+TXN000946,USER0077,carla04,carla04@hotmail.com,10,Free,Delhi,North,STORE001,09/08/2025,2025-08-09 12:53:37,Electronics,95866.65,99232.71,Returned
+TXN000208,USER0150,salasaudrey,salasaudrey@hotmail.com,54,Premium,Bhubaneswar,East,STORE003,2026-05-06,2026-05-06 10:11:25,Furniture,28101.98,78608.07,Cancelled
+TXN000659,USER0093,wwilliams,wwilliams@gmail.com,63,Premium,Bhubaneswar,EAST,STORE003,2026-11-26,2026-11-26 05:03:39,Furniture,9964.55,14331.81,Cancelled
+TXN000844,USER0083,michael42,michael42@hotmail.com,40,Free,Pune,West,STORE005,2025-07-23,2025-07-23 11:26:30,Furniture,82319.27,56134.75,pending
+TXN000763,USER0012,jeffrey88,jeffrey88@rediffmail.com,54,Free,Pune,West,STORE004,2026-05-16,2026-05-16 20:42:58,Clothing,69403.21,9545.87,Pending
+TXN000009,USER0082,susanrogers,,56,Premium,Lucknow,North,STORE004,04-04-2025,2025-04-04 01:55:07,Furniture,59629.25,46858.18,Cancelled
+TXN000808,USER0145,jasonrojas,jasonrojas@gmail.com,37,Premium,Lucknow,north,STORE002,2025-07-13,2025-07-13 18:31:46,Books,39480.31,60821.43,Completed
+TXN000037,USER0087,teresa28,teresa28@gmail.com,36,Free,Pune,West,STORE005,2026-03-29,2026-03-29 14:43:13,Clothing,9429.38,95204.77,pending
+TXN000453,USER0172,smithjason,smithjason@rediffmail.com,60,Premium,Hyderabad,SOUTH,STORE002,2026-01-23,2026-01-23 17:24:02,Books,14546.28,76938.76,Completed
+TXN000652,USER0063,nyoung,nyoung@rediffmail.com,40,Premium,Pune,West,STORE001,2025-08-09,2025-08-09 05:52:47,Furniture,48169.53,31039.22,Returned
+TXN000254,USER0212,robert77,robert77@outlook.com,8,Free,Patna,East,STORE001,2026-12-30,2026-12-30 08:05:02,Beauty,9648.14,13438.03,Returned
+TXN000304,USER0108,robin74,robin74@yahoo.com,54,Premium,Mumbai,WEST,STORE004,2025-11-17,2025-11-17 20:03:00,Books,76380.56,8895.33,returned
+TXN000747,USER0052,markramirez,markramirez@hotmail.com,36,Free,Chennai,South,STORE002,2026-03-15,2026-03-15 15:42:54,Sports,14401.83,52053.44,Completed
+TXN000572,USER0253,roberthampton,roberthampton@hotmail.com,30,Basic,Hyderabad,SOUTH,STORE004,2025-11-07,2025-11-07 19:39:06,Furniture,50529.0,54289.57,Completed
+TXN000624,USER0058,poolerebecca,poolerebecca@gmail.com,62,Premium,Delhi,North,STORE001,2025-11-06,2025-11-06 02:08:08,Grocery,48163.61,14600.9,Pending
+TXN000733,USER0084,ashleyjackson,ashleyjackson@yahoo.com,66,Basic,Mumbai,West,STORE003,2026-02-23,2026-02-23 01:58:07,Books,91317.29,72252.3,returned
+TXN000892,USER0126,shawrachel,shawrachel@rediffmail.com,65,Free,Pune,West,STORE004,08-14-2025,2025-08-14 21:09:22,Clothing,20710.12,9018.47,
+TXN000263,USER0246,tinaallen,tinaallen@gmail.com,23,Basic,Patna,East,STORE004,2026-10-25,2026-10-25 09:31:26,Grocery,41981.56,64300.99,pending
+TXN000611,USER0003,thomasboyle,thomasboyle@rediffmail.com,67,Free,Ahmedabad,west,STORE002,2026-07-31,2026-07-31 21:37:13,Furniture,92049.28,24691.13,Returned
+TXN000298,USER0030,erica21,erica21@rediffmail.com,43,Free,Jaipur,NORTH,STORE003,2025-07-12,2025-07-12 04:33:48,Sports,14078.96,2642.98,Returned
+TXN000415,USER0199,mccormickdeborah,mccormickdeborah@yahoo.com,51,Free,Bhubaneswar,East,STORE004,25/11/2025,,Books,55191.63,61342.62,CANCELLED
+TXN000151,USER0256,lstein,lstein@rediffmail.com,47,Basic,Hyderabad,south,STORE003,2026-08-15,,Furniture,2415.31,94528.76,Returned
+TXN000789,USER0080,ibarnes,ibarnes@outlook.com,50,Premium,Delhi,North,STORE002,2025-05-15,2025-05-15 03:06:50,Electronics,67863.2,34279.89,Completed
+TXN000641,USER0076,victorialong,user@@gmail..com,46,Free,Bangalore,South,STORE002,01-09-2025,2025-01-09 08:57:33,Beauty,62473.53,61856.93,Returned
+TXN000890,USER0132,umoon,umoon@hotmail.com,34,Basic,Mumbai,West,STORE004,2025-12-10,2025-12-10 14:31:47,Electronics,82792.17,30183.29,CANCELLED
+TXN000551,USER0115,marcia99,marcia99@gmail.com,68,Premium,Hyderabad,South,STORE002,2026-08-23,2026-08-23 09:31:35,Clothing,30086.92,64091.47,Returned
+TXN000887,USER0036,haroldhorne,haroldhorne@yahoo.com,29,Basic,Mumbai,West,STORE004,2025-11-09,2025-11-09 22:15:10,Grocery,96228.08,66636.53,Returned
+TXN000489,USER0020,william20,william20@rediffmail.com,48,Free,Delhi,North,STORE003,25/02/2026,2026-02-25 17:36:23,Electronics,58068.85,96177.6,Completed
+TXN000148,USER0153,jasminebrown,jasminebrown@hotmail.com,22,Free,Chennai,South,STORE001,05-10-2026,2026-05-10 07:51:51,Grocery,44016.59,48476.69,Pending
+TXN000147,USER0108,taylorjesse,taylorjesse@rediffmail.com,44,Free,Ahmedabad,West,STORE001,25/03/2025,2025-03-25 01:41:49,Furniture,88910.79,54603.19,cancelled
+TXN000721,USER0053,whenry,whenry@rediffmail.com,68,Free,Pune,West,STORE002,2026-02-25,2026-02-25 09:49:38,Clothing,95907.57,60026.73,Returned
+TXN000932,USER0119,christopherboone,christopherboone@outlook.com,65,Free,Lucknow,north,STORE002,2025-10-14,2025-10-14 02:13:58,Electronics,37301.76,,Pending
+TXN000740,USER0031,rushmartin,rushmartin@yahoo.com,69,Premium,Lucknow,North,STORE003,2026-04-07,2026-04-07 18:52:13,Books,40938.36,62721.05,Completed
+TXN000660,USER0104,ufloyd,ufloyd@yahoo.com,66,Free,Chandigarh,NORTH,STORE005,2025-09-22,2025-09-22 12:52:57,Grocery,49348.65,75263.76,Returned
+TXN000349,USER0177,dmorgan,dmorgan@yahoo.com,44,Free,Jaipur,North,STORE005,2026-07-05,2026-07-05 17:05:19,Grocery,16179.34,22156.72,Cancelled
+TXN000464,USER0015,qzavala,qzavala@yahoo.com,30,Basic,Mumbai,West,STORE003,2025-01-07,2025-01-07 03:43:21,Sports,47962.92,47502.6,Completed
+TXN000326,USER0210,batesdarlene,batesdarlene@gmail.com,34,Free,Chennai,South,STORE002,2025-06-18,,Grocery,12162.51,85234.22,Pending
+TXN000187,USER0097,marcus31,marcus31@rediffmail.com,64,Free,Patna,East,STORE005,2026-11-21,2026-11-21 19:38:02,Grocery,47991.48,86960.44,Cancelled
+TXN000124,USER0247,richard04,richard04@outlook.com,53,Premium,  Delhi  ,North,STORE005,2026-09-12,2026-09-12 04:55:16,Books,12555.31,8479.13,Pending
+TXN000854,USER0201,wrightcarolyn,,57,Free,Jaipur,NORTH,STORE004,2025-12-10,2025-12-10 05:36:27,Books,5252.94,93200.84,Returned
+TXN000609,USER0224,gwilcox,gwilcox@gmail.com,49,Premium,Chennai,SOUTH,STORE004,2025-02-06,2025-02-06 15:16:10,Clothing,98882.98,56129.37,Returned
+TXN000144,USER0067,rsims,rsims@hotmail.com,113,Premium,Hyderabad,South,STORE001,2026-07-19,2026-07-19 20:37:11,Beauty,15386.25,16549.24,cancelled
+TXN000959,USER0100,lindsaypeterson,,49,Premium,Bhubaneswar,East,STORE003,2025-01-29,2025-01-29 19:57:02,Grocery,28255.57,94793.19,Returned
+TXN000198,USER0244,wtran,wtran@outlook.com,20,Premium,Chennai,South,STORE003,2025-08-24,,Beauty,56394.64,3386.89,CANCELLED
+TXN000610,USER0064,christopher12,christopher12@outlook.com,23,Premium,Patna,east,STORE003,2026-05-20,2026-05-20 03:54:46,Grocery,83511.87,75018.67,cancelled
+TXN000280,USER0251,williamslaura,williamslaura@outlook.com,23,Free,Mumbai,West,STORE005,30/04/2026,2026-04-30 03:19:50,Furniture,18569.63,88560.72,Cancelled
+TXN000294,USER0110,khill,khill@yahoo.com,59,Premium,Lucknow,North,STORE002,19/10/2025,2025-10-19 00:24:03,Clothing,65193.57,51376.8,
+TXN000401,USER0119,cjones,cjones@gmail.com,53,Basic,Kolkata,east,STORE002,03/11/2025,2025-11-03 00:49:27,Furniture,-88227.99,43766.93,Pending
+TXN000123,USER0237,lbyrd,lbyrd@outlook.com,67,Basic,Bhubaneswar,East,STORE005,2025-07-18,2025-07-18 11:43:36,Beauty,41924.22,16289.61,Pending
+TXN000184,USER0177,jessicasheppard,jessicasheppard@hotmail.com,68,Free,Pune,West,STORE003,2026-10-04,2026-10-04 21:27:35,Sports,41690.83,15006.84,returned
+TXN000203,USER0158,javierwashington,javierwashington@hotmail.com,41,Basic,Chandigarh,North,STORE001,2026-02-03,2026-02-03 10:23:06,Grocery,8820.99,43154.85,Returned
+TXN000439,USER0121,lisasolis,lisasolis@rediffmail.com,35,Premium,Bangalore,South,STORE003,2025-12-22,,Furniture,89051.17,81504.38,COMPLETED
+TXN000247,USER0040,harrisandrea,harrisandrea@hotmail.com,47,Free,Delhi,NORTH,STORE003,2025-12-10,2025-12-10 13:17:33,Electronics,50011.04,56731.92,Cancelled
+TXN000416,USER0035,riveraangela,riveraangela@gmail.com,26,Premium,Chandigarh,North,STORE001,2026-02-24,2026-02-24 20:20:07,Grocery,10794.81,19242.5,Completed
+TXN000933,USER0233,david70,david70@gmail.com,19,Basic,Bangalore,South,STORE001,06/02/2025,2025-02-06 07:44:28,Clothing,27868.94,38479.25,Completed
+TXN000766,USER0229,phillipssamantha,phillipssamantha@outlook.com,25,Premium,Delhi,North,STORE002,2025-07-05,,Beauty,20702.37,16204.91,Cancelled
+TXN000907,USER0225,phyllismeyer,phyllismeyer@rediffmail.com,25,Basic,Bangalore,South,STORE002,2025-08-29,2025-08-29 17:16:52,Sports,2263.62,,pending
+TXN000836,USER0072,sanderskevin,sanderskevin@gmail.com,54,Basic,Patna,East,STORE001,2025-09-22,2025-09-22 15:16:48,Clothing,85914.43,40153.83,Pending
+TXN000888,USER0088,tranrobin,tranrobin@gmail.com,56,Basic,Patna,East,STORE004,12-09-2025,2025-12-09 00:11:16,Beauty,200.55,87334.53,Returned
+TXN000130,USER0260,lindsayhernandez,lindsayhernandez@rediffmail.com,19,Basic,Ahmedabad,West,STORE004,2026-06-21,2026-06-21 11:04:33,Electronics,63603.51,98105.84,CANCELLED
+TXN000638,USER0216,ykane,ykane@yahoo.com,26,Basic,Lucknow,North,STORE004,2026-01-05,2026-01-05 20:42:15,Furniture,89816.72,95188.87,Cancelled
+TXN000403,USER0212,william47,,22,Premium,Kolkata,East,STORE002,2025-10-19,,Clothing,11124.6,45588.77,Returned
+TXN000785,USER0129,lisamccarthy,lisamccarthy@yahoo.com,48,Basic,Delhi,NORTH,STORE003,2026-02-25,2026-02-25 03:58:31,Clothing,36513.12,,Cancelled
+TXN000771,USER0099,carlos01,carlos01@outlook.com,54,Free,Bhubaneswar,East,STORE005,14/03/2025,2025-03-14 20:46:17,Beauty,16487.9,82174.62,Cancelled
+TXN000736,USER0204,ryanfisher,ryanfisher@rediffmail.com,23,Free,Patna,East,STORE002,30/04/2025,2025-04-30 02:41:45,Furniture,16665.78,42744.46,Cancelled
+TXN000914,USER0119,louis43,louis43@gmail.com,60,Premium,Hyderabad,South,STORE004,2025-03-11,2025-03-11 01:01:54,Sports,47693.66,76014.94,Pending
+TXN000220,USER0044,colleenbaker,colleenbaker@yahoo.com,38,Premium,Patna,EAST,STORE002,2026-11-21,2026-11-21 22:51:19,Clothing,11783.2,37393.28,Pending
+TXN000642,USER0208,,jessicawalker@yahoo.com,37,Premium,Hyderabad,South,STORE001,16/12/2026,2026-12-16 11:56:51,Beauty,33515.84,72537.36,Pending
+TXN000916,USER0090,moorefrank,moorefrank@outlook.com,24,Free,Delhi,North,STORE004,19/01/2026,2026-01-19 19:40:53,Furniture,13408.34,63775.84,Pending
+TXN000753,USER0217,ichambers,,67,Basic,Mumbai,West,STORE002,2026-08-28,2026-08-28 17:12:54,Beauty,66407.9,59118.52,completed
+TXN000807,USER0189,hgrimes,hgrimes@yahoo.com,48,Premium,Chennai,South,STORE004,2025-06-09,2025-06-09 14:14:46,Grocery,45993.07,,
+TXN000920,USER0037,lindseytorres,lindseytorres@rediffmail.com,23,Premium,Mumbai,West,STORE005,03-10-2025,2025-03-10 14:27:40,Clothing,10181.21,49921.35,Completed
+TXN000625,USER0045,ashleyhernandez,ashleyhernandez@outlook.com,67,Basic,Ahmedabad,WEST,STORE002,2026-03-23,2026-03-23 20:54:50,Furniture,42245.73,-11734.24,Pending
+TXN000875,USER0189,zimmermanjacqueline,,18,Free,Chennai,south,STORE001,2025-08-20,2025-08-20 05:05:12,Clothing,88343.6,4403.31,COMPLETED
+TXN000761,USER0061,vrasmussen,vrasmussen@yahoo.com,43,Basic,Jaipur,North,STORE003,2025-06-02,2025-06-02 20:46:25,Sports,59655.93,17331.45,Returned
+TXN000387,USER0191,burchgeorge,burchgeorge@outlook.com,43,Basic,Mumbai,West,STORE004,08/07/2025,2025-07-08 15:27:13,Grocery,57183.83,97929.32,Pending
+TXN000663,USER0217,oallen,oallen@rediffmail.com,46,Premium,Jaipur,North,STORE001,2026-01-18,2026-01-18 17:10:50,Books,46518.74,82954.24,Cancelled
+TXN000510,USER0098,cherylmiller,cherylmiller@yahoo.com,20,Premium,Mumbai,West,STORE001,2026-05-14,2026-05-14 02:56:40,Sports,99638.72,23924.66,Returned
+TXN000268,USER0029,tylerjohnson,tylerjohnson@yahoo.com,56,Premium,Delhi,North,STORE001,2026-07-10,2026-07-10 09:11:31,Beauty,47851.1,33240.23,PENDING
+TXN000820,USER0009,schultznicole,schultznicole@outlook.com,53,Basic,Delhi,North,STORE002,2026-12-21,2026-12-21 02:15:23,Electronics,6051.78,34999.82,pending
+TXN000442,USER0070,dawsonzachary,dawsonzachary@hotmail.com,67,Premium,Patna,East,STORE005,2025-05-22,2025-05-22 09:44:45,Grocery,31817.87,55778.3,Completed
+TXN000497,USER0244,john10,john10@rediffmail.com,32,Basic,Pune,West,STORE004,23/02/2025,2025-02-23 05:29:25,Furniture,26336.25,53091.17,Returned
+TXN000113,USER0166,sheila14,sheila14@outlook.com,27,Basic,Bhubaneswar,East,STORE001,2026-11-29,2026-11-29 18:41:40,Furniture,44276.59,30351.76,Cancelled
+TXN000692,USER0042,carloshernandez,carloshernandez@hotmail.com,68,Free,Jaipur,North,STORE005,2026-06-05,2026-06-05 18:56:31,Electronics,16826.61,38872.77,Cancelled
+TXN000233,USER0220,anthony39,anthony39@yahoo.com,62,Premium,Delhi,NORTH,STORE003,2025-05-08,2025-05-08 05:28:29,Grocery,87454.89,87671.84,completed
+TXN000870,USER0163,peter14,peter14@outlook.com,30,Premium,Hyderabad,South,STORE001,11/08/2026,2026-08-11 20:26:43,Books,49444.03,4774.51,Cancelled
+TXN000608,USER0252,ashley32,ashley32@yahoo.com,53,Free,Lucknow,North,STORE004,2026-06-14,2026-06-14 10:27:57,Electronics,18973.1,5551.26,
+TXN000672,USER0133,kevin03,kevin03@rediffmail.com,32,Free,Delhi,NORTH,STORE003,2025-03-08,2025-03-08 18:08:47,Grocery,84781.95,2409.44,Cancelled
+TXN000374,USER0020,wnelson,wnelson@hotmail.com,43,Free,Mumbai,West,STORE005,2025-04-01,2025-04-01 02:16:14,Clothing,71189.42,59787.51,Pending
+TXN000555,USER0040,cporter,cporter@rediffmail.com,30,Free,Bangalore,South,STORE002,2025-02-19,2025-02-19 09:18:33,Books,9541.41,75287.59,Cancelled
+TXN000843,USER0110,crosscurtis,crosscurtis@outlook.com,29,Premium,Mumbai,West,STORE001,02/11/2025,2025-11-02 22:28:55,Furniture,34267.71,75342.29,pending
+TXN000234,USER0085,keyemily,keyemily@gmail.com,43,Free,Mumbai,West,STORE003,2026-11-02,2026-11-02 11:16:05,Sports,69974.19,23490.97,Completed
+TXN000786,USER0072,samantha91,samantha91@outlook.com,65,Basic,Mumbai,West,STORE001,2025-04-22,2025-04-22 14:42:53,Clothing,88369.27,,COMPLETED
+TXN000677,USER0225,kyle58,,58,Basic,Bangalore,South,STORE005,17/06/2026,,Electronics,8644.92,6162.63,completed
+TXN000318,USER0184,umatthews,umatthews@rediffmail.com,19,Free,Bangalore,south,STORE002,2026-08-06,2026-08-06 21:28:11,Furniture,92047.76,11382.45,Returned
+TXN000649,USER0235,allencarlos,allencarlos@yahoo.com,63,Free,  Pune,west,STORE005,16/06/2025,2025-06-16 04:32:08,Electronics,69477.62,45597.69,
+TXN000411,USER0055,benjaminzimmerman,benjaminzimmerman@yahoo.com,49,Premium,Bangalore,South,STORE003,03/10/2026,2026-10-03 01:03:22,Beauty,78877.33,75694.08,Returned
+TXN000899,USER0072,brittany73,brittany73@yahoo.com,34,Premium,Mumbai,west,STORE004,2026-08-01,2026-08-01 13:43:56,Beauty,20032.37,30569.11,Cancelled
+TXN000710,USER0222,rachel90,rachel90@hotmail.com,42,Free,Bangalore,South,STORE002,02/03/2026,2026-03-02 07:11:57,Sports,56904.67,39415.78,COMPLETED
+TXN000359,USER0021,dale83,dale83@outlook.com,24,Free,Patna,East,STORE005,2026-02-02,2026-02-02 15:58:29,Sports,82981.75,83503.74,Cancelled
+TXN000259,USER0128,lori44,lori44@gmail.com,47,Premium,Kolkata,EAST,STORE002,2025-09-24,2025-09-24 05:01:25,Electronics,1294.5,83054.2,Pending
+TXN000745,USER0128,snovak,snovak@outlook.com,46,Free,Mumbai,west,STORE004,2026-09-09,2026-09-09 03:55:33,Beauty,41371.35,18874.7,Cancelled
+TXN000628,USER0250,dstokes,dstokes@yahoo.com,63,Premium,Chennai,south,STORE005,2026-02-14,2026-02-14 15:32:37,Electronics,42258.25,31653.43,Completed
+TXN000633,USER0258,hendersonisabella,hendersonisabella@gmail.com,69,Premium,Kolkata,EAST,STORE003,2026-01-01,2026-01-01 21:10:11,Furniture,11485.53,22746.36,Pending
+TXN000283,USER0018,georgemiller,georgemiller@rediffmail.com,54,Free,Chandigarh,North,STORE005,2026-08-10,2026-08-10 07:30:19,Sports,98277.2,-14830.02,Returned
+TXN000377,USER0179,walkertracey,walkertracey@outlook.com,70,Basic,Ahmedabad,west,STORE002,12-22-2026,2026-12-22 02:58:05,Beauty,96309.41,45530.42,Returned
+TXN000385,USER0090,barbara96,barbara96@hotmail.com,25,Free,Chennai,SOUTH,STORE005,05-30-2026,2026-05-30 11:25:55,Furniture,31633.56,941.02,Pending
+TXN000225,USER0226,sandrafrench,,31,Basic,Hyderabad,South,STORE001,2026-07-11,2026-07-11 11:34:52,Sports,83024.06,75159.41,Cancelled
+TXN000954,USER0210,annalopez,annalopez@hotmail.com,65,Basic,Bhubaneswar,East,STORE003,2025-03-17,2025-03-17 23:58:22,Books,47762.89,13547.09,
+TXN000815,USER0172,rsellers,,29,Free,Mumbai,West,STORE004,2025-02-14,,Grocery,89322.44,68747.36,Cancelled
+TXN000473,USER0126,sarah86,sarah86@yahoo.com,22,Basic,Mumbai,WEST,STORE005,2025-10-05,2025-10-05 04:45:51,Clothing,54103.65,5167.55,Completed
+TXN000348,USER0192,russellbeasley,russellbeasley@gmail.com,53,Free,Bhubaneswar,East,STORE002,11-02-2025,2025-11-02 21:56:58,Electronics,4273.14,57314.59,Returned
+TXN000506,USER0001,patricia22,patricia22@gmail.com,60,Basic,Lucknow,North,STORE003,2026-04-02,2026-04-02 00:57:31,Grocery,70035.51,90471.29,Completed
+TXN000640,USER0152,desireebailey,desireebailey@hotmail.com,43,Free,Ahmedabad,West,STORE005,08/11/2026,2026-11-08 20:09:57,Books,30501.87,74295.48,Cancelled
+TXN000538,USER0243,kwright,kwright@outlook.com,44,Basic,Bhubaneswar,East,STORE001,28/10/2025,2025-10-28 13:43:34,Clothing,18987.16,2301.46,Pending
+TXN000929,USER0161,gina19,,56,Free,Mumbai,West,STORE002,2025-02-28,2025-02-28 04:28:11,Clothing,13058.65,39842.08,COMPLETED
+TXN000906,USER0013,jenniferdavis,jenniferdavis@rediffmail.com,46,Basic,Chandigarh,North,STORE001,2026-06-17,2026-06-17 03:15:13,Electronics,30062.38,48423.58,Pending
+TXN000620,USER0130,robert87,robert87@outlook.com,34,Free,Pune,West,STORE001,06-07-2026,2026-06-07 13:26:06,Books,50394.11,11482.16,Returned
+TXN000856,USER0134,aprilhicks,aprilhicks@rediffmail.com,28,Basic,Kolkata,East,STORE002,2026-10-09,2026-10-09 18:50:25,Electronics,9417.21,,Pending
+TXN000804,USER0136,veronicagarcia,,44,Free,Chandigarh,North,STORE003,2026-10-10,,Clothing,98527.6,,Completed
+TXN000646,USER0072,stevenmoore,stevenmoore@hotmail.com,51,Free,Hyderabad,South,STORE002,25/12/2025,2025-12-25 09:18:42,Electronics,32851.91,58278.67,cancelled
+TXN000847,USER0111,morenoalan,morenoalan@outlook.com,31,Premium,Bangalore,South,STORE005,2026-12-15,2026-12-15 17:49:10,Electronics,37088.62,36443.07,Cancelled
+TXN000557,USER0084,jstone,jstone@gmail.com,31,Premium,Patna,East,STORE005,17/01/2026,2026-01-17 15:26:21,Grocery,83174.2,79531.16,Completed
+TXN000958,USER0055,nsmith,,60,Basic,Bhubaneswar,east,STORE002,23/06/2025,2025-06-23 09:58:16,Electronics,20763.63,83895.12,Pending
+TXN000578,USER0020,erica49,,60,Basic,Ahmedabad,West,STORE005,2025-04-28,,Beauty,90150.84,26735.23,Returned
+TXN000796,USER0185,cmckinney,cmckinney@outlook.com,65,Free,Chandigarh,North,STORE005,2026-12-01,2026-12-01 17:49:55,Beauty,37222.07,65059.81,Pending
+TXN000086,USER0132,mikemoore,mikemoore@hotmail.com,69,Basic,Kolkata,East,STORE003,2026-06-28,2026-06-28 16:58:17,Books,11605.45,96293.04,Pending
+TXN000243,USER0079,darrell68,,23,Basic,Bangalore,south,STORE001,10/03/2026,2026-03-10 22:25:05,Beauty,92100.39,97433.91,pending
+TXN000699,USER0207,jamesfox,jamesfox@hotmail.com,70,Free,Mumbai,West,STORE001,2025-01-09,2025-01-09 09:18:52,Furniture,65443.69,98928.54,Pending
+TXN000160,USER0245,millerroy,millerroy@rediffmail.com,42,Basic,Bhubaneswar,East,STORE002,2026-06-16,2026-06-16 06:35:20,Furniture,91221.2,34298.47,Cancelled
+TXN000525,USER0066,millerstacy,millerstacy@gmail.com,62,Free,Lucknow,North,STORE001,18/07/2025,2025-07-18 20:22:17,Clothing,13736.5,85179.97,
+TXN000036,USER0001,ryan70,ryan70@outlook.com,36,Premium,  Ahmedabad  ,WEST,STORE004,23/09/2026,2026-09-23 18:19:25,Books,58040.48,65505.09,
+TXN000541,USER0079,fkoch,,33,Premium,Bhubaneswar,East,STORE001,12-30-2026,,Clothing,57495.06,44144.77,CANCELLED
+TXN000171,USER0229,stevenscott,stevenscott@outlook.com,39,Basic,Mumbai,west,STORE005,28/11/2025,2025-11-28 07:00:16,Sports,57330.45,26229.16,Cancelled
+TXN000655,USER0159,barbara53,barbara53@rediffmail.com,59,Premium,Bangalore,South,STORE005,2025-06-19,2025-06-19 22:01:36,Electronics,19323.43,61908.54,Completed
+TXN000891,USER0248,margaret95,margaret95@gmail.com,35,Free,Patna,East,STORE005,2026-06-15,2026-06-15 21:54:55,Sports,64016.05,14875.25,Returned
+TXN000858,USER0126,troyrodriguez,troyrodriguez@hotmail.com,67,Basic,Mumbai,West,STORE001,2025-09-03,,Clothing,8388.04,14462.58,Completed
+TXN000848,USER0256,scottbowen,scottbowen@hotmail.com,44,Basic,Chandigarh,North,STORE003,2025-11-11,2025-11-11 16:52:55,Clothing,82835.77,42642.33,Cancelled
+TXN000945,USER0077,paul20,paul20@rediffmail.com,19,Premium,Delhi,North,STORE005,2026-09-29,2026-09-29 00:10:23,Grocery,80822.62,51128.53,Cancelled
+TXN000734,USER0198,rjackson,rjackson@hotmail.com,65,Premium,Delhi,North,STORE002,2026-10-13,2026-10-13 22:23:44,Furniture,3547.31,81331.33,Completed
+TXN000096,USER0155,hhoffman,hhoffman@hotmail.com,59,Premium,Delhi,North,STORE001,08/04/2026,2026-04-08 16:14:39,Furniture,84745.12,42684.73,Completed
+TXN000564,USER0244,laura09,laura09@outlook.com,62,Free,Kolkata,East,STORE002,04-12-2025,2025-04-12 06:58:32,Furniture,67385.22,10821.72,
+TXN000241,USER0216,jcervantes,jcervantes@outlook.com,52,Free,  Kolkata,East,STORE002,2026-01-05,,Books,47154.36,98737.89,completed
+TXN000743,USER0173,kevinmorrison,kevinmorrison@outlook.com,61,Basic,Bangalore,South,STORE003,13/05/2026,2026-05-13 15:48:21,Books,24035.74,36184.94,Returned
+TXN000575,USER0201,whitney78,whitney78@outlook.com,49,Free,Pune,West,STORE004,2026-05-03,2026-05-03 17:54:10,Beauty,67681.13,76670.43,Cancelled
+TXN000691,USER0097,gutierrezmegan,gutierrezmegan@rediffmail.com,36,Premium,Patna,EAST,STORE003,06/09/2026,2026-09-06 13:40:15,Grocery,5420.57,79581.63,PENDING
+TXN000461,USER0182,john62,john62@yahoo.com,57,Free,Jaipur,North,STORE004,2026-03-14,2026-03-14 19:54:20,Beauty,72945.56,49824.34,Pending
+TXN000554,USER0237,kari39,kari39@yahoo.com,40,Premium,Lucknow,North,STORE001,23/09/2025,2025-09-23 05:37:03,,36180.23,63661.09,CANCELLED
+TXN000889,USER0149,,pwalker@yahoo.com,51,Free,,West,STORE002,04-23-2025,2025-04-23 01:52:01,Books,14743.64,9481.62,Cancelled
+TXN000207,USER0226,heidi27,heidi27@outlook.com,45,Free,Kolkata,East,STORE005,2025-12-07,2025-12-07 19:24:51,Grocery,30113.48,60360.81,Pending
+TXN000393,USER0037,schmidtjames,schmidtjames@gmail.com,28,Basic,Mumbai,West,STORE002,08/03/2026,2026-03-08 20:39:36,Clothing,31756.14,29206.5,Cancelled
+TXN000795,USER0221,fortiz,fortiz@yahoo.com,34,Basic,Bangalore,South,STORE003,2025-10-20,2025-10-20 15:17:58,Clothing,30505.23,9779.03,Completed
+TXN000398,USER0070,wwebster,wwebster@rediffmail.com,29,Free,Ahmedabad,West,STORE005,2026-04-24,2026-04-24 17:59:17,Furniture,63141.65,63621.53,
+TXN000767,USER0088,wilsonshelia,wilsonshelia@hotmail.com,60,Premium,Mumbai,WEST,STORE002,2025-02-05,2025-02-05 02:07:32,Clothing,4712.01,94584.88,Cancelled
+TXN000849,USER0084,samanthajensen,samanthajensen@rediffmail.com,45,Basic,Mumbai,West,STORE003,2025-04-27,2025-04-27 05:29:27,Books,65994.6,68060.16,CANCELLED
+TXN000218,USER0033,ntorres,ntorres@rediffmail.com,24,Free,Hyderabad,South,STORE002,2026-12-23,2026-12-23 06:13:17,Clothing,32665.89,45809.29,Cancelled
+TXN000005,USER0233,hoffmanjennifer,hoffmanjennifer@outlook.com,28,Basic,Mumbai,west,STORE003,2025-03-23,2025-03-23 07:55:06,Grocery,67050.5,70211.85,Completed
+TXN000769,USER0111,adrianabailey,adrianabailey@yahoo.com,56,Free,Mumbai,West,STORE002,2025-08-31,2025-08-31 01:12:09,Beauty,35970.61,12936.36,returned
+TXN000643,USER0160,avilatiffany,plainaddress,39,Free,Chandigarh,NORTH,STORE002,2026-06-17,2026-06-17 17:18:13,Electronics,2886.33,79680.21,Cancelled
+TXN000930,USER0106,samantha10,samantha10@hotmail.com,63,Free,  Bhubaneswar  ,East,STORE003,2026-11-04,2026-11-04 02:04:16,Books,22106.7,71342.07,CANCELLED
+TXN000613,USER0138,stephanie49,stephanie49@rediffmail.com,60,Premium,Bangalore,South,STORE003,2026-12-26,2026-12-26 21:30:29,Electronics,65651.66,95094.51,Cancelled
+TXN000739,USER0088,stephentaylor,stephentaylor@yahoo.com,41,Premium,Hyderabad,South,STORE002,2026-06-22,2026-06-22 13:41:18,Grocery,48698.48,50311.11,
+TXN000547,USER0219,kathryn50,kathryn50@outlook.com,42,Basic,Chennai,South,STORE001,2026-11-14,2026-11-14 11:25:09,Clothing,34557.53,30877.73,Returned
+TXN000726,USER0128,michael10,michael10@yahoo.com,56,Basic,Chennai  ,South,STORE005,07/07/2026,2026-07-07 01:58:58,Clothing,18436.19,63015.27,COMPLETED
+TXN000684,USER0104,rpierce,rpierce@gmail.com,39,Premium,Bangalore,South,STORE004,2026-03-09,2026-03-09 11:12:12,Sports,69214.92,46793.5,Cancelled
+TXN000099,USER0233,russellwilliams,russellwilliams@hotmail.com,44,Free,Mumbai,West,STORE001,2026-03-17,2026-03-17 14:56:14,Clothing,42733.72,66544.28,Cancelled
+TXN000805,USER0009,kennethkidd,kennethkidd@rediffmail.com,60,Free,Lucknow,North,STORE001,31/12/2025,2025-12-31 07:46:17,Sports,74602.4,38259.9,CANCELLED
+TXN000728,USER0160,christopherjordan,christopherjordan@yahoo.com,64,,Chennai,South,STORE002,2025-08-30,2025-08-30 16:05:27,Furniture,17725.91,24972.05,
+TXN000574,USER0200,thorntonapril,thorntonapril@hotmail.com,66,Premium,Chandigarh,North,STORE005,2026-12-25,2026-12-25 05:31:27,Sports,49106.32,55423.01,RETURNED
+TXN000407,USER0198,colelisa,colelisa@hotmail.com,33,Free,Chennai,SOUTH,STORE001,2026-01-26,2026-01-26 00:07:49,Grocery,46137.38,77122.5,Pending
+TXN000503,USER0233,rachelwallace,rachelwallace@outlook.com,67,Basic,Bhubaneswar,east,STORE003,2025-09-17,2025-09-17 09:29:42,Clothing,16280.41,7492.31,Completed
+TXN000048,USER0180,jenniferross,jenniferross@yahoo.com,59,Premium,Delhi,North,STORE001,2026-04-27,2026-04-27 00:47:34,Books,3199.9,24803.6,
+TXN000033,USER0224,dcarlson,,50,Premium,Hyderabad,South,STORE004,2026-09-03,,Beauty,19088.87,4534.21,RETURNED
+TXN000780,USER0004,raylauren,raylauren@hotmail.com,62,Free,Patna,East,STORE003,2026-02-20,2026-02-20 00:39:12,Grocery,99422.77,66151.29,Completed
+TXN000840,USER0176,ssmith,ssmith@rediffmail.com,49,Premium,Delhi,North,STORE004,2026-03-20,2026-03-20 06:25:21,Electronics,27909.67,3924.41,PENDING
+TXN000201,USER0168,john13,john13@gmail.com,58,Basic, Bhubaneswar,East,STORE004,2026-09-12,2026-09-12 19:38:25,Furniture,22891.03,55348.47,Returned
+TXN000135,USER0093,staffordmichelle,staffordmichelle@rediffmail.com,36,Basic,Mumbai,West,STORE001,26/03/2025,2025-03-26 23:27:05,Electronics,32859.2,29634.43,Returned
+TXN000028,USER0076,zhurst,zhurst@hotmail.com,26,Premium,Kolkata,East,STORE003,2026-12-09,2026-12-09 04:34:02,Clothing,89908.25,79632.62,
+TXN000881,USER0158,xgibson,xgibson@rediffmail.com,59,Premium,Mumbai,West,STORE002,2026-02-14,2026-02-14 06:04:17,Furniture,87632.0,74528.1,PENDING
+TXN000231,USER0033,mkim,mkim@rediffmail.com,43,Premium,Mumbai,West,STORE004,2026-04-15,2026-04-15 20:42:44,Books,21263.96,26926.83,Cancelled
+TXN000490,USER0144,melindagregory,melindagregory@hotmail.com,51,Premium,Bhubaneswar,east,STORE005,26/05/2025,2025-05-26 23:46:33,Beauty,8935.79,47297.91,Completed
+TXN000773,USER0141,sarahyang,sarahyang@gmail.com,24,Basic,Kolkata,east,STORE002,2025-12-08,2025-12-08 08:09:55,Furniture,95183.11,78295.09,Completed
+TXN000379,USER0194,katrinaduran,katrinaduran@rediffmail.com,48,Premium,Mumbai,West,STORE003,2026-07-05,2026-07-05 18:16:44,Books,45938.96,46125.97,completed
+TXN000289,USER0144,danielle64,danielle64@hotmail.com,62,Free,Mumbai,West,STORE001,01-21-2025,2025-01-21 10:52:50,Books,22872.95,30118.0,Returned
+TXN000419,USER0040,sabrinacollins,sabrinacollins@yahoo.com,51,Premium,Kolkata,East,STORE001,26/06/2026,2026-06-26 01:46:04,Sports,23178.7,38594.58,Pending
+TXN000675,USER0116,randyallen,randyallen@hotmail.com,102,Premium,Bhubaneswar,East,STORE002,2025-03-25,2025-03-25 18:51:01,Grocery,32989.54,6378.13,Completed
+TXN000392,USER0041,jeffrey21,jeffrey21@hotmail.com,57,Basic,Hyderabad  ,south,STORE004,2026-11-21,2026-11-21 16:31:49,Sports,95663.78,86838.94,Cancelled
+TXN000593,USER0186,maldonadoderrick,maldonadoderrick@gmail.com,52,Premium,Bhubaneswar,East,STORE004,2026-07-20,,Furniture,885.82,96078.72,Cancelled
+TXN000499,USER0137,greenjorge,greenjorge@gmail.com,34,Free,Mumbai,West,STORE005,2026-09-18,2026-09-18 20:54:17,Furniture,46164.75,67561.58,Pending
+TXN000139,USER0096,stephanie79,stephanie79@hotmail.com,51,Basic,Delhi,North,STORE005,28/10/2026,2026-10-28 08:15:07,Electronics,26251.49,26102.95,Returned
+TXN000063,USER0241,steven17,steven17@outlook.com,20,Premium,Chennai,South,STORE003,10/06/2025,2025-06-10 00:26:28,Sports,28343.57,85974.71,Completed
+TXN000472,USER0141,moodynina,moodynina@gmail.com,18,Free,Lucknow,North,STORE005,28/03/2026,,Beauty,10327.29,54298.62,Cancelled
+TXN000648,USER0203,johnsondonna,johnsondonna@outlook.com,55,Basic,Ahmedabad  ,West,STORE004,2026-11-25,2026-11-25 16:25:37,Furniture,68932.88,94787.22,Returned
+TXN000129,USER0150,clarence34,clarence34@hotmail.com,18,Free,Chennai,South,STORE003,2026-10-10,2026-10-10 16:36:15,Grocery,57109.31,18812.66,
+TXN000779,USER0253,bushjamie,bushjamie@gmail.com,45,Free,Mumbai,West,STORE005,2026-08-13,2026-08-13 01:05:47,Sports,13729.2,49830.74,Completed
+TXN000521,USER0023,david49,david49@gmail.com,59,Basic,Lucknow,North,STORE003,2026-12-03,2026-12-03 15:31:11,Grocery,43523.7,33496.03,Returned
+TXN000839,USER0240,brittneystone,brittneystone@rediffmail.com,70,Basic, Mumbai,West,STORE001,2026-02-02,2026-02-02 14:42:05,Electronics,18109.31,10924.0,
+TXN000963,USER0193,susan56,susan56@yahoo.com,61,Premium,Lucknow,North,STORE003,12/10/2026,2026-10-12 20:00:15,Furniture,15228.17,81405.5,Returned
+TXN000065,USER0148,novaksara,novaksara@hotmail.com,25,Basic,Mumbai,West,STORE003,15/03/2025,2025-03-15 01:10:50,Sports,40310.6,27297.39,Returned
+TXN000813,USER0219,keith48,keith48@hotmail.com,27,Basic,Delhi  ,North,STORE003,26/05/2025,2025-05-26 00:58:14,Grocery,92176.92,68473.31,Completed
+TXN000015,USER0035,,,39,Premium,Delhi,North,STORE005,2025-01-08,,Grocery,27919.88,48592.91,Pending
+TXN000157,USER0214,dramsey,dramsey@rediffmail.com,37,Free,Chandigarh,North,STORE001,2025-01-18,2025-01-18 11:21:43,Beauty,47511.56,96710.36,Pending
+TXN000041,USER0229,hickmannatasha,hickmannatasha@yahoo.com,65,Basic,Mumbai,West,STORE004,2026-09-20,2026-09-20 23:57:32,Clothing,75202.5,84002.3,Cancelled
+TXN000493,USER0014,cherring,cherring@outlook.com,49,Premium,Kolkata,East,STORE002,2026-08-10,2026-08-10 01:42:18,Beauty,7778.54,78397.91,Cancelled
+TXN000380,USER0113,mark07,missing_at_sign.com,69,Basic,Mumbai,West,STORE004,05-09-2026,2026-05-09 03:16:04,Clothing,51698.77,1071.35,Cancelled
+TXN000188,USER0061,nicole37,nicole37@hotmail.com,33,Free,Lucknow,North,STORE005,07/11/2025,2025-11-07 00:13:59,Sports,20530.86,91521.13,Cancelled
+TXN000764,USER0065,seanmyers,seanmyers@gmail.com,38,Premium,Mumbai,West,STORE005,2026-01-29,2026-01-29 15:41:44,Grocery,40592.52,70104.12,Returned
+TXN000217,USER0222,levans,levans@hotmail.com,19,Free,Bangalore,South,STORE005,02-19-2026,,Grocery,45012.54,43012.33,Completed
+TXN000792,USER0099,jacobwilkinson,jacobwilkinson@yahoo.com,45,Premium,Delhi,North,STORE005,2025-08-23,2025-08-23 03:08:25,Grocery,9184.45,-5190.44,returned
+TXN000053,USER0138,perezrebecca,perezrebecca@outlook.com,33,Premium,Pune,West,STORE003,2026-09-23,2026-09-23 17:49:30,Furniture,24461.96,46524.38,Returned
+TXN000879,USER0198,enelson,enelson@yahoo.com,49,Premium,Pune,West,STORE003,2025-08-06,2025-08-06 00:42:13,Grocery,81418.14,,Cancelled
+TXN000338,USER0155,hayesjeffrey,hayesjeffrey@hotmail.com,68,Free,  Hyderabad  ,South,STORE005,2025-06-07,2025-06-07 10:38:03,Clothing,7380.79,70797.39,Pending
+TXN000749,USER0015,brittanygardner,brittanygardner@yahoo.com,38,Basic,Mumbai,West,STORE003,2026-11-07,2026-11-07 22:05:06,Grocery,71945.58,66626.67,Completed
+TXN000720,USER0109,walterskristen,,32,Premium,Delhi,North,STORE003,2025-01-16,2025-01-16 12:41:20,Sports,62428.55,4489.5,Pending
+TXN000725,USER0213,,eric26@outlook.com,66,Premium,  Delhi  ,North,STORE002,2025-11-22,2025-11-22 20:50:48,Books,73314.03,34338.57,Pending
+TXN000296,USER0155,kimberly39,,70,Free,Jaipur  ,North,STORE004,2026-01-21,2026-01-21 11:29:16,Beauty,10320.98,51200.22,Cancelled
+TXN000702,USER0182,veronicaperez,veronicaperez@outlook.com,32,Basic,Kolkata,EAST,STORE004,2025-11-09,2025-11-09 23:00:31,Sports,75287.36,76307.87,Cancelled
+TXN000252,USER0126,murraydavid,murraydavid@yahoo.com,18,Basic,Hyderabad,south,STORE001,20/07/2025,2025-07-20 23:57:34,Grocery,54200.37,63630.59,
+TXN000727,USER0073,sean41,,26,Premium,Bangalore,SOUTH,STORE002,19/05/2026,2026-05-19 02:12:03,Beauty,54929.83,79543.79,Pending
+TXN000462,USER0001,millsmichael,millsmichael@gmail.com,19,Basic,Bhubaneswar,East,STORE001,2026-09-17,,Sports,84822.17,79976.48,Returned
+TXN000456,USER0143,kevinwilliams,kevinwilliams@rediffmail.com,58,Free,Jaipur,North,STORE002,2025-03-23,2025-03-23 19:38:00,Electronics,18565.51,5600.89,Cancelled
+TXN000558,USER0068,markaustin,markaustin@gmail.com,48,Basic,Chandigarh,North,STORE003,2026-03-04,2026-03-04 14:58:04,Sports,36320.6,81722.17,Cancelled
+TXN000816,USER0189,jacquelineanderson,jacquelineanderson@outlook.com,69,Free,Pune,West,STORE001,2025-12-23,,Books,317.66,93316.19,pending
+TXN000863,USER0168,kathrynbest,kathrynbest@yahoo.com,32,Premium,Jaipur,North,STORE002,2025-08-10,2025-08-10 11:07:57,Clothing,27439.28,20003.83,Completed
+TXN000270,USER0052,jsmith,jsmith@outlook.com,37,Basic,Mumbai,West,STORE002,2025-03-16,2025-03-16 11:45:42,Grocery,73261.97,43743.15,Returned
+TXN000202,USER0044,david82,david82@rediffmail.com,36,Premium,Chennai,south,STORE001,2026-03-19,2026-03-19 05:43:37,Electronics,26870.41,38062.0,Pending
+TXN000162,USER0163,dmurphy,dmurphy@hotmail.com,40,Free,Chennai,South,STORE003,2025-10-23,2025-10-23 22:13:44,Clothing,12275.22,67694.56,Returned
+TXN000556,USER0186,taylormason,taylormason@gmail.com,52,Free,Jaipur,North,STORE003,2025-11-20,2025-11-20 21:51:19,Books,14457.38,13781.25,
+TXN000730,USER0043,angela99,angela99@outlook.com,56,Free,Mumbai,West,STORE002,2025-06-09,2025-06-09 15:01:48,Beauty,72692.16,25803.44,Returned
+TXN000402,USER0194,laura90,laura90@yahoo.com,34,Premium,Mumbai,West,STORE004,2025-06-17,2025-06-17 22:47:41,Sports,24032.23,76477.38,Cancelled
+TXN000703,USER0072,valdezmichele,valdezmichele@yahoo.com,39,Free,Hyderabad,SOUTH,STORE005,11-30-2025,2025-11-30 18:01:36,Beauty,57430.49,39149.5,Returned
+TXN000477,USER0167,lloydsamuel,lloydsamuel@hotmail.com,49,Premium,Chennai,South,STORE001,2026-02-06,2026-02-06 05:44:58,Furniture,11377.42,47917.34,Pending
+TXN000822,USER0191,shawn75,shawn75@gmail.com,62,Premium,Bhubaneswar,East,STORE005,2026-01-22,2026-01-22 23:01:44,Electronics,47734.97,59433.17,Pending
+TXN000772,USER0139,sweeneydeborah,sweeneydeborah@gmail.com,52,Premium,Jaipur,North,STORE005,2026-03-21,2026-03-21 12:01:38,Furniture,6689.34,64053.73,Cancelled
+TXN000106,USER0177,kimberly63,kimberly63@hotmail.com,25,Basic,Pune,West,STORE005,2026-03-01,,Furniture,52740.72,30911.1,pending
+TXN000566,USER0060,jennifersilva,jennifersilva@hotmail.com,36,Basic,Mumbai,WEST,STORE005,2026-07-25,2026-07-25 23:02:05,Sports,31269.49,97620.29,Returned
+TXN000390,USER0231,hchapman,hchapman@outlook.com,34,Basic,Bangalore,South,STORE003,2025-08-09,2025-08-09 08:30:53,Beauty,55793.4,81020.59,
+TXN000002,USER0102,donaldgarcia,donaldgarcia@rediffmail.com,44,Premium,Delhi,North,STORE004,2025-08-12,2025-08-12 07:32:38,Beauty,27891.25,86943.1,PENDING
+TXN000938,USER0203,austinharvey,austinharvey@gmail.com,57,Basic,  Mumbai  ,West,STORE003,29/03/2025,,Clothing,65957.07,78264.39,
+TXN000582,USER0154,ybailey,ybailey@hotmail.com,60,Free,Mumbai,West,STORE003,2025-12-22,2025-12-22 02:41:52,Grocery,41489.99,,RETURNED
+TXN000562,USER0143,xcabrera,xcabrera@rediffmail.com,40,Basic,Lucknow,North,STORE002,2026-11-18,2026-11-18 11:01:05,Books,50113.38,72882.55,pending
+TXN000081,USER0239,josephanderson,josephanderson@outlook.com,5,Free,Chennai,South,STORE002,2026-10-16,2026-10-16 08:29:16,Electronics,44228.81,34622.01,CANCELLED
+TXN000206,USER0127,joshuamccann,joshuamccann@hotmail.com,56,Free,Mumbai,West,STORE002,2025-11-03,2025-11-03 15:50:04,Furniture,10786.54,30535.33,RETURNED
+TXN000035,USER0152,,kayla51@rediffmail.com,26,Premium,Mumbai,west,STORE004,2026-06-04,2026-06-04 09:42:26,Sports,94042.33,67764.06,
+TXN000776,USER0137,,lsoto@gmail.com,64,Free,Ahmedabad,west,STORE003,2026-11-05,,Sports,77775.06,67853.7,Returned
+TXN000509,USER0021,angela57,angela57@hotmail.com,60,Premium,Lucknow,North,STORE003,2026-04-16,2026-04-16 09:41:12,Sports,39071.46,10766.12,cancelled
+TXN000428,USER0077,stanleynancy,stanleynancy@outlook.com,50,Free,Ahmedabad,West,STORE002,2025-11-09,2025-11-09 16:02:20,Grocery,5146.93,73184.7,Returned
+TXN000455,USER0003,srodriguez,srodriguez@rediffmail.com,49,Premium,Pune,West,STORE002,2025-01-13,2025-01-13 14:31:54,Beauty,65981.12,45428.47,Returned
+TXN000367,USER0020,vjones,vjones@rediffmail.com,50,Premium,Patna,East,STORE001,09-13-2026,,Furniture,65973.32,90208.28,Completed
+TXN000092,USER0233,dking,dking@gmail.com,60,Premium,Bhubaneswar,East,STORE005,2026-02-12,2026-02-12 08:12:07,Electronics,5152.79,33417.56,Pending
+TXN000340,USER0244,stephen00,stephen00@rediffmail.com,70,Free,Bhubaneswar,East,STORE001,06/12/2025,2025-12-06 11:18:13,Electronics,66926.95,44622.16,Pending
+TXN000898,USER0128,jodi37,jodi37@hotmail.com,45,Basic,Bhubaneswar,East,STORE001,10-25-2025,2025-10-25 07:02:30,Clothing,92027.39,59744.18,pending
+TXN000565,USER0058,pbaker,pbaker@outlook.com,25,Basic,Jaipur,North,STORE001,2026-01-24,2026-01-24 13:13:32,Beauty,13677.65,76251.14,Cancelled
+TXN000346,USER0258,shawn96,,36,Free,Chandigarh,North,STORE003,2026-08-23,2026-08-23 01:44:54,Beauty,8741.87,76550.9,returned
+TXN000777,USER0240,vfoster,vfoster@rediffmail.com,36,Basic,Bhubaneswar,East,STORE004,2026-12-25,2026-12-25 14:11:28,,94173.53,88150.63,Pending
+TXN000242,USER0021,gibsonleonard,gibsonleonard@gmail.com,68,Basic,Jaipur,North,STORE005,18/01/2025,2025-01-18 18:04:00,Clothing,62894.21,50154.79,Returned
+TXN000014,USER0232,janetwilliams,janetwilliams@gmail.com,33,Premium,Mumbai,West,STORE001,2025-11-16,2025-11-16 12:42:41,Clothing,2201.32,55436.76,pending
+TXN000316,USER0048,youngamanda,youngamanda@outlook.com,13,Basic,Patna,east,STORE002,2026-01-02,2026-01-02 14:39:17,Electronics,40137.67,96234.76,CANCELLED
+TXN000601,USER0233,nancy04,nancy04@hotmail.com,25,Premium, Ahmedabad,West,STORE002,2026-08-04,2026-08-04 03:00:45,Grocery,94610.63,81359.9,Cancelled
+TXN000388,USER0222,xcollier,xcollier@hotmail.com,30,Premium,Jaipur,North,STORE002,13/04/2025,2025-04-13 23:17:51,Furniture,80586.27,17743.07,Returned
+TXN000274,USER0035,melissa86,melissa86@outlook.com,34,Premium,Jaipur,North,STORE001,2026-04-03,2026-04-03 00:16:13,Electronics,38655.12,73285.19,Pending
+TXN000167,USER0019,harringtondenise,harringtondenise@hotmail.com,68,Basic,Lucknow,North,STORE002,2025-06-29,2025-06-29 13:56:53,Sports,96216.92,92611.37,
+TXN000841,USER0017,lisa62,,67,Basic,Mumbai,West,STORE001,2026-04-27,2026-04-27 04:40:13,Books,36213.13,43067.96,returned
+TXN000442,USER0070,dawsonzachary,dawsonzachary@hotmail.com,67,Premium,Patna,East,STORE005,2025-05-22,2025-05-22 09:44:45,Grocery,31817.87,55778.3,Completed
+TXN000647,USER0211,sharonhardy,sharonhardy@gmail.com,23,Premium,Mumbai,West,STORE004,2026-04-11,2026-04-11 03:09:45,Grocery,47677.68,44671.79,Cancelled
+TXN000819,USER0253,courtney67,courtney67@rediffmail.com,52,Premium,Ahmedabad,West,STORE004,2026-01-28,2026-01-28 13:35:31,Electronics,58138.3,42241.89,Pending
+TXN000485,USER0202,hannahbell,hannahbell@outlook.com,63,Basic,Jaipur,NORTH,STORE004,2025-04-23,2025-04-23 09:55:01,Furniture,43575.49,21200.49,Pending
+TXN000380,USER0113,mark07,missing_at_sign.com,69,Basic,Mumbai,West,STORE004,05-09-2026,2026-05-09 03:16:04,Clothing,51698.77,1071.35,Cancelled
+TXN000505,USER0055,elizabeth18,elizabeth18@hotmail.com,63,Basic,Mumbai,West,STORE001,2025-04-22,2025-04-22 04:34:49,Electronics,7384.66,57177.32,Cancelled
+TXN000832,USER0048,bbryant,bbryant@yahoo.com,31,Free,  Pune  ,west,STORE002,25/10/2025,2025-10-25 05:09:43,Books,71883.6,99342.32,CANCELLED
+TXN000244,USER0034,sandovalamy,sandovalamy@outlook.com,62,Basic,Bangalore,South,STORE002,2026-07-04,2026-07-04 10:25:37,Electronics,24523.53,92470.31,Completed
+TXN000567,USER0220,alexandriagriffith,alexandriagriffith@yahoo.com,22,Basic,Bhubaneswar,East,STORE003,2025-08-20,2025-08-20 17:26:18,Grocery,1377.31,67448.48,completed
+TXN000876,USER0195,tylerreed,tylerreed@outlook.com,62,Premium,Chennai,South,STORE002,2025-11-08,,Beauty,46123.31,12716.24,Pending
+TXN000563,USER0008,emily69,emily69@rediffmail.com,31,Free,Kolkata,East,STORE002,2026-06-02,,Clothing,17260.17,75426.39,Completed
+TXN000687,USER0059,gary87,gary87@yahoo.com,36,Basic,Delhi,North,STORE002,01-07-2026,2026-01-07 00:04:22,Sports,-58610.07,76576.72,Completed
+TXN000190,USER0114,hunter35,hunter35@yahoo.com,19,Basic,Mumbai,west,STORE005,2025-11-24,2025-11-24 06:23:20,Beauty,57956.38,41816.05,Pending
+TXN000783,USER0019,candice96,candice96@hotmail.com,57,Basic,Patna,East,STORE001,09/10/2026,2026-10-09 18:25:13,Clothing,688.52,46089.35,Cancelled
+TXN000700,USER0243,joseph61,joseph61@yahoo.com,51,Free,Hyderabad,South,STORE005,2026-02-12,2026-02-12 07:14:46,Books,46926.96,81458.33,
+TXN000476,USER0239,glennmartin,glennmartin@hotmail.com,32,Premium,Chennai,South,STORE002,2026-04-12,2026-04-12 09:43:41,Books,89580.52,25879.47,Cancelled
+TXN000682,USER0066,mphillips,,55,Basic,Delhi,North,STORE005,10/07/2025,2025-07-10 07:08:51,Sports,75461.93,31187.71,
+TXN000511,USER0231,raymond78,raymond78@gmail.com,20,Basic,Pune,West,STORE001,2025-03-06,2025-03-06 17:41:19,Clothing,78799.08,4377.17,Completed
+TXN000059,USER0065,dshields,dshields@hotmail.com,24,Premium,Mumbai,West,STORE005,2025-10-08,2025-10-08 01:03:35,Clothing,46992.75,44102.83,Pending
+TXN000475,USER0041,justinatkins,justinatkins@hotmail.com,54,Premium,Kolkata,East,STORE001,2026-09-24,2026-09-24 11:19:21,Books,80254.81,69890.08,Completed
+TXN000561,USER0155,terickson,terickson@gmail.com,66,Premium,Delhi,North,STORE001,2026-04-26,2026-04-26 03:58:16,Beauty,20619.58,90127.37,Pending
+TXN000857,USER0041,dphillips,dphillips@rediffmail.com,42,Premium,Patna,EAST,STORE002,2025-01-29,2025-01-29 19:45:34,Furniture,63482.87,77781.22,Pending
+TXN000748,USER0240,kdiaz,kdiaz@yahoo.com,46,Premium,Mumbai,west,STORE004,11/05/2025,2025-05-11 15:50:05,Sports,54112.72,24411.26,Pending
+TXN000253,USER0158,tyronemoran,tyronemoran@gmail.com,31,Free,Mumbai,West,STORE002,2025-12-10,2025-12-10 00:48:42,Furniture,49253.68,6083.52,
+TXN000022,USER0021,,gabriellecameron@rediffmail.com,23,Basic,Jaipur,north,STORE005,2026-02-18,2026-02-18 03:56:36,Beauty,52325.99,93477.16,Pending
+TXN000314,USER0132,cwilson,cwilson@yahoo.com,47,Basic,Chandigarh,NORTH,STORE003,2026-06-08,2026-06-08 02:46:46,Furniture,5103.01,81336.52,Completed
+TXN000460,USER0056,kellysmith,kellysmith@rediffmail.com,64,Free,Bangalore,South,STORE005,2026-06-22,2026-06-22 06:44:13,Electronics,48417.93,68896.56,Cancelled
+TXN000161,USER0136,qwhite,qwhite@rediffmail.com,48,Premium,Kolkata,East,STORE002,2026-11-24,,Clothing,55852.86,22564.22,Cancelled
+TXN000277,USER0016,wendy16,wendy16@hotmail.com,59,Premium,Pune,West,STORE005,2025-12-13,2025-12-13 19:39:57,Furniture,15794.67,10215.66,Pending
+TXN000956,USER0219,djohnson,djohnson@outlook.com,38,Basic,Delhi,North,STORE003,2025-08-26,2025-08-26 09:31:21,Books,17923.74,,Pending
+TXN000192,USER0072,blackjames,blackjames@rediffmail.com,49,Premium,Mumbai,West,STORE005,04-17-2026,2026-04-17 05:46:50,Sports,95727.97,52442.05,Completed
+TXN000386,USER0133,zroberts,zroberts@yahoo.com,53,Basic,Mumbai,West,STORE002,2026-01-24,2026-01-24 18:06:20,Clothing,47187.4,61347.1,CANCELLED
+TXN000806,USER0227,fbaker,fbaker@yahoo.com,38,Basic,Jaipur,North,STORE002,04/10/2026,2026-10-04 20:38:35,Beauty,63017.09,85836.31,Returned
+TXN000414,USER0260,vortiz,vortiz@hotmail.com,64,Premium,Hyderabad,South,STORE001,2026-07-09,2026-07-09 11:29:00,Beauty,85697.25,77624.06,Pending
+TXN000492,USER0019,kimberlydiaz,kimberlydiaz@rediffmail.com,65,Basic,Mumbai,West,STORE005,2026-03-08,2026-03-08 11:51:18,Clothing,6235.63,47368.74,Pending
+TXN000344,USER0236,cameronhill,cameronhill@outlook.com,20,Premium,Lucknow,north,STORE001,2026-10-25,2026-10-25 02:47:43,Electronics,17881.42,25265.61,Completed
+TXN000770,USER0084,kimheather,kimheather@hotmail.com,47,Premium,Mumbai,West,STORE003,2025-03-18,2025-03-18 17:16:16,Sports,42591.8,69482.09,Pending
+TXN000309,USER0193,amanda75,amanda75@outlook.com,67,Free,Hyderabad,South,STORE005,2025-05-07,2025-05-07 11:45:41,Electronics,59433.01,4891.24,Completed
+TXN000662,USER0065,iwhite,iwhite@outlook.com,54,Basic,Jaipur,North,STORE004,2026-07-22,2026-07-22 18:43:06,Electronics,84643.16,50093.19,Pending
+TXN000131,USER0054,sanchezthomas,,65,Basic,Mumbai,West,STORE002,17/01/2025,2025-01-17 11:50:04,Electronics,35294.67,33920.87,PENDING
+TXN000664,USER0247,meredith27,meredith27@outlook.com,56,Basic,Bhubaneswar,East,STORE004,2026-10-31,2026-10-31 05:00:03,Clothing,84259.62,21354.14,Cancelled
+TXN000872,USER0019,sanchezsandy,sanchezsandy@rediffmail.com,51,Premium,Bhubaneswar,East,STORE003,2026-04-18,2026-04-18 09:08:53,Sports,1725.6,47042.35,Returned
+TXN000100,USER0044,rachel05,rachel05@gmail.com,45,Premium,Delhi,North,STORE003,06/06/2025,2025-06-06 21:59:30,Books,13098.53,6092.1,
+TXN000373,USER0027,ctucker,ctucker@yahoo.com,42,Free,Mumbai,West,STORE001,2025-08-08,2025-08-08 16:25:50,Books,9199.75,14618.31,Returned
+TXN000088,USER0056,sarah12,sarah12@yahoo.com,48,Premium,Bhubaneswar,East,STORE005,2026-08-22,2026-08-22 12:52:40,Beauty,32867.83,61047.21,COMPLETED
+TXN000459,USER0034,chenbailey,chenbailey@outlook.com,48,Premium,Kolkata,East,STORE001,2026-01-24,2026-01-24 02:48:27,Sports,85954.85,32987.93,Returned
+TXN000331,USER0092,ramireztracey,ramireztracey@rediffmail.com,52,Free,Chandigarh,North,STORE003,2026-12-05,2026-12-05 11:58:43,Sports,11628.98,35288.56,returned
+TXN000215,USER0232,yobrien,yobrien@outlook.com,22,Basic,Chennai,South,STORE001,23/12/2025,2025-12-23 15:06:28,Books,71106.82,2356.25,Cancelled
+TXN000467,USER0158,dennis58,dennis58@outlook.com,63,Premium,Bangalore,South,STORE003,08/08/2026,2026-08-08 19:24:11,Furniture,8771.1,87717.17,CANCELLED
+TXN000122,USER0122,angela36,angela36@hotmail.com,57,Basic,Chennai,South,STORE004,2026-03-25,2026-03-25 01:26:23,Grocery,53447.71,31015.84,Returned
+TXN000615,USER0046,bryanwilson,bryanwilson@gmail.com,31,Premium,Patna,East,STORE004,2025-09-19,2025-09-19 05:15:49,Books,40299.38,-64752.08,Pending
+TXN000021,USER0081,ogray,ogray@gmail.com,50,Premium,Pune,West,STORE002,2025-02-28,2025-02-28 01:37:30,Electronics,59544.01,67553.73,Pending
+TXN000701,USER0214,susan79,susan79@yahoo.com,46,,Mumbai,West,STORE005,2025-03-29,2025-03-29 10:54:12,Electronics,37532.55,57793.09,Pending
+TXN000072,USER0150,tanyariley,tanyariley@rediffmail.com,63,Basic,Lucknow,North,STORE004,18/04/2026,2026-04-18 03:41:53,Books,48301.71,47274.76,Returned
+TXN000107,USER0109,erik16,erik16@yahoo.com,66,Basic,Lucknow,North,STORE003,2026-02-09,2026-02-09 19:03:00,Clothing,12086.44,49788.79,Returned
+TXN000271,USER0183,jpitts,jpitts@yahoo.com,60,Free,Bhubaneswar,East,STORE002,2026-10-27,,Furniture,30751.64,68880.99,Pending
+TXN000861,USER0006,paulcombs,paulcombs@yahoo.com,60,Free,Lucknow,North,STORE005,2026-10-11,2026-10-11 14:51:10,Books,3241.9,97594.0,cancelled
+TXN000436,USER0005,erika97,erika97@gmail.com,42,Free,Pune,West,STORE003,2026-12-15,2026-12-15 19:17:03,Sports,85223.09,66044.03,Completed
+TXN000103,USER0093,sarayoung,sarayoung@outlook.com,62,Basic,Jaipur  ,North,STORE003,2026-09-16,2026-09-16 21:53:44,Clothing,709.97,86999.28,Returned
