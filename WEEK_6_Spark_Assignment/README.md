@@ -1,8 +1,8 @@
-🚀 Apache Spark Fundamentals using PySpark
+# 🚀 Apache Spark Fundamentals using PySpark
 
 This repository contains my **Week 6 Assignment** on Apache Spark using PySpark. The assignment covers Spark fundamentals along with basic DataFrame operations through both theoretical and practical questions.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 - Understand Apache Spark architecture.
 - Perform DataFrame operations using PySpark.
@@ -10,13 +10,13 @@ This repository contains my **Week 6 Assignment** on Apache Spark using PySpark.
 - Apply filtering, transformations, and actions.
 - Learn Spark optimization and execution concepts.
 
- 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Apache Spark (PySpark)
 - Python
 - Jupyter Notebook
 
- ⚡ Concepts Covered
+# ⚡ Concepts Covered
 
 - Spark Architecture
 - Lazy Evaluation & DAG
@@ -25,5 +25,5 @@ This repository contains my **Week 6 Assignment** on Apache Spark using PySpark.
 - Filtering & Transformations
 - Predicate Pushdown
 - Transformations vs Actions
-- Client vs Cluster Mode
+- Client Mode vs Cluster Mode
 - `.show()` vs `.collect()`
