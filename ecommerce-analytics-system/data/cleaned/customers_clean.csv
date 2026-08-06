@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city,segment
+1,Brandon Avila,colleen90@example.net,Bauerview,VIP
+2,Jessica Beasley,brandon02@example.com,Calderonmouth,Regular
+3,Jennifer Hawkins,jamielucero@example.com,New Wayne,Regular
+4,Gregory Porter,diana31@example.com,South Julia,VIP
+5,Melissa Hernandez,pburton@example.net,Garciaport,Premium
+6,Nicole Myers,unknown@gmail.com,Gloverport,Regular
+7,Elizabeth Caldwell,amanda54@example.net,West Nathanberg,Regular
+8,Lisa Baker DVM,singhkurt@example.net,Peterville,VIP
+9,Jesus Williams,ikeller@example.org,Port Adam,Premium
+10,Patrick Daugherty,fjones@example.com,Walkerport,Regular
+11,Jeffrey Hunt,kaylagray@example.org,Rioschester,Regular
+12,Kimberly James,pbarron@example.org,North Matthew,Premium
+13,Jason Baker,hartmelissa@example.com,Lake Elizabeth,Premium
+14,Rachel Atkinson,ralphwyatt@example.net,Dennisberg,VIP
+15,David Parker,rrodriguez@example.org,Johnsonburgh,VIP
+16,Jesse Schwartz,tmyers@example.net,Davisborough,Premium
+17,Michelle Martinez,melissa53@example.net,Port Bryan,Regular
+18,Charles Elliott,gmitchell@example.net,Port Aprilshire,Regular
+19,Vanessa Roberts,gswanson@example.net,North Angela,Regular
+20,Ricky Johnson,gomezcassandra@example.org,New Garyport,VIP
+21,Carol Payne,joseph67@example.org,East Denise,Regular
+22,James Ferguson,nfletcher@example.org,Shepherdchester,Regular
+23,Cassandra Wheeler,jenniferbrown@example.net,Sharonland,Premium
+24,Sharon Adams,brooke07@example.org,East Heatherberg,VIP
+25,Elizabeth Adams,lanenicole@example.com,Port Johnton,Regular
+26,Rodney Fitzpatrick,megan77@example.com,North Sara,Premium
+27,Rachael Watson,amorgan@example.com,Danielfort,Premium
+28,John Reed,perezwilliam@example.org,East Dianeton,Premium
+29,Melinda Smith,wilsonnicole@example.com,Port Stacey,Regular
+30,Katherine Moore,mcguiregavin@example.com,East Mathewstad,VIP
+31,Kimberly Gordon,cole05@example.org,New Lauraview,VIP
+32,Amy Brown,barkerlisa@example.org,South Seanshire,Premium
+33,Gabriel Barrera,ithompson@example.com,Kimberlyshire,Regular
+34,Thomas Lyons,qklein@example.org,Rodriguezbury,VIP
+35,Jonathan Christensen,lschaefer@example.org,New Lisaland,VIP
+36,Brandon Welch,kennethjones@example.com,Christopherburgh,Premium
+37,Kelly Richards,david58@example.org,Port Jessica,VIP
+38,Natasha Oliver,fpadilla@example.net,Andrewsburgh,Regular
+39,Ryan Anderson,taylornguyen@example.org,Lake Brandy,VIP
+40,Theresa Wiley,micheledean@example.com,North James,VIP
+41,Carol Anderson,ebony60@example.org,Hunterton,Premium
+42,Craig Lyons,rebeccagardner@example.org,Hartmanside,Regular
+43,Jasmine Benton,jonathantorres@example.com,Williamsburgh,Regular
+44,Johnny Moreno,mendezdaniel@example.org,Port Monica,Regular
+45,Tyler Benson,mark44@example.net,West Gregside,Premium
+46,Christopher Patel,donaldtravis@example.net,Bradleyhaven,Premium
+47,William Burns,sandra40@example.org,East Karenhaven,VIP
+48,Andrew Kennedy,sara83@example.org,Michelleville,Premium
+49,Sarah Jones,perrydaniel@example.org,Myersburgh,VIP
+50,Timothy Johnson,coopersherry@example.com,East Staciebury,Premium
+51,Rachel Collins,savannahortiz@example.com,Harrellchester,Premium
+52,Taylor Davis,krystalhenderson@example.org,South Dustin,VIP
+53,Carl Stanley,aaronwagner@example.net,Victoriahaven,Premium
+54,Diamond Moyer,bryan29@example.com,Edwardview,VIP
+55,Justin Donaldson,caguilar@example.net,Lake Jack,Regular
+56,Kimberly Mclaughlin,troy46@example.net,North Laura,Premium
+57,Stacy Taylor,ana51@example.net,Sandychester,Regular
+58,Charles Burke,jeffery62@example.org,North Hannahstad,Regular
+59,Meagan Reyes,brandonhorton@example.net,North Joann,Regular
+60,Sherry Gonzales,clinton35@example.net,West Tracyberg,Premium
+61,Travis Griffith,leroy79@example.net,Sullivanshire,Premium
+62,Fernando Carrillo,cantrellkenneth@example.com,West Jeremyshire,Premium
+63,Jason Chambers,larry13@example.org,Levyshire,Regular
+64,Patricia Bridges,randerson@example.org,South Marie,Premium
+65,Stephen Hernandez,emmascott@example.org,New Tom,VIP
+66,William Griffin,thomasmitchell@example.net,New Donaldville,Regular
+67,Linda Wood,margaretclark@example.com,Jenniferland,Regular
+68,Barbara Johnson,kenneth06@example.org,New Reginald,Regular
+69,Diana Gonzalez,brandonsherman@example.org,North Patrick,Premium
+70,Jamie Ramsey,dfrazier@example.net,West Alexanderchester,Premium
+71,Martin Jones,tatebenjamin@example.net,North Taraton,Regular
+72,George Young,denise48@example.com,Delgadoburgh,VIP
+73,Trevor Hooper,mcfarlandjoseph@example.com,East Adamchester,Premium
+74,James Tate,llarson@example.org,East Christopherton,VIP
+75,Elizabeth Day,rodriguezjohn@example.com,West Matthewbury,VIP
+76,Ann Wilson,christopher79@example.net,Rachelburgh,Premium
+77,Dakota Carpenter,dustinlewis@example.org,Amyberg,VIP
+78,Timothy Thomas,laracourtney@example.org,Hortonside,VIP
+79,Veronica Griffin,morrisamber@example.com,West Ashleyhaven,Premium
+80,Chris Miller,oneillamy@example.net,Heathfort,VIP
+81,Michael Holt,bartlettjuan@example.net,Meagantown,VIP
+82,Ryan Howard,sara13@example.com,East Bernardfurt,Premium
+83,Alicia Dawson,gregorysamuel@example.org,Lake Richardville,Premium
+84,Stephanie Manning,glee@example.org,Christopherberg,VIP
+85,Ms. Katrina Baxter,wdouglas@example.org,Goodwinburgh,VIP
+86,Sara Thomas,dan72@example.net,Williamsmouth,VIP
+87,Emily Campbell,alexisgray@example.org,Patrickfort,Regular
+88,Cameron Allen,rgoodman@example.org,Robertsonbury,VIP
+89,Dr. Matthew Bauer,james22@example.com,West Kevinton,VIP
+90,Alexandra Romero,bakerjason@example.org,North Rachelmouth,Premium
+91,Joyce Moore,eellis@example.org,Wheelerchester,VIP
+92,Sarah Collins,cindy88@example.net,North Ryan,VIP
+93,Keith Rodriguez,kmiller@example.net,New Julie,Premium
+94,Jesse Davis,jessica40@example.net,Lake Dawn,Regular
+95,Kim Hamilton MD,stephanie44@example.net,Langport,VIP
+96,Melissa Brown,ecoleman@example.org,Port Angelaborough,Premium
+97,Nicole Nelson,isanchez@example.org,Jodiside,Premium
+98,Sheila Chan,walkerjeffrey@example.org,East Timothy,Premium
+99,Mary Parsons,madisonwilson@example.org,Allentown,Regular
+100,Nancy Ferguson,gonzalezmichelle@example.com,Ericland,Premium
