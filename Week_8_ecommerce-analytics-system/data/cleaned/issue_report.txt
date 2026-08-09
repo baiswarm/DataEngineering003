@@ -1,0 +1,2 @@
+Invalid emails found: 10
+Invalid order items found: 99
