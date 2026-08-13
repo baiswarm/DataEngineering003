@@ -76,7 +76,7 @@ DataEngineering003/
 ```
 
 
- Final Project
+**  Final Project
 Procurement & Vendor Spend Analytics Pipeline
 
 The final project brings together the data engineering concepts learned during the internship into an end-to-end procurement analytics pipeline.
@@ -94,7 +94,12 @@ SCD Type 2
 Gold
    ↓
 Business Insights
-Objective
+
+
+
+
+
+** Objective
 
 The project focuses on procurement data and aims to identify:
 
@@ -106,7 +111,7 @@ Historical changes in vendor contracts
 
 
 
-
+** TECHNOLOGIES :
 Python
 Pandas
 SQL
@@ -124,7 +129,7 @@ GitHub
 
 
 
-Purpose of the Repository
+** Purpose of the Repository
 
 This repository is maintained as a record of my assignments, practical work, and final project completed during the Celebal Technologies Data Engineering Internship 2026.
 
@@ -134,7 +139,7 @@ It also reflects the progression of my learning throughout the internship, start
 
 
 
-Author
+*Author
 
 Manas
 
