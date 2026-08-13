@@ -73,8 +73,10 @@ DataEngineering003/
     └── Procurement & Vendor Spend Analytics Pipeline
 
 
+```
 
-Final Project
+
+ Final Project
 Procurement & Vendor Spend Analytics Pipeline
 
 The final project brings together the data engineering concepts learned during the internship into an end-to-end procurement analytics pipeline.
