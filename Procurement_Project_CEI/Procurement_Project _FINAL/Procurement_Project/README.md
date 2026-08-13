@@ -71,8 +71,7 @@ Raw Procurement Data
 - Spark SQL
 - Delta Lake
 - Databricks
-- Azure Data Lake Storage Gen2
-- Git & GitHub
+
 
 ---
 
@@ -93,13 +92,7 @@ The raw data is ingested into Bronze Delta tables while preserving the original 
 
 The Bronze layer is responsible for raw data ingestion.
 
-### Responsibilities
 
-- Read raw CSV files.
-- Preserve source records.
-- Add `ingestion_timestamp`.
-- Add `source_file`.
-- Store the datasets as Delta tables.
 
 ### Bronze Tables
 
@@ -327,21 +320,7 @@ The project demonstrates an end-to-end data engineering workflow covering:
 
 ---
 
-## 9. Future Enhancements
 
-Possible future improvements include:
-
-- Power BI dashboard integration.
-- Automated pipeline scheduling.
-- Additional data quality monitoring.
-- Advanced vendor risk metrics.
-- Additional procurement KPIs and visualizations.
-
-> See `CHANGELOG_FIXES.md` for a full list of bugs found against the
-> project blueprint and what was corrected in each notebook, including
-> the SCD Type 2 logic and the contract-price-variance join.
-
----
 
 ## Conclusion
 
