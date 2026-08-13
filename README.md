@@ -1,6 +1,6 @@
 # Celebal Technologies | Data Engineering Internship 2026
 
-**Intern:** Manas  
+**Intern:** Manas  Baiswar
 **Program:** Celebal Excellence Internship Program 2026  
 **Organization:** Celebal Technologies  
 **Domain:** Data Engineering  
@@ -107,6 +107,6 @@ This project leverages industry-standard tools for building scalable data pipeli
 
 ## 👤 About the Author
 
-**Manas**
+**Manas Baiswar**
 *   **Role:** Data Engineering Intern | Celebal Technologies
 *   **Education:** B.Tech CSE (Cybersecurity & Privacy) | DIT University
