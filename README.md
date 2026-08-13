@@ -76,74 +76,37 @@ DataEngineering003/
 ```
 
 
-**  Final Project
-Procurement & Vendor Spend Analytics Pipeline
+## 🚀 Final Project: Procurement & Vendor Spend Analytics
 
-The final project brings together the data engineering concepts learned during the internship into an end-to-end procurement analytics pipeline.
+The cornerstone of this repository is the **Procurement & Vendor Spend Analytics Pipeline**, an end-to-end data solution designed to transform raw procurement data into actionable business intelligence using a **Medallion Architecture**.
 
-The project follows a Medallion Architecture:
+### Architecture Workflow
+*   **Raw Data** → **Bronze** → **Silver** → **SCD Type 2** → **Gold** → **Business Insights**
 
-Raw Data
-   ↓
-Bronze
-   ↓
-Silver
-   ↓
-SCD Type 2
-   ↓
-Gold
-   ↓
-Business Insights
+### Project Objectives
+*   **Vendor Spend Analysis:** Track and analyze total expenditures per vendor.
+*   **Price Variance:** Identify discrepancies between invoice prices and contract rates.
+*   **Vendor Risk Assessment:** Evaluate and categorize vendor-related risks.
+*   **Regional Insights:** Map and visualize spending patterns across different regions.
+*   **Historical Tracking:** Manage and audit historical changes in vendor contracts using **SCD Type 2** techniques.
 
+---
 
+## 🛠️ Tech Stack
 
+This project leverages industry-standard tools for building scalable data pipelines:
 
+*   **Programming:** Python, Pandas, SQL
+*   **Big Data & Processing:** PySpark, Apache Spark, Spark SQL
+*   **Data Lake & Storage:** Azure Data Lake Storage Gen2 (ADLS)
+*   **Platform:** Databricks, Azure Data Factory (ADF)
+*   **Data Modeling:** Delta Lake
+*   **Version Control:** Git, GitHub
 
-** Objective
+---
 
-The project focuses on procurement data and aims to identify:
+## 👤 About the Author
 
-Vendor spending
-Invoice and contract price differences
-Vendor risk
-Regional spending patterns
-Historical changes in vendor contracts
-
-
-
-** TECHNOLOGIES :
-Python
-Pandas
-SQL
-PySpark
-Apache Spark
-Spark SQL
-Azure Data Factory
-Databricks
-Delta Lake
-Azure Data Lake Storage Gen2
-Git
-GitHub
-
-
-
-
-
-** Purpose of the Repository
-
-This repository is maintained as a record of my assignments, practical work, and final project completed during the Celebal Technologies Data Engineering Internship 2026.
-
-It also reflects the progression of my learning throughout the internship, starting with fundamental data handling and moving towards complete data engineering workflows.
-
-
-
-
-
-*Author
-
-Manas
-
-B.Tech CSE — Cybersecurity & Privacy
-DIT University
-
-Data Engineering Intern — Celebal Technologies
+**Manas**
+*   **Role:** Data Engineering Intern | Celebal Technologies
+*   **Education:** B.Tech CSE (Cybersecurity & Privacy) | DIT University
