@@ -1,4 +1,4 @@
-
+# Databricks notebook source
 
 from pyspark.sql.functions import current_timestamp, lit
 
