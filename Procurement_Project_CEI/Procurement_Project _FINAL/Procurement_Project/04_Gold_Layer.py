@@ -1,26 +1,4 @@
-# Databricks notebook source
-# FIX LOG (see CHANGELOG_FIXES.md):
-#   - One cell was bare `sql\nSELECT * FROM ...` with NO `# MAGIC %sql`
-#     prefix. Databricks would run that as plain Python -> `sql` is an
-#     undefined name -> NameError. This crashed "Run All" partway
-#     through the notebook. Fixed: proper # MAGIC %sql cell.
-#   - gold_price_variance_report joined orders/invoices to contracts on
-#     vendor_id ONLY (not item_name), and filtered `WHERE c.is_active =
-#     true`, which always pulls the CURRENT contract regardless of when
-#     the purchase actually happened. That silently defeats the entire
-#     point of building SCD2: the "price variance" numbers were being
-#     computed against today's price, not the price that was active on
-#     each purchase's own date. Fixed: join on vendor_id AND item_name,
-#     and match the PO's date inside the matching contract version's
-#     [start_date, end_date] window.
-#   - gold_vendor_risk_classification used flat dollar thresholds
-#     (>1000 / >500) instead of the blueprint's percentage-variance rule,
-#     and never looked at payment_status at all, so the "AND/OR has
-#     overdue invoices" condition was simply missing. Fixed to match the
-#     blueprint's rule exactly.
-#   - gold_regional_spend_analysis had no ORDER BY and no ranking, so it
-#     didn't actually "show top vendors per region" as required, and
-#     skipped the bonus DENSE_RANK() window function entirely. Fixed.
+
 
 silver_orders = spark.table("workspace.default.silver_orders")
 silver_invoices = spark.table("workspace.default.silver_invoices")
@@ -51,9 +29,7 @@ silver_orders.printSchema()
 
 # COMMAND ----------
 
-# FIXED: this cell was plain `sql\nSELECT ...` with no # MAGIC %sql
-# prefix, which Databricks runs as Python and crashes on `sql` being an
-# undefined name. Now a proper SQL cell.
+
 # MAGIC %sql
 # MAGIC SELECT *
 # MAGIC FROM workspace.default.gold_vendor_spend_summary
@@ -61,14 +37,7 @@ silver_orders.printSchema()
 
 # COMMAND ----------
 
-# FIXED: original joined ON o.vendor_id = c.vendor_id only (missing
-# item_name -> fans out across every item a vendor sells) and filtered
-# `WHERE c.is_active = true` (always the CURRENT contract, not the one
-# active when the PO happened). Now joins on vendor_id AND item_name,
-# and matches the PO's own date into the contract's [start_date,
-# end_date] window, so each purchase is compared against the price that
-# was genuinely in force on that date - this is the actual business
-# question the blueprint asks the project to answer.
+
 # MAGIC %sql
 # MAGIC CREATE OR REPLACE TABLE workspace.default.gold_price_variance_report AS
 # MAGIC WITH variance_data AS (
@@ -106,14 +75,7 @@ silver_orders.printSchema()
 
 # COMMAND ----------
 
-# FIXED: was flat dollar thresholds (>1000 / >500) with no reference to
-# payment_status at all. Now uses percentage variance (variance relative
-# to the contract price, not a raw dollar amount that means different
-# things for a $10 item vs a $10,000 item) combined with an overdue-
-# invoice flag, matching the blueprint's rule exactly:
-#   High Risk   = avg % variance > 10 AND has an overdue invoice
-#   Medium Risk = avg % variance > 5  OR  has an overdue invoice
-#   Low Risk    = everything else
+
 # MAGIC %sql
 # MAGIC CREATE OR REPLACE TABLE workspace.default.gold_vendor_risk_classification AS
 # MAGIC WITH pct_variance AS (
@@ -145,9 +107,7 @@ silver_orders.printSchema()
 
 # COMMAND ----------
 
-# FIXED: added ORDER BY plus the bonus DENSE_RANK() window function so
-# this table actually "shows top vendors per region" as the blueprint
-# asks, instead of an unranked, unordered aggregate.
+
 # MAGIC %sql
 # MAGIC CREATE OR REPLACE TABLE workspace.default.gold_regional_spend_analysis AS
 # MAGIC WITH regional AS (
