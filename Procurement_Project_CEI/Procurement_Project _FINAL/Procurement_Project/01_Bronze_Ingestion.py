@@ -27,8 +27,7 @@ vendors_df = (
     .withColumn("source_file", lit("vendors"))
 )
 
-# --- Option B: reading raw CSVs from ADLS Gen2 (uncomment + fill in path) ---
-# adls_path = "abfss://<container>@<storage_account>.dfs.core.windows.net/raw"
+
 #
 # orders_df = (
 #     spark.read.option("header", True).option("inferSchema", True)
